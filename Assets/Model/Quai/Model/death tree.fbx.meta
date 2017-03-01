@@ -1,0 +1,1011 @@
+fileFormatVersion: 2
+guid: 3c93838989ace394da81e020121b343d
+timeCreated: 1462327760
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: co
+    100002: de_ham
+    100004: //RootNode
+    100006: duoi_joint43
+    100008: duoi_joint44
+    100010: duoi_joint45
+    100012: duoi_joint46
+    100014: duoi_joint47
+    100016: duoi_joint48
+    100018: duoi_joint49
+    100020: duoi_joint50
+    100022: duoi_joint51
+    100024: duoi_joint52
+    100026: duoi_joint53
+    100028: duoi_joint54
+    100030: duoi_joint55
+    100032: duoi_joint56
+    100034: duoi_joint57
+    100036: duoi_joint58
+    100038: duoi_joint59
+    100040: duoi_joint60
+    100042: duoi_joint61
+    100044: Geo
+    100046: GEO_DEATH_TREE
+    100048: ham_duoi_joint16
+    100050: ham_duoi_joint17
+    100052: ham_duoi_joint18
+    100054: ham_duoi_joint19
+    100056: ham_duoi_joint20
+    100058: ham_duoi_joint21
+    100060: ham_duoi_joint62
+    100062: ham_duoi_joint63
+    100064: ham_duoi_joint64
+    100066: ham_duoi_joint65
+    100068: ham_duoi_joint66
+    100070: ham_duoi_joint67
+    100072: ham_duoi_joint68
+    100074: ham_duoi_joint69
+    100076: ham_duoi_joint70
+    100078: ham_duoi_joint71
+    100080: ham_duoi_joint72
+    100082: ham_duoi_joint73
+    100084: ham_duoi_joint74
+    100086: ham_duoi_joint75
+    100088: ham_duoi_joint76
+    100090: ham_end
+    100092: ham_tren_joint10
+    100094: ham_tren_joint11
+    100096: ham_tren_joint12
+    100098: ham_tren_joint13
+    100100: ham_tren_joint14
+    100102: ham_tren_joint15
+    100104: ham_tren_joint8
+    100106: ham_tren_joint9
+    100108: joint1
+    100110: joint2
+    100112: joint3
+    100114: joint4
+    100116: joint5
+    100118: joint6
+    100120: joint7
+    100122: luoi_joint22
+    100124: luoi_joint23
+    100126: luoi_joint24
+    100128: luoi_joint25
+    100130: luoi_joint26
+    100132: luoi_joint27
+    100134: tay_so_1_joint34
+    100136: tay_so_1_joint35
+    100138: tay_so_1_joint36
+    100140: tay_so_1_joint37
+    100142: tay_so_1_joint38
+    100144: tay_so_1_joint39
+    100146: tay_so_1_joint40
+    100148: tay_so_1_joint41
+    100150: tay_so_1_joint42
+    100152: tay_so_2_joint28
+    100154: tay_so_2_joint29
+    100156: tay_so_2_joint30
+    100158: tay_so_2_joint31
+    100160: tay_so_2_joint32
+    100162: tay_so_2_joint33
+    400000: co
+    400002: de_ham
+    400004: //RootNode
+    400006: duoi_joint43
+    400008: duoi_joint44
+    400010: duoi_joint45
+    400012: duoi_joint46
+    400014: duoi_joint47
+    400016: duoi_joint48
+    400018: duoi_joint49
+    400020: duoi_joint50
+    400022: duoi_joint51
+    400024: duoi_joint52
+    400026: duoi_joint53
+    400028: duoi_joint54
+    400030: duoi_joint55
+    400032: duoi_joint56
+    400034: duoi_joint57
+    400036: duoi_joint58
+    400038: duoi_joint59
+    400040: duoi_joint60
+    400042: duoi_joint61
+    400044: Geo
+    400046: GEO_DEATH_TREE
+    400048: ham_duoi_joint16
+    400050: ham_duoi_joint17
+    400052: ham_duoi_joint18
+    400054: ham_duoi_joint19
+    400056: ham_duoi_joint20
+    400058: ham_duoi_joint21
+    400060: ham_duoi_joint62
+    400062: ham_duoi_joint63
+    400064: ham_duoi_joint64
+    400066: ham_duoi_joint65
+    400068: ham_duoi_joint66
+    400070: ham_duoi_joint67
+    400072: ham_duoi_joint68
+    400074: ham_duoi_joint69
+    400076: ham_duoi_joint70
+    400078: ham_duoi_joint71
+    400080: ham_duoi_joint72
+    400082: ham_duoi_joint73
+    400084: ham_duoi_joint74
+    400086: ham_duoi_joint75
+    400088: ham_duoi_joint76
+    400090: ham_end
+    400092: ham_tren_joint10
+    400094: ham_tren_joint11
+    400096: ham_tren_joint12
+    400098: ham_tren_joint13
+    400100: ham_tren_joint14
+    400102: ham_tren_joint15
+    400104: ham_tren_joint8
+    400106: ham_tren_joint9
+    400108: joint1
+    400110: joint2
+    400112: joint3
+    400114: joint4
+    400116: joint5
+    400118: joint6
+    400120: joint7
+    400122: luoi_joint22
+    400124: luoi_joint23
+    400126: luoi_joint24
+    400128: luoi_joint25
+    400130: luoi_joint26
+    400132: luoi_joint27
+    400134: tay_so_1_joint34
+    400136: tay_so_1_joint35
+    400138: tay_so_1_joint36
+    400140: tay_so_1_joint37
+    400142: tay_so_1_joint38
+    400144: tay_so_1_joint39
+    400146: tay_so_1_joint40
+    400148: tay_so_1_joint41
+    400150: tay_so_1_joint42
+    400152: tay_so_2_joint28
+    400154: tay_so_2_joint29
+    400156: tay_so_2_joint30
+    400158: tay_so_2_joint31
+    400160: tay_so_2_joint32
+    400162: tay_so_2_joint33
+    4300000: Geo
+    7400000: Idle
+    7400002: Bithuong
+    7400004: Attack
+    7400006: Die
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Geo
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 77
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: GEO_DEATH_TREE
+        weight: 1
+      - path: GEO_DEATH_TREE/Geo
+        weight: 1
+      - path: joint1
+        weight: 1
+      - path: joint1/joint2
+        weight: 1
+      - path: joint1/joint2/de_ham
+        weight: 1
+      - path: joint1/joint2/de_ham/ham_end
+        weight: 1
+      - path: joint1/joint2/de_ham/luoi_joint22
+        weight: 1
+      - path: joint1/joint2/de_ham/luoi_joint22/luoi_joint23
+        weight: 1
+      - path: joint1/joint2/de_ham/luoi_joint22/luoi_joint23/luoi_joint24
+        weight: 1
+      - path: joint1/joint2/de_ham/luoi_joint22/luoi_joint23/luoi_joint24/luoi_joint25
+        weight: 1
+      - path: joint1/joint2/de_ham/luoi_joint22/luoi_joint23/luoi_joint24/luoi_joint25/luoi_joint26
+        weight: 1
+      - path: joint1/joint2/de_ham/luoi_joint22/luoi_joint23/luoi_joint24/luoi_joint25/luoi_joint26/luoi_joint27
+        weight: 1
+      - path: joint1/joint2/joint3
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint48
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint48/duoi_joint49
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint48/duoi_joint49/duoi_joint50
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint48/duoi_joint49/duoi_joint50/duoi_joint51
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint48/duoi_joint49/duoi_joint50/duoi_joint51/duoi_joint52
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint53
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint53/duoi_joint54
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint53/duoi_joint54/duoi_joint55
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint53/duoi_joint54/duoi_joint55/duoi_joint56
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint53/duoi_joint54/duoi_joint55/duoi_joint56/duoi_joint57
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint58
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint58/duoi_joint59
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint58/duoi_joint59/duoi_joint60
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint58/duoi_joint59/duoi_joint60/duoi_joint61
+        weight: 1
+      - path: joint1/joint2/joint3/joint4
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint62
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint62/ham_duoi_joint63
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint62/ham_duoi_joint63/ham_duoi_joint64
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint62/ham_duoi_joint63/ham_duoi_joint64/ham_duoi_joint65
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint62/ham_duoi_joint63/ham_duoi_joint64/ham_duoi_joint65/ham_duoi_joint66
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint67
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint67/ham_duoi_joint68
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint67/ham_duoi_joint68/ham_duoi_joint69
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint67/ham_duoi_joint68/ham_duoi_joint69/ham_duoi_joint70
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint67/ham_duoi_joint68/ham_duoi_joint69/ham_duoi_joint70/ham_duoi_joint71
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint72
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint72/ham_duoi_joint73
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint72/ham_duoi_joint73/ham_duoi_joint74
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint72/ham_duoi_joint73/ham_duoi_joint74/ham_duoi_joint75
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint72/ham_duoi_joint73/ham_duoi_joint74/ham_duoi_joint75/ham_duoi_joint76
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_tren_joint8
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_tren_joint8/ham_tren_joint9
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_tren_joint8/ham_tren_joint9/ham_tren_joint10
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_tren_joint8/ham_tren_joint9/ham_tren_joint10/ham_tren_joint11
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_tren_joint8/ham_tren_joint9/ham_tren_joint10/ham_tren_joint11/ham_tren_joint12
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_tren_joint8/ham_tren_joint9/ham_tren_joint10/ham_tren_joint11/ham_tren_joint12/ham_tren_joint13
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_tren_joint8/ham_tren_joint9/ham_tren_joint10/ham_tren_joint11/ham_tren_joint12/ham_tren_joint13/ham_tren_joint14
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_tren_joint8/ham_tren_joint9/ham_tren_joint10/ham_tren_joint11/ham_tren_joint12/ham_tren_joint13/ham_tren_joint14/ham_tren_joint15
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_1_joint34
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_1_joint34/tay_so_1_joint35
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_1_joint34/tay_so_1_joint35/tay_so_1_joint36
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_1_joint34/tay_so_1_joint35/tay_so_1_joint36/tay_so_1_joint37
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_1_joint34/tay_so_1_joint35/tay_so_1_joint36/tay_so_1_joint37/tay_so_1_joint38
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_1_joint34/tay_so_1_joint35/tay_so_1_joint36/tay_so_1_joint37/tay_so_1_joint38/tay_so_1_joint39
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_1_joint34/tay_so_1_joint35/tay_so_1_joint36/tay_so_1_joint40
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_1_joint34/tay_so_1_joint35/tay_so_1_joint36/tay_so_1_joint40/tay_so_1_joint41
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_1_joint34/tay_so_1_joint35/tay_so_1_joint36/tay_so_1_joint40/tay_so_1_joint41/tay_so_1_joint42
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_2_joint28
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_2_joint28/tay_so_2_joint29
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_2_joint28/tay_so_2_joint29/tay_so_2_joint30
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_2_joint28/tay_so_2_joint29/tay_so_2_joint30/tay_so_2_joint31
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_2_joint28/tay_so_2_joint29/tay_so_2_joint30/tay_so_2_joint31/tay_so_2_joint32
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_2_joint28/tay_so_2_joint29/tay_so_2_joint30/tay_so_2_joint31/tay_so_2_joint32/tay_so_2_joint33
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bithuong
+      takeName: Take 001
+      firstFrame: 100
+      lastFrame: 130
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: GEO_DEATH_TREE
+        weight: 1
+      - path: GEO_DEATH_TREE/Geo
+        weight: 1
+      - path: joint1
+        weight: 1
+      - path: joint1/joint2
+        weight: 1
+      - path: joint1/joint2/de_ham
+        weight: 1
+      - path: joint1/joint2/de_ham/ham_end
+        weight: 1
+      - path: joint1/joint2/de_ham/luoi_joint22
+        weight: 1
+      - path: joint1/joint2/de_ham/luoi_joint22/luoi_joint23
+        weight: 1
+      - path: joint1/joint2/de_ham/luoi_joint22/luoi_joint23/luoi_joint24
+        weight: 1
+      - path: joint1/joint2/de_ham/luoi_joint22/luoi_joint23/luoi_joint24/luoi_joint25
+        weight: 1
+      - path: joint1/joint2/de_ham/luoi_joint22/luoi_joint23/luoi_joint24/luoi_joint25/luoi_joint26
+        weight: 1
+      - path: joint1/joint2/de_ham/luoi_joint22/luoi_joint23/luoi_joint24/luoi_joint25/luoi_joint26/luoi_joint27
+        weight: 1
+      - path: joint1/joint2/joint3
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint48
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint48/duoi_joint49
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint48/duoi_joint49/duoi_joint50
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint48/duoi_joint49/duoi_joint50/duoi_joint51
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint48/duoi_joint49/duoi_joint50/duoi_joint51/duoi_joint52
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint53
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint53/duoi_joint54
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint53/duoi_joint54/duoi_joint55
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint53/duoi_joint54/duoi_joint55/duoi_joint56
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint53/duoi_joint54/duoi_joint55/duoi_joint56/duoi_joint57
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint58
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint58/duoi_joint59
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint58/duoi_joint59/duoi_joint60
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint58/duoi_joint59/duoi_joint60/duoi_joint61
+        weight: 1
+      - path: joint1/joint2/joint3/joint4
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint62
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint62/ham_duoi_joint63
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint62/ham_duoi_joint63/ham_duoi_joint64
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint62/ham_duoi_joint63/ham_duoi_joint64/ham_duoi_joint65
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint62/ham_duoi_joint63/ham_duoi_joint64/ham_duoi_joint65/ham_duoi_joint66
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint67
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint67/ham_duoi_joint68
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint67/ham_duoi_joint68/ham_duoi_joint69
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint67/ham_duoi_joint68/ham_duoi_joint69/ham_duoi_joint70
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint67/ham_duoi_joint68/ham_duoi_joint69/ham_duoi_joint70/ham_duoi_joint71
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint72
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint72/ham_duoi_joint73
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint72/ham_duoi_joint73/ham_duoi_joint74
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint72/ham_duoi_joint73/ham_duoi_joint74/ham_duoi_joint75
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint72/ham_duoi_joint73/ham_duoi_joint74/ham_duoi_joint75/ham_duoi_joint76
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_tren_joint8
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_tren_joint8/ham_tren_joint9
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_tren_joint8/ham_tren_joint9/ham_tren_joint10
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_tren_joint8/ham_tren_joint9/ham_tren_joint10/ham_tren_joint11
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_tren_joint8/ham_tren_joint9/ham_tren_joint10/ham_tren_joint11/ham_tren_joint12
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_tren_joint8/ham_tren_joint9/ham_tren_joint10/ham_tren_joint11/ham_tren_joint12/ham_tren_joint13
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_tren_joint8/ham_tren_joint9/ham_tren_joint10/ham_tren_joint11/ham_tren_joint12/ham_tren_joint13/ham_tren_joint14
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_tren_joint8/ham_tren_joint9/ham_tren_joint10/ham_tren_joint11/ham_tren_joint12/ham_tren_joint13/ham_tren_joint14/ham_tren_joint15
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_1_joint34
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_1_joint34/tay_so_1_joint35
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_1_joint34/tay_so_1_joint35/tay_so_1_joint36
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_1_joint34/tay_so_1_joint35/tay_so_1_joint36/tay_so_1_joint37
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_1_joint34/tay_so_1_joint35/tay_so_1_joint36/tay_so_1_joint37/tay_so_1_joint38
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_1_joint34/tay_so_1_joint35/tay_so_1_joint36/tay_so_1_joint37/tay_so_1_joint38/tay_so_1_joint39
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_1_joint34/tay_so_1_joint35/tay_so_1_joint36/tay_so_1_joint40
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_1_joint34/tay_so_1_joint35/tay_so_1_joint36/tay_so_1_joint40/tay_so_1_joint41
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_1_joint34/tay_so_1_joint35/tay_so_1_joint36/tay_so_1_joint40/tay_so_1_joint41/tay_so_1_joint42
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_2_joint28
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_2_joint28/tay_so_2_joint29
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_2_joint28/tay_so_2_joint29/tay_so_2_joint30
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_2_joint28/tay_so_2_joint29/tay_so_2_joint30/tay_so_2_joint31
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_2_joint28/tay_so_2_joint29/tay_so_2_joint30/tay_so_2_joint31/tay_so_2_joint32
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_2_joint28/tay_so_2_joint29/tay_so_2_joint30/tay_so_2_joint31/tay_so_2_joint32/tay_so_2_joint33
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attack
+      takeName: Take 001
+      firstFrame: 150
+      lastFrame: 190
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: GEO_DEATH_TREE
+        weight: 1
+      - path: GEO_DEATH_TREE/Geo
+        weight: 1
+      - path: joint1
+        weight: 1
+      - path: joint1/joint2
+        weight: 1
+      - path: joint1/joint2/de_ham
+        weight: 1
+      - path: joint1/joint2/de_ham/ham_end
+        weight: 1
+      - path: joint1/joint2/de_ham/luoi_joint22
+        weight: 1
+      - path: joint1/joint2/de_ham/luoi_joint22/luoi_joint23
+        weight: 1
+      - path: joint1/joint2/de_ham/luoi_joint22/luoi_joint23/luoi_joint24
+        weight: 1
+      - path: joint1/joint2/de_ham/luoi_joint22/luoi_joint23/luoi_joint24/luoi_joint25
+        weight: 1
+      - path: joint1/joint2/de_ham/luoi_joint22/luoi_joint23/luoi_joint24/luoi_joint25/luoi_joint26
+        weight: 1
+      - path: joint1/joint2/de_ham/luoi_joint22/luoi_joint23/luoi_joint24/luoi_joint25/luoi_joint26/luoi_joint27
+        weight: 1
+      - path: joint1/joint2/joint3
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint48
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint48/duoi_joint49
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint48/duoi_joint49/duoi_joint50
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint48/duoi_joint49/duoi_joint50/duoi_joint51
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint48/duoi_joint49/duoi_joint50/duoi_joint51/duoi_joint52
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint53
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint53/duoi_joint54
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint53/duoi_joint54/duoi_joint55
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint53/duoi_joint54/duoi_joint55/duoi_joint56
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint53/duoi_joint54/duoi_joint55/duoi_joint56/duoi_joint57
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint58
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint58/duoi_joint59
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint58/duoi_joint59/duoi_joint60
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint58/duoi_joint59/duoi_joint60/duoi_joint61
+        weight: 1
+      - path: joint1/joint2/joint3/joint4
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint62
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint62/ham_duoi_joint63
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint62/ham_duoi_joint63/ham_duoi_joint64
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint62/ham_duoi_joint63/ham_duoi_joint64/ham_duoi_joint65
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint62/ham_duoi_joint63/ham_duoi_joint64/ham_duoi_joint65/ham_duoi_joint66
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint67
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint67/ham_duoi_joint68
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint67/ham_duoi_joint68/ham_duoi_joint69
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint67/ham_duoi_joint68/ham_duoi_joint69/ham_duoi_joint70
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint67/ham_duoi_joint68/ham_duoi_joint69/ham_duoi_joint70/ham_duoi_joint71
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint72
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint72/ham_duoi_joint73
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint72/ham_duoi_joint73/ham_duoi_joint74
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint72/ham_duoi_joint73/ham_duoi_joint74/ham_duoi_joint75
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint72/ham_duoi_joint73/ham_duoi_joint74/ham_duoi_joint75/ham_duoi_joint76
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_tren_joint8
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_tren_joint8/ham_tren_joint9
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_tren_joint8/ham_tren_joint9/ham_tren_joint10
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_tren_joint8/ham_tren_joint9/ham_tren_joint10/ham_tren_joint11
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_tren_joint8/ham_tren_joint9/ham_tren_joint10/ham_tren_joint11/ham_tren_joint12
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_tren_joint8/ham_tren_joint9/ham_tren_joint10/ham_tren_joint11/ham_tren_joint12/ham_tren_joint13
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_tren_joint8/ham_tren_joint9/ham_tren_joint10/ham_tren_joint11/ham_tren_joint12/ham_tren_joint13/ham_tren_joint14
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_tren_joint8/ham_tren_joint9/ham_tren_joint10/ham_tren_joint11/ham_tren_joint12/ham_tren_joint13/ham_tren_joint14/ham_tren_joint15
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_1_joint34
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_1_joint34/tay_so_1_joint35
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_1_joint34/tay_so_1_joint35/tay_so_1_joint36
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_1_joint34/tay_so_1_joint35/tay_so_1_joint36/tay_so_1_joint37
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_1_joint34/tay_so_1_joint35/tay_so_1_joint36/tay_so_1_joint37/tay_so_1_joint38
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_1_joint34/tay_so_1_joint35/tay_so_1_joint36/tay_so_1_joint37/tay_so_1_joint38/tay_so_1_joint39
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_1_joint34/tay_so_1_joint35/tay_so_1_joint36/tay_so_1_joint40
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_1_joint34/tay_so_1_joint35/tay_so_1_joint36/tay_so_1_joint40/tay_so_1_joint41
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_1_joint34/tay_so_1_joint35/tay_so_1_joint36/tay_so_1_joint40/tay_so_1_joint41/tay_so_1_joint42
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_2_joint28
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_2_joint28/tay_so_2_joint29
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_2_joint28/tay_so_2_joint29/tay_so_2_joint30
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_2_joint28/tay_so_2_joint29/tay_so_2_joint30/tay_so_2_joint31
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_2_joint28/tay_so_2_joint29/tay_so_2_joint30/tay_so_2_joint31/tay_so_2_joint32
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_2_joint28/tay_so_2_joint29/tay_so_2_joint30/tay_so_2_joint31/tay_so_2_joint32/tay_so_2_joint33
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Die
+      takeName: Take 001
+      firstFrame: 200
+      lastFrame: 250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: GEO_DEATH_TREE
+        weight: 1
+      - path: GEO_DEATH_TREE/Geo
+        weight: 1
+      - path: joint1
+        weight: 1
+      - path: joint1/joint2
+        weight: 1
+      - path: joint1/joint2/de_ham
+        weight: 1
+      - path: joint1/joint2/de_ham/ham_end
+        weight: 1
+      - path: joint1/joint2/de_ham/luoi_joint22
+        weight: 1
+      - path: joint1/joint2/de_ham/luoi_joint22/luoi_joint23
+        weight: 1
+      - path: joint1/joint2/de_ham/luoi_joint22/luoi_joint23/luoi_joint24
+        weight: 1
+      - path: joint1/joint2/de_ham/luoi_joint22/luoi_joint23/luoi_joint24/luoi_joint25
+        weight: 1
+      - path: joint1/joint2/de_ham/luoi_joint22/luoi_joint23/luoi_joint24/luoi_joint25/luoi_joint26
+        weight: 1
+      - path: joint1/joint2/de_ham/luoi_joint22/luoi_joint23/luoi_joint24/luoi_joint25/luoi_joint26/luoi_joint27
+        weight: 1
+      - path: joint1/joint2/joint3
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint48
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint48/duoi_joint49
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint48/duoi_joint49/duoi_joint50
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint48/duoi_joint49/duoi_joint50/duoi_joint51
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint48/duoi_joint49/duoi_joint50/duoi_joint51/duoi_joint52
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint53
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint53/duoi_joint54
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint53/duoi_joint54/duoi_joint55
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint53/duoi_joint54/duoi_joint55/duoi_joint56
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint53/duoi_joint54/duoi_joint55/duoi_joint56/duoi_joint57
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint58
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint58/duoi_joint59
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint58/duoi_joint59/duoi_joint60
+        weight: 1
+      - path: joint1/joint2/joint3/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint58/duoi_joint59/duoi_joint60/duoi_joint61
+        weight: 1
+      - path: joint1/joint2/joint3/joint4
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint62
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint62/ham_duoi_joint63
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint62/ham_duoi_joint63/ham_duoi_joint64
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint62/ham_duoi_joint63/ham_duoi_joint64/ham_duoi_joint65
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint62/ham_duoi_joint63/ham_duoi_joint64/ham_duoi_joint65/ham_duoi_joint66
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint67
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint67/ham_duoi_joint68
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint67/ham_duoi_joint68/ham_duoi_joint69
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint67/ham_duoi_joint68/ham_duoi_joint69/ham_duoi_joint70
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint67/ham_duoi_joint68/ham_duoi_joint69/ham_duoi_joint70/ham_duoi_joint71
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint72
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint72/ham_duoi_joint73
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint72/ham_duoi_joint73/ham_duoi_joint74
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint72/ham_duoi_joint73/ham_duoi_joint74/ham_duoi_joint75
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_duoi_joint16/ham_duoi_joint17/ham_duoi_joint18/ham_duoi_joint19/ham_duoi_joint20/ham_duoi_joint21/ham_duoi_joint72/ham_duoi_joint73/ham_duoi_joint74/ham_duoi_joint75/ham_duoi_joint76
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_tren_joint8
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_tren_joint8/ham_tren_joint9
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_tren_joint8/ham_tren_joint9/ham_tren_joint10
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_tren_joint8/ham_tren_joint9/ham_tren_joint10/ham_tren_joint11
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_tren_joint8/ham_tren_joint9/ham_tren_joint10/ham_tren_joint11/ham_tren_joint12
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_tren_joint8/ham_tren_joint9/ham_tren_joint10/ham_tren_joint11/ham_tren_joint12/ham_tren_joint13
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_tren_joint8/ham_tren_joint9/ham_tren_joint10/ham_tren_joint11/ham_tren_joint12/ham_tren_joint13/ham_tren_joint14
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/co/ham_tren_joint8/ham_tren_joint9/ham_tren_joint10/ham_tren_joint11/ham_tren_joint12/ham_tren_joint13/ham_tren_joint14/ham_tren_joint15
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_1_joint34
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_1_joint34/tay_so_1_joint35
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_1_joint34/tay_so_1_joint35/tay_so_1_joint36
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_1_joint34/tay_so_1_joint35/tay_so_1_joint36/tay_so_1_joint37
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_1_joint34/tay_so_1_joint35/tay_so_1_joint36/tay_so_1_joint37/tay_so_1_joint38
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_1_joint34/tay_so_1_joint35/tay_so_1_joint36/tay_so_1_joint37/tay_so_1_joint38/tay_so_1_joint39
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_1_joint34/tay_so_1_joint35/tay_so_1_joint36/tay_so_1_joint40
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_1_joint34/tay_so_1_joint35/tay_so_1_joint36/tay_so_1_joint40/tay_so_1_joint41
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_1_joint34/tay_so_1_joint35/tay_so_1_joint36/tay_so_1_joint40/tay_so_1_joint41/tay_so_1_joint42
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_2_joint28
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_2_joint28/tay_so_2_joint29
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_2_joint28/tay_so_2_joint29/tay_so_2_joint30
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_2_joint28/tay_so_2_joint29/tay_so_2_joint30/tay_so_2_joint31
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_2_joint28/tay_so_2_joint29/tay_so_2_joint30/tay_so_2_joint31/tay_so_2_joint32
+        weight: 1
+      - path: joint1/joint2/joint3/tay_so_2_joint28/tay_so_2_joint29/tay_so_2_joint30/tay_so_2_joint31/tay_so_2_joint32/tay_so_2_joint33
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

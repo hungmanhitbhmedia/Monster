@@ -1,0 +1,880 @@
+fileFormatVersion: 2
+guid: 57c1a917b26174542b35b25ff05a6335
+timeCreated: 1470362485
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Base_co
+    100002: Co
+    100004: Head
+    100006: //RootNode
+    100008: Master_Hong
+    100010: Mesh
+    100012: Phai_co_chan
+    100014: Phai_co_tay
+    100016: Phai_dau_goi
+    100018: Phai_dau_ngon_chan
+    100020: Phai_dui
+    100022: Phai_got_chan
+    100024: Phai_khuyu_tay
+    100026: Phai_mu_ban_chan
+    100028: Phai_mu_ban_tay
+    100030: Phai_ngon_3
+    100032: Phai_ngon_ap_ut_1
+    100034: Phai_ngon_ap_ut_2
+    100036: Phai_ngon_ap_ut_3
+    100038: Phai_ngon_ap_ut_4
+    100040: Phai_ngon_cai_1
+    100042: Phai_ngon_cai_2
+    100044: Phai_ngon_cai_3
+    100046: Phai_ngon_tro_1
+    100048: Phai_ngon_tro_2
+    100050: Phai_ngon_tro_3
+    100052: Phai_ngon_tro_4
+    100054: Phai_ngon_ut_1
+    100056: Phai_ngon_ut_2
+    100058: Phai_vai
+    100060: polySurface11
+    100062: Trai_co_chan
+    100064: Trai_co_tay
+    100066: Trai_dau_goi
+    100068: Trai_dau_ngon_chan
+    100070: Trai_dui
+    100072: Trai_got_chan
+    100074: Trai_khuyu_tay
+    100076: Trai_mu_ban_chan
+    100078: Trai_mu_ban_tay
+    100080: Trai_ngon_ap_ut_1
+    100082: Trai_ngon_ap_ut_2
+    100084: Trai_ngon_ap_ut_3
+    100086: Trai_ngon_ap_ut_4
+    100088: Trai_ngon_cai_1
+    100090: Trai_ngon_cai_2
+    100092: Trai_ngon_cai_3
+    100094: Trai_ngon_tro_1
+    100096: Trai_ngon_tro_2
+    100098: Trai_ngon_tro_3
+    100100: Trai_ngon_tro_4
+    100102: Trai_ngon_ut_1
+    100104: Trai_ngon_ut_2
+    100106: Trai_ngon_ut_3
+    100108: Trai_vai
+    400000: Base_co
+    400002: Co
+    400004: Head
+    400006: //RootNode
+    400008: Master_Hong
+    400010: Mesh
+    400012: Phai_co_chan
+    400014: Phai_co_tay
+    400016: Phai_dau_goi
+    400018: Phai_dau_ngon_chan
+    400020: Phai_dui
+    400022: Phai_got_chan
+    400024: Phai_khuyu_tay
+    400026: Phai_mu_ban_chan
+    400028: Phai_mu_ban_tay
+    400030: Phai_ngon_3
+    400032: Phai_ngon_ap_ut_1
+    400034: Phai_ngon_ap_ut_2
+    400036: Phai_ngon_ap_ut_3
+    400038: Phai_ngon_ap_ut_4
+    400040: Phai_ngon_cai_1
+    400042: Phai_ngon_cai_2
+    400044: Phai_ngon_cai_3
+    400046: Phai_ngon_tro_1
+    400048: Phai_ngon_tro_2
+    400050: Phai_ngon_tro_3
+    400052: Phai_ngon_tro_4
+    400054: Phai_ngon_ut_1
+    400056: Phai_ngon_ut_2
+    400058: Phai_vai
+    400060: polySurface11
+    400062: Trai_co_chan
+    400064: Trai_co_tay
+    400066: Trai_dau_goi
+    400068: Trai_dau_ngon_chan
+    400070: Trai_dui
+    400072: Trai_got_chan
+    400074: Trai_khuyu_tay
+    400076: Trai_mu_ban_chan
+    400078: Trai_mu_ban_tay
+    400080: Trai_ngon_ap_ut_1
+    400082: Trai_ngon_ap_ut_2
+    400084: Trai_ngon_ap_ut_3
+    400086: Trai_ngon_ap_ut_4
+    400088: Trai_ngon_cai_1
+    400090: Trai_ngon_cai_2
+    400092: Trai_ngon_cai_3
+    400094: Trai_ngon_tro_1
+    400096: Trai_ngon_tro_2
+    400098: Trai_ngon_tro_3
+    400100: Trai_ngon_tro_4
+    400102: Trai_ngon_ut_1
+    400104: Trai_ngon_ut_2
+    400106: Trai_ngon_ut_3
+    400108: Trai_vai
+    4300000: polySurface11
+    7400000: Bithuong
+    7400002: Chay
+    7400004: Tho
+    7400006: Attack
+    7400008: Chet
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: polySurface11
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Bithuong
+      takeName: lava ghoul_v3
+      firstFrame: 0
+      lastFrame: 36
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Master_Hong
+        weight: 1
+      - path: Master_Hong/Base_co
+        weight: 1
+      - path: Master_Hong/Base_co/Co
+        weight: 1
+      - path: Master_Hong/Base_co/Co/Head
+        weight: 1
+      - path: Master_Hong/Phai_dui
+        weight: 1
+      - path: Master_Hong/Phai_dui/Phai_dau_goi
+        weight: 1
+      - path: Master_Hong/Phai_dui/Phai_dau_goi/Phai_co_chan
+        weight: 1
+      - path: Master_Hong/Phai_dui/Phai_dau_goi/Phai_co_chan/Phai_got_chan
+        weight: 1
+      - path: Master_Hong/Phai_dui/Phai_dau_goi/Phai_co_chan/Phai_got_chan/Phai_mu_ban_chan
+        weight: 1
+      - path: Master_Hong/Phai_dui/Phai_dau_goi/Phai_co_chan/Phai_got_chan/Phai_mu_ban_chan/Phai_dau_ngon_chan
+        weight: 1
+      - path: Master_Hong/Phai_vai
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_ap_ut_1
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_ap_ut_1/Phai_ngon_ap_ut_2
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_ap_ut_1/Phai_ngon_ap_ut_2/Phai_ngon_ap_ut_3
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_ap_ut_1/Phai_ngon_ap_ut_2/Phai_ngon_ap_ut_3/Phai_ngon_ap_ut_4
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_cai_1
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_cai_1/Phai_ngon_cai_2
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_cai_1/Phai_ngon_cai_2/Phai_ngon_cai_3
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_tro_1
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_tro_1/Phai_ngon_tro_2
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_tro_1/Phai_ngon_tro_2/Phai_ngon_tro_3
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_tro_1/Phai_ngon_tro_2/Phai_ngon_tro_3/Phai_ngon_tro_4
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_ut_1
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_ut_1/Phai_ngon_ut_2
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_ut_1/Phai_ngon_ut_2/Phai_ngon_3
+        weight: 1
+      - path: Master_Hong/Trai_dui
+        weight: 1
+      - path: Master_Hong/Trai_dui/Trai_dau_goi
+        weight: 1
+      - path: Master_Hong/Trai_dui/Trai_dau_goi/Trai_co_chan
+        weight: 1
+      - path: Master_Hong/Trai_dui/Trai_dau_goi/Trai_co_chan/Trai_got_chan
+        weight: 1
+      - path: Master_Hong/Trai_dui/Trai_dau_goi/Trai_co_chan/Trai_got_chan/Trai_mu_ban_chan
+        weight: 1
+      - path: Master_Hong/Trai_dui/Trai_dau_goi/Trai_co_chan/Trai_got_chan/Trai_mu_ban_chan/Trai_dau_ngon_chan
+        weight: 1
+      - path: Master_Hong/Trai_vai
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_ap_ut_1
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_ap_ut_1/Trai_ngon_ap_ut_2
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_ap_ut_1/Trai_ngon_ap_ut_2/Trai_ngon_ap_ut_3
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_ap_ut_1/Trai_ngon_ap_ut_2/Trai_ngon_ap_ut_3/Trai_ngon_ap_ut_4
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_cai_1
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_cai_1/Trai_ngon_cai_2
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_cai_1/Trai_ngon_cai_2/Trai_ngon_cai_3
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_tro_1
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_tro_1/Trai_ngon_tro_2
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_tro_1/Trai_ngon_tro_2/Trai_ngon_tro_3
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_tro_1/Trai_ngon_tro_2/Trai_ngon_tro_3/Trai_ngon_tro_4
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_ut_1
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_ut_1/Trai_ngon_ut_2
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_ut_1/Trai_ngon_ut_2/Trai_ngon_ut_3
+        weight: 1
+      - path: Mesh
+        weight: 1
+      - path: Mesh/polySurface11
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Chay
+      takeName: lava ghoul_v3
+      firstFrame: 40
+      lastFrame: 64
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Master_Hong
+        weight: 1
+      - path: Master_Hong/Base_co
+        weight: 1
+      - path: Master_Hong/Base_co/Co
+        weight: 1
+      - path: Master_Hong/Base_co/Co/Head
+        weight: 1
+      - path: Master_Hong/Phai_dui
+        weight: 1
+      - path: Master_Hong/Phai_dui/Phai_dau_goi
+        weight: 1
+      - path: Master_Hong/Phai_dui/Phai_dau_goi/Phai_co_chan
+        weight: 1
+      - path: Master_Hong/Phai_dui/Phai_dau_goi/Phai_co_chan/Phai_got_chan
+        weight: 1
+      - path: Master_Hong/Phai_dui/Phai_dau_goi/Phai_co_chan/Phai_got_chan/Phai_mu_ban_chan
+        weight: 1
+      - path: Master_Hong/Phai_dui/Phai_dau_goi/Phai_co_chan/Phai_got_chan/Phai_mu_ban_chan/Phai_dau_ngon_chan
+        weight: 1
+      - path: Master_Hong/Phai_vai
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_ap_ut_1
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_ap_ut_1/Phai_ngon_ap_ut_2
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_ap_ut_1/Phai_ngon_ap_ut_2/Phai_ngon_ap_ut_3
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_ap_ut_1/Phai_ngon_ap_ut_2/Phai_ngon_ap_ut_3/Phai_ngon_ap_ut_4
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_cai_1
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_cai_1/Phai_ngon_cai_2
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_cai_1/Phai_ngon_cai_2/Phai_ngon_cai_3
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_tro_1
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_tro_1/Phai_ngon_tro_2
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_tro_1/Phai_ngon_tro_2/Phai_ngon_tro_3
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_tro_1/Phai_ngon_tro_2/Phai_ngon_tro_3/Phai_ngon_tro_4
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_ut_1
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_ut_1/Phai_ngon_ut_2
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_ut_1/Phai_ngon_ut_2/Phai_ngon_3
+        weight: 1
+      - path: Master_Hong/Trai_dui
+        weight: 1
+      - path: Master_Hong/Trai_dui/Trai_dau_goi
+        weight: 1
+      - path: Master_Hong/Trai_dui/Trai_dau_goi/Trai_co_chan
+        weight: 1
+      - path: Master_Hong/Trai_dui/Trai_dau_goi/Trai_co_chan/Trai_got_chan
+        weight: 1
+      - path: Master_Hong/Trai_dui/Trai_dau_goi/Trai_co_chan/Trai_got_chan/Trai_mu_ban_chan
+        weight: 1
+      - path: Master_Hong/Trai_dui/Trai_dau_goi/Trai_co_chan/Trai_got_chan/Trai_mu_ban_chan/Trai_dau_ngon_chan
+        weight: 1
+      - path: Master_Hong/Trai_vai
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_ap_ut_1
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_ap_ut_1/Trai_ngon_ap_ut_2
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_ap_ut_1/Trai_ngon_ap_ut_2/Trai_ngon_ap_ut_3
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_ap_ut_1/Trai_ngon_ap_ut_2/Trai_ngon_ap_ut_3/Trai_ngon_ap_ut_4
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_cai_1
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_cai_1/Trai_ngon_cai_2
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_cai_1/Trai_ngon_cai_2/Trai_ngon_cai_3
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_tro_1
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_tro_1/Trai_ngon_tro_2
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_tro_1/Trai_ngon_tro_2/Trai_ngon_tro_3
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_tro_1/Trai_ngon_tro_2/Trai_ngon_tro_3/Trai_ngon_tro_4
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_ut_1
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_ut_1/Trai_ngon_ut_2
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_ut_1/Trai_ngon_ut_2/Trai_ngon_ut_3
+        weight: 1
+      - path: Mesh
+        weight: 1
+      - path: Mesh/polySurface11
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Tho
+      takeName: lava ghoul_v3
+      firstFrame: 130
+      lastFrame: 148
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Master_Hong
+        weight: 1
+      - path: Master_Hong/Base_co
+        weight: 1
+      - path: Master_Hong/Base_co/Co
+        weight: 1
+      - path: Master_Hong/Base_co/Co/Head
+        weight: 1
+      - path: Master_Hong/Phai_dui
+        weight: 1
+      - path: Master_Hong/Phai_dui/Phai_dau_goi
+        weight: 1
+      - path: Master_Hong/Phai_dui/Phai_dau_goi/Phai_co_chan
+        weight: 1
+      - path: Master_Hong/Phai_dui/Phai_dau_goi/Phai_co_chan/Phai_got_chan
+        weight: 1
+      - path: Master_Hong/Phai_dui/Phai_dau_goi/Phai_co_chan/Phai_got_chan/Phai_mu_ban_chan
+        weight: 1
+      - path: Master_Hong/Phai_dui/Phai_dau_goi/Phai_co_chan/Phai_got_chan/Phai_mu_ban_chan/Phai_dau_ngon_chan
+        weight: 1
+      - path: Master_Hong/Phai_vai
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_ap_ut_1
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_ap_ut_1/Phai_ngon_ap_ut_2
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_ap_ut_1/Phai_ngon_ap_ut_2/Phai_ngon_ap_ut_3
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_ap_ut_1/Phai_ngon_ap_ut_2/Phai_ngon_ap_ut_3/Phai_ngon_ap_ut_4
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_cai_1
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_cai_1/Phai_ngon_cai_2
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_cai_1/Phai_ngon_cai_2/Phai_ngon_cai_3
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_tro_1
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_tro_1/Phai_ngon_tro_2
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_tro_1/Phai_ngon_tro_2/Phai_ngon_tro_3
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_tro_1/Phai_ngon_tro_2/Phai_ngon_tro_3/Phai_ngon_tro_4
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_ut_1
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_ut_1/Phai_ngon_ut_2
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_ut_1/Phai_ngon_ut_2/Phai_ngon_3
+        weight: 1
+      - path: Master_Hong/Trai_dui
+        weight: 1
+      - path: Master_Hong/Trai_dui/Trai_dau_goi
+        weight: 1
+      - path: Master_Hong/Trai_dui/Trai_dau_goi/Trai_co_chan
+        weight: 1
+      - path: Master_Hong/Trai_dui/Trai_dau_goi/Trai_co_chan/Trai_got_chan
+        weight: 1
+      - path: Master_Hong/Trai_dui/Trai_dau_goi/Trai_co_chan/Trai_got_chan/Trai_mu_ban_chan
+        weight: 1
+      - path: Master_Hong/Trai_dui/Trai_dau_goi/Trai_co_chan/Trai_got_chan/Trai_mu_ban_chan/Trai_dau_ngon_chan
+        weight: 1
+      - path: Master_Hong/Trai_vai
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_ap_ut_1
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_ap_ut_1/Trai_ngon_ap_ut_2
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_ap_ut_1/Trai_ngon_ap_ut_2/Trai_ngon_ap_ut_3
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_ap_ut_1/Trai_ngon_ap_ut_2/Trai_ngon_ap_ut_3/Trai_ngon_ap_ut_4
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_cai_1
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_cai_1/Trai_ngon_cai_2
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_cai_1/Trai_ngon_cai_2/Trai_ngon_cai_3
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_tro_1
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_tro_1/Trai_ngon_tro_2
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_tro_1/Trai_ngon_tro_2/Trai_ngon_tro_3
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_tro_1/Trai_ngon_tro_2/Trai_ngon_tro_3/Trai_ngon_tro_4
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_ut_1
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_ut_1/Trai_ngon_ut_2
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_ut_1/Trai_ngon_ut_2/Trai_ngon_ut_3
+        weight: 1
+      - path: Mesh
+        weight: 1
+      - path: Mesh/polySurface11
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attack
+      takeName: lava ghoul_v3
+      firstFrame: 150
+      lastFrame: 180
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Master_Hong
+        weight: 1
+      - path: Master_Hong/Base_co
+        weight: 1
+      - path: Master_Hong/Base_co/Co
+        weight: 1
+      - path: Master_Hong/Base_co/Co/Head
+        weight: 1
+      - path: Master_Hong/Phai_dui
+        weight: 1
+      - path: Master_Hong/Phai_dui/Phai_dau_goi
+        weight: 1
+      - path: Master_Hong/Phai_dui/Phai_dau_goi/Phai_co_chan
+        weight: 1
+      - path: Master_Hong/Phai_dui/Phai_dau_goi/Phai_co_chan/Phai_got_chan
+        weight: 1
+      - path: Master_Hong/Phai_dui/Phai_dau_goi/Phai_co_chan/Phai_got_chan/Phai_mu_ban_chan
+        weight: 1
+      - path: Master_Hong/Phai_dui/Phai_dau_goi/Phai_co_chan/Phai_got_chan/Phai_mu_ban_chan/Phai_dau_ngon_chan
+        weight: 1
+      - path: Master_Hong/Phai_vai
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_ap_ut_1
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_ap_ut_1/Phai_ngon_ap_ut_2
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_ap_ut_1/Phai_ngon_ap_ut_2/Phai_ngon_ap_ut_3
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_ap_ut_1/Phai_ngon_ap_ut_2/Phai_ngon_ap_ut_3/Phai_ngon_ap_ut_4
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_cai_1
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_cai_1/Phai_ngon_cai_2
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_cai_1/Phai_ngon_cai_2/Phai_ngon_cai_3
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_tro_1
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_tro_1/Phai_ngon_tro_2
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_tro_1/Phai_ngon_tro_2/Phai_ngon_tro_3
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_tro_1/Phai_ngon_tro_2/Phai_ngon_tro_3/Phai_ngon_tro_4
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_ut_1
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_ut_1/Phai_ngon_ut_2
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_ut_1/Phai_ngon_ut_2/Phai_ngon_3
+        weight: 1
+      - path: Master_Hong/Trai_dui
+        weight: 1
+      - path: Master_Hong/Trai_dui/Trai_dau_goi
+        weight: 1
+      - path: Master_Hong/Trai_dui/Trai_dau_goi/Trai_co_chan
+        weight: 1
+      - path: Master_Hong/Trai_dui/Trai_dau_goi/Trai_co_chan/Trai_got_chan
+        weight: 1
+      - path: Master_Hong/Trai_dui/Trai_dau_goi/Trai_co_chan/Trai_got_chan/Trai_mu_ban_chan
+        weight: 1
+      - path: Master_Hong/Trai_dui/Trai_dau_goi/Trai_co_chan/Trai_got_chan/Trai_mu_ban_chan/Trai_dau_ngon_chan
+        weight: 1
+      - path: Master_Hong/Trai_vai
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_ap_ut_1
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_ap_ut_1/Trai_ngon_ap_ut_2
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_ap_ut_1/Trai_ngon_ap_ut_2/Trai_ngon_ap_ut_3
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_ap_ut_1/Trai_ngon_ap_ut_2/Trai_ngon_ap_ut_3/Trai_ngon_ap_ut_4
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_cai_1
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_cai_1/Trai_ngon_cai_2
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_cai_1/Trai_ngon_cai_2/Trai_ngon_cai_3
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_tro_1
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_tro_1/Trai_ngon_tro_2
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_tro_1/Trai_ngon_tro_2/Trai_ngon_tro_3
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_tro_1/Trai_ngon_tro_2/Trai_ngon_tro_3/Trai_ngon_tro_4
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_ut_1
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_ut_1/Trai_ngon_ut_2
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_ut_1/Trai_ngon_ut_2/Trai_ngon_ut_3
+        weight: 1
+      - path: Mesh
+        weight: 1
+      - path: Mesh/polySurface11
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Chet
+      takeName: lava ghoul_v3
+      firstFrame: 190
+      lastFrame: 215
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Master_Hong
+        weight: 1
+      - path: Master_Hong/Base_co
+        weight: 1
+      - path: Master_Hong/Base_co/Co
+        weight: 1
+      - path: Master_Hong/Base_co/Co/Head
+        weight: 1
+      - path: Master_Hong/Phai_dui
+        weight: 1
+      - path: Master_Hong/Phai_dui/Phai_dau_goi
+        weight: 1
+      - path: Master_Hong/Phai_dui/Phai_dau_goi/Phai_co_chan
+        weight: 1
+      - path: Master_Hong/Phai_dui/Phai_dau_goi/Phai_co_chan/Phai_got_chan
+        weight: 1
+      - path: Master_Hong/Phai_dui/Phai_dau_goi/Phai_co_chan/Phai_got_chan/Phai_mu_ban_chan
+        weight: 1
+      - path: Master_Hong/Phai_dui/Phai_dau_goi/Phai_co_chan/Phai_got_chan/Phai_mu_ban_chan/Phai_dau_ngon_chan
+        weight: 1
+      - path: Master_Hong/Phai_vai
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_ap_ut_1
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_ap_ut_1/Phai_ngon_ap_ut_2
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_ap_ut_1/Phai_ngon_ap_ut_2/Phai_ngon_ap_ut_3
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_ap_ut_1/Phai_ngon_ap_ut_2/Phai_ngon_ap_ut_3/Phai_ngon_ap_ut_4
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_cai_1
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_cai_1/Phai_ngon_cai_2
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_cai_1/Phai_ngon_cai_2/Phai_ngon_cai_3
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_tro_1
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_tro_1/Phai_ngon_tro_2
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_tro_1/Phai_ngon_tro_2/Phai_ngon_tro_3
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_tro_1/Phai_ngon_tro_2/Phai_ngon_tro_3/Phai_ngon_tro_4
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_ut_1
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_ut_1/Phai_ngon_ut_2
+        weight: 1
+      - path: Master_Hong/Phai_vai/Phai_khuyu_tay/Phai_co_tay/Phai_mu_ban_tay/Phai_ngon_ut_1/Phai_ngon_ut_2/Phai_ngon_3
+        weight: 1
+      - path: Master_Hong/Trai_dui
+        weight: 1
+      - path: Master_Hong/Trai_dui/Trai_dau_goi
+        weight: 1
+      - path: Master_Hong/Trai_dui/Trai_dau_goi/Trai_co_chan
+        weight: 1
+      - path: Master_Hong/Trai_dui/Trai_dau_goi/Trai_co_chan/Trai_got_chan
+        weight: 1
+      - path: Master_Hong/Trai_dui/Trai_dau_goi/Trai_co_chan/Trai_got_chan/Trai_mu_ban_chan
+        weight: 1
+      - path: Master_Hong/Trai_dui/Trai_dau_goi/Trai_co_chan/Trai_got_chan/Trai_mu_ban_chan/Trai_dau_ngon_chan
+        weight: 1
+      - path: Master_Hong/Trai_vai
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_ap_ut_1
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_ap_ut_1/Trai_ngon_ap_ut_2
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_ap_ut_1/Trai_ngon_ap_ut_2/Trai_ngon_ap_ut_3
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_ap_ut_1/Trai_ngon_ap_ut_2/Trai_ngon_ap_ut_3/Trai_ngon_ap_ut_4
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_cai_1
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_cai_1/Trai_ngon_cai_2
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_cai_1/Trai_ngon_cai_2/Trai_ngon_cai_3
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_tro_1
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_tro_1/Trai_ngon_tro_2
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_tro_1/Trai_ngon_tro_2/Trai_ngon_tro_3
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_tro_1/Trai_ngon_tro_2/Trai_ngon_tro_3/Trai_ngon_tro_4
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_ut_1
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_ut_1/Trai_ngon_ut_2
+        weight: 1
+      - path: Master_Hong/Trai_vai/Trai_khuyu_tay/Trai_co_tay/Trai_mu_ban_tay/Trai_ngon_ut_1/Trai_ngon_ut_2/Trai_ngon_ut_3
+        weight: 1
+      - path: Mesh
+        weight: 1
+      - path: Mesh/polySurface11
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

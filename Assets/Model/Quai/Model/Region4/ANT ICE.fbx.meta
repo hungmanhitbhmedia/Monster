@@ -1,0 +1,1318 @@
+fileFormatVersion: 2
+guid: c2bd8dc3d5fb341b1a61c2fe68adec27
+timeCreated: 1470209376
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Chan_Phai_1_joint_1
+    100004: Chan_Phai_1_joint_2
+    100006: Chan_Phai_1_joint_3
+    100008: Chan_Phai_1_joint_4
+    100010: Chan_Phai_1_joint_5
+    100012: Chan_Phai_1_joint_6
+    100014: Chan_Phai_1_joint_7
+    100016: Chan_Phai_2_joint_1
+    100018: Chan_Phai_2_joint_2
+    100020: Chan_Phai_2_joint_3
+    100022: Chan_Phai_2_joint_4
+    100024: Chan_Phai_2_joint_5
+    100026: Chan_Phai_2_joint_6
+    100028: Chan_Phai_2_joint_7
+    100030: Chan_Phai_3_joint_1
+    100032: Chan_Phai_3_joint_2
+    100034: Chan_Phai_3_joint_3
+    100036: Chan_Phai_3_joint_4
+    100038: Chan_Phai_3_joint_5
+    100040: Chan_Phai_3_joint_6
+    100042: Chan_Phai_3_joint_7
+    100044: Chan_trai_1_joint_1
+    100046: Chan_trai_1_joint_2
+    100048: Chan_trai_1_joint_3
+    100050: Chan_trai_1_joint_4
+    100052: Chan_trai_1_joint_5
+    100054: Chan_trai_1_joint_6
+    100056: Chan_trai_1_joint_7
+    100058: Chan_trai_2_joint_1
+    100060: Chan_trai_2_joint_2
+    100062: Chan_trai_2_joint_3
+    100064: Chan_trai_2_joint_4
+    100066: Chan_trai_2_joint_5
+    100068: Chan_trai_2_joint_6
+    100070: Chan_trai_2_joint_7
+    100072: Chan_trai_3_joint_1
+    100074: Chan_trai_3_joint_2
+    100076: Chan_trai_3_joint_3
+    100078: Chan_trai_3_joint_4
+    100080: Chan_trai_3_joint_5
+    100082: Chan_trai_3_joint_6
+    100084: Chan_trai_3_joint_7
+    100086: Co
+    100088: Dau
+    100090: Duoi_1
+    100092: Duoi_2
+    100094: Duoi_3
+    100096: Duoi_4
+    100098: gigantic_ant_monster:Mesh
+    100100: Hong_Master
+    100102: Lung_1
+    100104: Lung_2
+    100106: Rang_phai_joint_1
+    100108: Rang_phai_joint_2
+    100110: Rang_phai_joint_3
+    100112: Rang_trai_joint_1
+    100114: Rang_trai_joint_2
+    100116: Rang_trai_joint_3
+    100118: Rau_phai_joint_1
+    100120: Rau_phai_joint_2
+    100122: Rau_phai_joint_3
+    100124: Rau_trai_joint_1
+    100126: Rau_trai_joint_2
+    100128: Rau_trai_joint_3
+    400000: //RootNode
+    400002: Chan_Phai_1_joint_1
+    400004: Chan_Phai_1_joint_2
+    400006: Chan_Phai_1_joint_3
+    400008: Chan_Phai_1_joint_4
+    400010: Chan_Phai_1_joint_5
+    400012: Chan_Phai_1_joint_6
+    400014: Chan_Phai_1_joint_7
+    400016: Chan_Phai_2_joint_1
+    400018: Chan_Phai_2_joint_2
+    400020: Chan_Phai_2_joint_3
+    400022: Chan_Phai_2_joint_4
+    400024: Chan_Phai_2_joint_5
+    400026: Chan_Phai_2_joint_6
+    400028: Chan_Phai_2_joint_7
+    400030: Chan_Phai_3_joint_1
+    400032: Chan_Phai_3_joint_2
+    400034: Chan_Phai_3_joint_3
+    400036: Chan_Phai_3_joint_4
+    400038: Chan_Phai_3_joint_5
+    400040: Chan_Phai_3_joint_6
+    400042: Chan_Phai_3_joint_7
+    400044: Chan_trai_1_joint_1
+    400046: Chan_trai_1_joint_2
+    400048: Chan_trai_1_joint_3
+    400050: Chan_trai_1_joint_4
+    400052: Chan_trai_1_joint_5
+    400054: Chan_trai_1_joint_6
+    400056: Chan_trai_1_joint_7
+    400058: Chan_trai_2_joint_1
+    400060: Chan_trai_2_joint_2
+    400062: Chan_trai_2_joint_3
+    400064: Chan_trai_2_joint_4
+    400066: Chan_trai_2_joint_5
+    400068: Chan_trai_2_joint_6
+    400070: Chan_trai_2_joint_7
+    400072: Chan_trai_3_joint_1
+    400074: Chan_trai_3_joint_2
+    400076: Chan_trai_3_joint_3
+    400078: Chan_trai_3_joint_4
+    400080: Chan_trai_3_joint_5
+    400082: Chan_trai_3_joint_6
+    400084: Chan_trai_3_joint_7
+    400086: Co
+    400088: Dau
+    400090: Duoi_1
+    400092: Duoi_2
+    400094: Duoi_3
+    400096: Duoi_4
+    400098: gigantic_ant_monster:Mesh
+    400100: Hong_Master
+    400102: Lung_1
+    400104: Lung_2
+    400106: Rang_phai_joint_1
+    400108: Rang_phai_joint_2
+    400110: Rang_phai_joint_3
+    400112: Rang_trai_joint_1
+    400114: Rang_trai_joint_2
+    400116: Rang_trai_joint_3
+    400118: Rau_phai_joint_1
+    400120: Rau_phai_joint_2
+    400122: Rau_phai_joint_3
+    400124: Rau_trai_joint_1
+    400126: Rau_trai_joint_2
+    400128: Rau_trai_joint_3
+    4300000: gigantic_ant_monster:Mesh
+    7400000: Bithuong
+    7400002: Chay
+    7400004: Trungdan
+    7400006: Tho
+    7400008: Attack
+    7400010: Chet
+    7400012: Dicham
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: gigantic_ant_monster:Mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Bithuong
+      takeName: ani Kien bang_v3
+      firstFrame: 0
+      lastFrame: 32
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: gigantic_ant_monster:Mesh
+        weight: 1
+      - path: Hong_Master
+        weight: 1
+      - path: Hong_Master/Duoi_1
+        weight: 1
+      - path: Hong_Master/Duoi_1/Duoi_2
+        weight: 1
+      - path: Hong_Master/Duoi_1/Duoi_2/Duoi_3
+        weight: 1
+      - path: Hong_Master/Duoi_1/Duoi_2/Duoi_3/Duoi_4
+        weight: 1
+      - path: Hong_Master/Lung_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_1_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_1_joint_1/Chan_Phai_1_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_1_joint_1/Chan_Phai_1_joint_2/Chan_Phai_1_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_1_joint_1/Chan_Phai_1_joint_2/Chan_Phai_1_joint_3/Chan_Phai_1_joint_4
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_1_joint_1/Chan_Phai_1_joint_2/Chan_Phai_1_joint_3/Chan_Phai_1_joint_4/Chan_Phai_1_joint_5
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_1_joint_1/Chan_Phai_1_joint_2/Chan_Phai_1_joint_3/Chan_Phai_1_joint_4/Chan_Phai_1_joint_5/Chan_Phai_1_joint_6
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_1_joint_1/Chan_Phai_1_joint_2/Chan_Phai_1_joint_3/Chan_Phai_1_joint_4/Chan_Phai_1_joint_5/Chan_Phai_1_joint_6/Chan_Phai_1_joint_7
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_2_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_2_joint_1/Chan_Phai_2_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_2_joint_1/Chan_Phai_2_joint_2/Chan_Phai_2_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_2_joint_1/Chan_Phai_2_joint_2/Chan_Phai_2_joint_3/Chan_Phai_2_joint_4
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_2_joint_1/Chan_Phai_2_joint_2/Chan_Phai_2_joint_3/Chan_Phai_2_joint_4/Chan_Phai_2_joint_5
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_2_joint_1/Chan_Phai_2_joint_2/Chan_Phai_2_joint_3/Chan_Phai_2_joint_4/Chan_Phai_2_joint_5/Chan_Phai_2_joint_6
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_2_joint_1/Chan_Phai_2_joint_2/Chan_Phai_2_joint_3/Chan_Phai_2_joint_4/Chan_Phai_2_joint_5/Chan_Phai_2_joint_6/Chan_Phai_2_joint_7
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_1_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_1_joint_1/Chan_trai_1_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_1_joint_1/Chan_trai_1_joint_2/Chan_trai_1_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_1_joint_1/Chan_trai_1_joint_2/Chan_trai_1_joint_3/Chan_trai_1_joint_4
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_1_joint_1/Chan_trai_1_joint_2/Chan_trai_1_joint_3/Chan_trai_1_joint_4/Chan_trai_1_joint_5
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_1_joint_1/Chan_trai_1_joint_2/Chan_trai_1_joint_3/Chan_trai_1_joint_4/Chan_trai_1_joint_5/Chan_trai_1_joint_6
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_1_joint_1/Chan_trai_1_joint_2/Chan_trai_1_joint_3/Chan_trai_1_joint_4/Chan_trai_1_joint_5/Chan_trai_1_joint_6/Chan_trai_1_joint_7
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_2_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_2_joint_1/Chan_trai_2_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_2_joint_1/Chan_trai_2_joint_2/Chan_trai_2_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_2_joint_1/Chan_trai_2_joint_2/Chan_trai_2_joint_3/Chan_trai_2_joint_4
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_2_joint_1/Chan_trai_2_joint_2/Chan_trai_2_joint_3/Chan_trai_2_joint_4/Chan_trai_2_joint_5
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_2_joint_1/Chan_trai_2_joint_2/Chan_trai_2_joint_3/Chan_trai_2_joint_4/Chan_trai_2_joint_5/Chan_trai_2_joint_6
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_2_joint_1/Chan_trai_2_joint_2/Chan_trai_2_joint_3/Chan_trai_2_joint_4/Chan_trai_2_joint_5/Chan_trai_2_joint_6/Chan_trai_2_joint_7
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_Phai_3_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_Phai_3_joint_1/Chan_Phai_3_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_Phai_3_joint_1/Chan_Phai_3_joint_2/Chan_Phai_3_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_Phai_3_joint_1/Chan_Phai_3_joint_2/Chan_Phai_3_joint_3/Chan_Phai_3_joint_4
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_Phai_3_joint_1/Chan_Phai_3_joint_2/Chan_Phai_3_joint_3/Chan_Phai_3_joint_4/Chan_Phai_3_joint_5
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_Phai_3_joint_1/Chan_Phai_3_joint_2/Chan_Phai_3_joint_3/Chan_Phai_3_joint_4/Chan_Phai_3_joint_5/Chan_Phai_3_joint_6
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_Phai_3_joint_1/Chan_Phai_3_joint_2/Chan_Phai_3_joint_3/Chan_Phai_3_joint_4/Chan_Phai_3_joint_5/Chan_Phai_3_joint_6/Chan_Phai_3_joint_7
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_trai_3_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_trai_3_joint_1/Chan_trai_3_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_trai_3_joint_1/Chan_trai_3_joint_2/Chan_trai_3_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_trai_3_joint_1/Chan_trai_3_joint_2/Chan_trai_3_joint_3/Chan_trai_3_joint_4
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_trai_3_joint_1/Chan_trai_3_joint_2/Chan_trai_3_joint_3/Chan_trai_3_joint_4/Chan_trai_3_joint_5
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_trai_3_joint_1/Chan_trai_3_joint_2/Chan_trai_3_joint_3/Chan_trai_3_joint_4/Chan_trai_3_joint_5/Chan_trai_3_joint_6
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_trai_3_joint_1/Chan_trai_3_joint_2/Chan_trai_3_joint_3/Chan_trai_3_joint_4/Chan_trai_3_joint_5/Chan_trai_3_joint_6/Chan_trai_3_joint_7
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rang_phai_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rang_phai_joint_1/Rang_phai_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rang_phai_joint_1/Rang_phai_joint_2/Rang_phai_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rang_trai_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rang_trai_joint_1/Rang_trai_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rang_trai_joint_1/Rang_trai_joint_2/Rang_trai_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rau_phai_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rau_phai_joint_1/Rau_phai_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rau_phai_joint_1/Rau_phai_joint_2/Rau_phai_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rau_trai_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rau_trai_joint_1/Rau_trai_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rau_trai_joint_1/Rau_trai_joint_2/Rau_trai_joint_3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Chay
+      takeName: ani Kien bang_v3
+      firstFrame: 40
+      lastFrame: 56
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: gigantic_ant_monster:Mesh
+        weight: 1
+      - path: Hong_Master
+        weight: 1
+      - path: Hong_Master/Duoi_1
+        weight: 1
+      - path: Hong_Master/Duoi_1/Duoi_2
+        weight: 1
+      - path: Hong_Master/Duoi_1/Duoi_2/Duoi_3
+        weight: 1
+      - path: Hong_Master/Duoi_1/Duoi_2/Duoi_3/Duoi_4
+        weight: 1
+      - path: Hong_Master/Lung_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_1_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_1_joint_1/Chan_Phai_1_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_1_joint_1/Chan_Phai_1_joint_2/Chan_Phai_1_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_1_joint_1/Chan_Phai_1_joint_2/Chan_Phai_1_joint_3/Chan_Phai_1_joint_4
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_1_joint_1/Chan_Phai_1_joint_2/Chan_Phai_1_joint_3/Chan_Phai_1_joint_4/Chan_Phai_1_joint_5
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_1_joint_1/Chan_Phai_1_joint_2/Chan_Phai_1_joint_3/Chan_Phai_1_joint_4/Chan_Phai_1_joint_5/Chan_Phai_1_joint_6
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_1_joint_1/Chan_Phai_1_joint_2/Chan_Phai_1_joint_3/Chan_Phai_1_joint_4/Chan_Phai_1_joint_5/Chan_Phai_1_joint_6/Chan_Phai_1_joint_7
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_2_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_2_joint_1/Chan_Phai_2_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_2_joint_1/Chan_Phai_2_joint_2/Chan_Phai_2_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_2_joint_1/Chan_Phai_2_joint_2/Chan_Phai_2_joint_3/Chan_Phai_2_joint_4
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_2_joint_1/Chan_Phai_2_joint_2/Chan_Phai_2_joint_3/Chan_Phai_2_joint_4/Chan_Phai_2_joint_5
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_2_joint_1/Chan_Phai_2_joint_2/Chan_Phai_2_joint_3/Chan_Phai_2_joint_4/Chan_Phai_2_joint_5/Chan_Phai_2_joint_6
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_2_joint_1/Chan_Phai_2_joint_2/Chan_Phai_2_joint_3/Chan_Phai_2_joint_4/Chan_Phai_2_joint_5/Chan_Phai_2_joint_6/Chan_Phai_2_joint_7
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_1_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_1_joint_1/Chan_trai_1_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_1_joint_1/Chan_trai_1_joint_2/Chan_trai_1_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_1_joint_1/Chan_trai_1_joint_2/Chan_trai_1_joint_3/Chan_trai_1_joint_4
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_1_joint_1/Chan_trai_1_joint_2/Chan_trai_1_joint_3/Chan_trai_1_joint_4/Chan_trai_1_joint_5
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_1_joint_1/Chan_trai_1_joint_2/Chan_trai_1_joint_3/Chan_trai_1_joint_4/Chan_trai_1_joint_5/Chan_trai_1_joint_6
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_1_joint_1/Chan_trai_1_joint_2/Chan_trai_1_joint_3/Chan_trai_1_joint_4/Chan_trai_1_joint_5/Chan_trai_1_joint_6/Chan_trai_1_joint_7
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_2_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_2_joint_1/Chan_trai_2_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_2_joint_1/Chan_trai_2_joint_2/Chan_trai_2_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_2_joint_1/Chan_trai_2_joint_2/Chan_trai_2_joint_3/Chan_trai_2_joint_4
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_2_joint_1/Chan_trai_2_joint_2/Chan_trai_2_joint_3/Chan_trai_2_joint_4/Chan_trai_2_joint_5
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_2_joint_1/Chan_trai_2_joint_2/Chan_trai_2_joint_3/Chan_trai_2_joint_4/Chan_trai_2_joint_5/Chan_trai_2_joint_6
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_2_joint_1/Chan_trai_2_joint_2/Chan_trai_2_joint_3/Chan_trai_2_joint_4/Chan_trai_2_joint_5/Chan_trai_2_joint_6/Chan_trai_2_joint_7
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_Phai_3_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_Phai_3_joint_1/Chan_Phai_3_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_Phai_3_joint_1/Chan_Phai_3_joint_2/Chan_Phai_3_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_Phai_3_joint_1/Chan_Phai_3_joint_2/Chan_Phai_3_joint_3/Chan_Phai_3_joint_4
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_Phai_3_joint_1/Chan_Phai_3_joint_2/Chan_Phai_3_joint_3/Chan_Phai_3_joint_4/Chan_Phai_3_joint_5
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_Phai_3_joint_1/Chan_Phai_3_joint_2/Chan_Phai_3_joint_3/Chan_Phai_3_joint_4/Chan_Phai_3_joint_5/Chan_Phai_3_joint_6
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_Phai_3_joint_1/Chan_Phai_3_joint_2/Chan_Phai_3_joint_3/Chan_Phai_3_joint_4/Chan_Phai_3_joint_5/Chan_Phai_3_joint_6/Chan_Phai_3_joint_7
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_trai_3_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_trai_3_joint_1/Chan_trai_3_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_trai_3_joint_1/Chan_trai_3_joint_2/Chan_trai_3_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_trai_3_joint_1/Chan_trai_3_joint_2/Chan_trai_3_joint_3/Chan_trai_3_joint_4
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_trai_3_joint_1/Chan_trai_3_joint_2/Chan_trai_3_joint_3/Chan_trai_3_joint_4/Chan_trai_3_joint_5
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_trai_3_joint_1/Chan_trai_3_joint_2/Chan_trai_3_joint_3/Chan_trai_3_joint_4/Chan_trai_3_joint_5/Chan_trai_3_joint_6
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_trai_3_joint_1/Chan_trai_3_joint_2/Chan_trai_3_joint_3/Chan_trai_3_joint_4/Chan_trai_3_joint_5/Chan_trai_3_joint_6/Chan_trai_3_joint_7
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rang_phai_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rang_phai_joint_1/Rang_phai_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rang_phai_joint_1/Rang_phai_joint_2/Rang_phai_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rang_trai_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rang_trai_joint_1/Rang_trai_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rang_trai_joint_1/Rang_trai_joint_2/Rang_trai_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rau_phai_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rau_phai_joint_1/Rau_phai_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rau_phai_joint_1/Rau_phai_joint_2/Rau_phai_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rau_trai_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rau_trai_joint_1/Rau_trai_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rau_trai_joint_1/Rau_trai_joint_2/Rau_trai_joint_3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Trungdan
+      takeName: ani Kien bang_v3
+      firstFrame: 60
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: gigantic_ant_monster:Mesh
+        weight: 1
+      - path: Hong_Master
+        weight: 1
+      - path: Hong_Master/Duoi_1
+        weight: 1
+      - path: Hong_Master/Duoi_1/Duoi_2
+        weight: 1
+      - path: Hong_Master/Duoi_1/Duoi_2/Duoi_3
+        weight: 1
+      - path: Hong_Master/Duoi_1/Duoi_2/Duoi_3/Duoi_4
+        weight: 1
+      - path: Hong_Master/Lung_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_1_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_1_joint_1/Chan_Phai_1_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_1_joint_1/Chan_Phai_1_joint_2/Chan_Phai_1_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_1_joint_1/Chan_Phai_1_joint_2/Chan_Phai_1_joint_3/Chan_Phai_1_joint_4
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_1_joint_1/Chan_Phai_1_joint_2/Chan_Phai_1_joint_3/Chan_Phai_1_joint_4/Chan_Phai_1_joint_5
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_1_joint_1/Chan_Phai_1_joint_2/Chan_Phai_1_joint_3/Chan_Phai_1_joint_4/Chan_Phai_1_joint_5/Chan_Phai_1_joint_6
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_1_joint_1/Chan_Phai_1_joint_2/Chan_Phai_1_joint_3/Chan_Phai_1_joint_4/Chan_Phai_1_joint_5/Chan_Phai_1_joint_6/Chan_Phai_1_joint_7
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_2_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_2_joint_1/Chan_Phai_2_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_2_joint_1/Chan_Phai_2_joint_2/Chan_Phai_2_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_2_joint_1/Chan_Phai_2_joint_2/Chan_Phai_2_joint_3/Chan_Phai_2_joint_4
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_2_joint_1/Chan_Phai_2_joint_2/Chan_Phai_2_joint_3/Chan_Phai_2_joint_4/Chan_Phai_2_joint_5
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_2_joint_1/Chan_Phai_2_joint_2/Chan_Phai_2_joint_3/Chan_Phai_2_joint_4/Chan_Phai_2_joint_5/Chan_Phai_2_joint_6
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_2_joint_1/Chan_Phai_2_joint_2/Chan_Phai_2_joint_3/Chan_Phai_2_joint_4/Chan_Phai_2_joint_5/Chan_Phai_2_joint_6/Chan_Phai_2_joint_7
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_1_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_1_joint_1/Chan_trai_1_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_1_joint_1/Chan_trai_1_joint_2/Chan_trai_1_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_1_joint_1/Chan_trai_1_joint_2/Chan_trai_1_joint_3/Chan_trai_1_joint_4
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_1_joint_1/Chan_trai_1_joint_2/Chan_trai_1_joint_3/Chan_trai_1_joint_4/Chan_trai_1_joint_5
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_1_joint_1/Chan_trai_1_joint_2/Chan_trai_1_joint_3/Chan_trai_1_joint_4/Chan_trai_1_joint_5/Chan_trai_1_joint_6
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_1_joint_1/Chan_trai_1_joint_2/Chan_trai_1_joint_3/Chan_trai_1_joint_4/Chan_trai_1_joint_5/Chan_trai_1_joint_6/Chan_trai_1_joint_7
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_2_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_2_joint_1/Chan_trai_2_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_2_joint_1/Chan_trai_2_joint_2/Chan_trai_2_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_2_joint_1/Chan_trai_2_joint_2/Chan_trai_2_joint_3/Chan_trai_2_joint_4
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_2_joint_1/Chan_trai_2_joint_2/Chan_trai_2_joint_3/Chan_trai_2_joint_4/Chan_trai_2_joint_5
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_2_joint_1/Chan_trai_2_joint_2/Chan_trai_2_joint_3/Chan_trai_2_joint_4/Chan_trai_2_joint_5/Chan_trai_2_joint_6
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_2_joint_1/Chan_trai_2_joint_2/Chan_trai_2_joint_3/Chan_trai_2_joint_4/Chan_trai_2_joint_5/Chan_trai_2_joint_6/Chan_trai_2_joint_7
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_Phai_3_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_Phai_3_joint_1/Chan_Phai_3_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_Phai_3_joint_1/Chan_Phai_3_joint_2/Chan_Phai_3_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_Phai_3_joint_1/Chan_Phai_3_joint_2/Chan_Phai_3_joint_3/Chan_Phai_3_joint_4
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_Phai_3_joint_1/Chan_Phai_3_joint_2/Chan_Phai_3_joint_3/Chan_Phai_3_joint_4/Chan_Phai_3_joint_5
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_Phai_3_joint_1/Chan_Phai_3_joint_2/Chan_Phai_3_joint_3/Chan_Phai_3_joint_4/Chan_Phai_3_joint_5/Chan_Phai_3_joint_6
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_Phai_3_joint_1/Chan_Phai_3_joint_2/Chan_Phai_3_joint_3/Chan_Phai_3_joint_4/Chan_Phai_3_joint_5/Chan_Phai_3_joint_6/Chan_Phai_3_joint_7
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_trai_3_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_trai_3_joint_1/Chan_trai_3_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_trai_3_joint_1/Chan_trai_3_joint_2/Chan_trai_3_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_trai_3_joint_1/Chan_trai_3_joint_2/Chan_trai_3_joint_3/Chan_trai_3_joint_4
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_trai_3_joint_1/Chan_trai_3_joint_2/Chan_trai_3_joint_3/Chan_trai_3_joint_4/Chan_trai_3_joint_5
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_trai_3_joint_1/Chan_trai_3_joint_2/Chan_trai_3_joint_3/Chan_trai_3_joint_4/Chan_trai_3_joint_5/Chan_trai_3_joint_6
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_trai_3_joint_1/Chan_trai_3_joint_2/Chan_trai_3_joint_3/Chan_trai_3_joint_4/Chan_trai_3_joint_5/Chan_trai_3_joint_6/Chan_trai_3_joint_7
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rang_phai_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rang_phai_joint_1/Rang_phai_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rang_phai_joint_1/Rang_phai_joint_2/Rang_phai_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rang_trai_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rang_trai_joint_1/Rang_trai_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rang_trai_joint_1/Rang_trai_joint_2/Rang_trai_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rau_phai_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rau_phai_joint_1/Rau_phai_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rau_phai_joint_1/Rau_phai_joint_2/Rau_phai_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rau_trai_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rau_trai_joint_1/Rau_trai_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rau_trai_joint_1/Rau_trai_joint_2/Rau_trai_joint_3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Tho
+      takeName: ani Kien bang_v3
+      firstFrame: 90
+      lastFrame: 110
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: gigantic_ant_monster:Mesh
+        weight: 1
+      - path: Hong_Master
+        weight: 1
+      - path: Hong_Master/Duoi_1
+        weight: 1
+      - path: Hong_Master/Duoi_1/Duoi_2
+        weight: 1
+      - path: Hong_Master/Duoi_1/Duoi_2/Duoi_3
+        weight: 1
+      - path: Hong_Master/Duoi_1/Duoi_2/Duoi_3/Duoi_4
+        weight: 1
+      - path: Hong_Master/Lung_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_1_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_1_joint_1/Chan_Phai_1_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_1_joint_1/Chan_Phai_1_joint_2/Chan_Phai_1_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_1_joint_1/Chan_Phai_1_joint_2/Chan_Phai_1_joint_3/Chan_Phai_1_joint_4
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_1_joint_1/Chan_Phai_1_joint_2/Chan_Phai_1_joint_3/Chan_Phai_1_joint_4/Chan_Phai_1_joint_5
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_1_joint_1/Chan_Phai_1_joint_2/Chan_Phai_1_joint_3/Chan_Phai_1_joint_4/Chan_Phai_1_joint_5/Chan_Phai_1_joint_6
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_1_joint_1/Chan_Phai_1_joint_2/Chan_Phai_1_joint_3/Chan_Phai_1_joint_4/Chan_Phai_1_joint_5/Chan_Phai_1_joint_6/Chan_Phai_1_joint_7
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_2_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_2_joint_1/Chan_Phai_2_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_2_joint_1/Chan_Phai_2_joint_2/Chan_Phai_2_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_2_joint_1/Chan_Phai_2_joint_2/Chan_Phai_2_joint_3/Chan_Phai_2_joint_4
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_2_joint_1/Chan_Phai_2_joint_2/Chan_Phai_2_joint_3/Chan_Phai_2_joint_4/Chan_Phai_2_joint_5
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_2_joint_1/Chan_Phai_2_joint_2/Chan_Phai_2_joint_3/Chan_Phai_2_joint_4/Chan_Phai_2_joint_5/Chan_Phai_2_joint_6
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_2_joint_1/Chan_Phai_2_joint_2/Chan_Phai_2_joint_3/Chan_Phai_2_joint_4/Chan_Phai_2_joint_5/Chan_Phai_2_joint_6/Chan_Phai_2_joint_7
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_1_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_1_joint_1/Chan_trai_1_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_1_joint_1/Chan_trai_1_joint_2/Chan_trai_1_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_1_joint_1/Chan_trai_1_joint_2/Chan_trai_1_joint_3/Chan_trai_1_joint_4
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_1_joint_1/Chan_trai_1_joint_2/Chan_trai_1_joint_3/Chan_trai_1_joint_4/Chan_trai_1_joint_5
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_1_joint_1/Chan_trai_1_joint_2/Chan_trai_1_joint_3/Chan_trai_1_joint_4/Chan_trai_1_joint_5/Chan_trai_1_joint_6
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_1_joint_1/Chan_trai_1_joint_2/Chan_trai_1_joint_3/Chan_trai_1_joint_4/Chan_trai_1_joint_5/Chan_trai_1_joint_6/Chan_trai_1_joint_7
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_2_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_2_joint_1/Chan_trai_2_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_2_joint_1/Chan_trai_2_joint_2/Chan_trai_2_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_2_joint_1/Chan_trai_2_joint_2/Chan_trai_2_joint_3/Chan_trai_2_joint_4
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_2_joint_1/Chan_trai_2_joint_2/Chan_trai_2_joint_3/Chan_trai_2_joint_4/Chan_trai_2_joint_5
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_2_joint_1/Chan_trai_2_joint_2/Chan_trai_2_joint_3/Chan_trai_2_joint_4/Chan_trai_2_joint_5/Chan_trai_2_joint_6
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_2_joint_1/Chan_trai_2_joint_2/Chan_trai_2_joint_3/Chan_trai_2_joint_4/Chan_trai_2_joint_5/Chan_trai_2_joint_6/Chan_trai_2_joint_7
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_Phai_3_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_Phai_3_joint_1/Chan_Phai_3_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_Phai_3_joint_1/Chan_Phai_3_joint_2/Chan_Phai_3_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_Phai_3_joint_1/Chan_Phai_3_joint_2/Chan_Phai_3_joint_3/Chan_Phai_3_joint_4
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_Phai_3_joint_1/Chan_Phai_3_joint_2/Chan_Phai_3_joint_3/Chan_Phai_3_joint_4/Chan_Phai_3_joint_5
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_Phai_3_joint_1/Chan_Phai_3_joint_2/Chan_Phai_3_joint_3/Chan_Phai_3_joint_4/Chan_Phai_3_joint_5/Chan_Phai_3_joint_6
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_Phai_3_joint_1/Chan_Phai_3_joint_2/Chan_Phai_3_joint_3/Chan_Phai_3_joint_4/Chan_Phai_3_joint_5/Chan_Phai_3_joint_6/Chan_Phai_3_joint_7
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_trai_3_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_trai_3_joint_1/Chan_trai_3_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_trai_3_joint_1/Chan_trai_3_joint_2/Chan_trai_3_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_trai_3_joint_1/Chan_trai_3_joint_2/Chan_trai_3_joint_3/Chan_trai_3_joint_4
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_trai_3_joint_1/Chan_trai_3_joint_2/Chan_trai_3_joint_3/Chan_trai_3_joint_4/Chan_trai_3_joint_5
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_trai_3_joint_1/Chan_trai_3_joint_2/Chan_trai_3_joint_3/Chan_trai_3_joint_4/Chan_trai_3_joint_5/Chan_trai_3_joint_6
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_trai_3_joint_1/Chan_trai_3_joint_2/Chan_trai_3_joint_3/Chan_trai_3_joint_4/Chan_trai_3_joint_5/Chan_trai_3_joint_6/Chan_trai_3_joint_7
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rang_phai_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rang_phai_joint_1/Rang_phai_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rang_phai_joint_1/Rang_phai_joint_2/Rang_phai_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rang_trai_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rang_trai_joint_1/Rang_trai_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rang_trai_joint_1/Rang_trai_joint_2/Rang_trai_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rau_phai_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rau_phai_joint_1/Rau_phai_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rau_phai_joint_1/Rau_phai_joint_2/Rau_phai_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rau_trai_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rau_trai_joint_1/Rau_trai_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rau_trai_joint_1/Rau_trai_joint_2/Rau_trai_joint_3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attack
+      takeName: ani Kien bang_v3
+      firstFrame: 120
+      lastFrame: 150
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: gigantic_ant_monster:Mesh
+        weight: 1
+      - path: Hong_Master
+        weight: 1
+      - path: Hong_Master/Duoi_1
+        weight: 1
+      - path: Hong_Master/Duoi_1/Duoi_2
+        weight: 1
+      - path: Hong_Master/Duoi_1/Duoi_2/Duoi_3
+        weight: 1
+      - path: Hong_Master/Duoi_1/Duoi_2/Duoi_3/Duoi_4
+        weight: 1
+      - path: Hong_Master/Lung_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_1_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_1_joint_1/Chan_Phai_1_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_1_joint_1/Chan_Phai_1_joint_2/Chan_Phai_1_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_1_joint_1/Chan_Phai_1_joint_2/Chan_Phai_1_joint_3/Chan_Phai_1_joint_4
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_1_joint_1/Chan_Phai_1_joint_2/Chan_Phai_1_joint_3/Chan_Phai_1_joint_4/Chan_Phai_1_joint_5
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_1_joint_1/Chan_Phai_1_joint_2/Chan_Phai_1_joint_3/Chan_Phai_1_joint_4/Chan_Phai_1_joint_5/Chan_Phai_1_joint_6
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_1_joint_1/Chan_Phai_1_joint_2/Chan_Phai_1_joint_3/Chan_Phai_1_joint_4/Chan_Phai_1_joint_5/Chan_Phai_1_joint_6/Chan_Phai_1_joint_7
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_2_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_2_joint_1/Chan_Phai_2_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_2_joint_1/Chan_Phai_2_joint_2/Chan_Phai_2_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_2_joint_1/Chan_Phai_2_joint_2/Chan_Phai_2_joint_3/Chan_Phai_2_joint_4
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_2_joint_1/Chan_Phai_2_joint_2/Chan_Phai_2_joint_3/Chan_Phai_2_joint_4/Chan_Phai_2_joint_5
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_2_joint_1/Chan_Phai_2_joint_2/Chan_Phai_2_joint_3/Chan_Phai_2_joint_4/Chan_Phai_2_joint_5/Chan_Phai_2_joint_6
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_2_joint_1/Chan_Phai_2_joint_2/Chan_Phai_2_joint_3/Chan_Phai_2_joint_4/Chan_Phai_2_joint_5/Chan_Phai_2_joint_6/Chan_Phai_2_joint_7
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_1_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_1_joint_1/Chan_trai_1_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_1_joint_1/Chan_trai_1_joint_2/Chan_trai_1_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_1_joint_1/Chan_trai_1_joint_2/Chan_trai_1_joint_3/Chan_trai_1_joint_4
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_1_joint_1/Chan_trai_1_joint_2/Chan_trai_1_joint_3/Chan_trai_1_joint_4/Chan_trai_1_joint_5
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_1_joint_1/Chan_trai_1_joint_2/Chan_trai_1_joint_3/Chan_trai_1_joint_4/Chan_trai_1_joint_5/Chan_trai_1_joint_6
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_1_joint_1/Chan_trai_1_joint_2/Chan_trai_1_joint_3/Chan_trai_1_joint_4/Chan_trai_1_joint_5/Chan_trai_1_joint_6/Chan_trai_1_joint_7
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_2_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_2_joint_1/Chan_trai_2_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_2_joint_1/Chan_trai_2_joint_2/Chan_trai_2_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_2_joint_1/Chan_trai_2_joint_2/Chan_trai_2_joint_3/Chan_trai_2_joint_4
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_2_joint_1/Chan_trai_2_joint_2/Chan_trai_2_joint_3/Chan_trai_2_joint_4/Chan_trai_2_joint_5
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_2_joint_1/Chan_trai_2_joint_2/Chan_trai_2_joint_3/Chan_trai_2_joint_4/Chan_trai_2_joint_5/Chan_trai_2_joint_6
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_2_joint_1/Chan_trai_2_joint_2/Chan_trai_2_joint_3/Chan_trai_2_joint_4/Chan_trai_2_joint_5/Chan_trai_2_joint_6/Chan_trai_2_joint_7
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_Phai_3_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_Phai_3_joint_1/Chan_Phai_3_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_Phai_3_joint_1/Chan_Phai_3_joint_2/Chan_Phai_3_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_Phai_3_joint_1/Chan_Phai_3_joint_2/Chan_Phai_3_joint_3/Chan_Phai_3_joint_4
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_Phai_3_joint_1/Chan_Phai_3_joint_2/Chan_Phai_3_joint_3/Chan_Phai_3_joint_4/Chan_Phai_3_joint_5
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_Phai_3_joint_1/Chan_Phai_3_joint_2/Chan_Phai_3_joint_3/Chan_Phai_3_joint_4/Chan_Phai_3_joint_5/Chan_Phai_3_joint_6
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_Phai_3_joint_1/Chan_Phai_3_joint_2/Chan_Phai_3_joint_3/Chan_Phai_3_joint_4/Chan_Phai_3_joint_5/Chan_Phai_3_joint_6/Chan_Phai_3_joint_7
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_trai_3_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_trai_3_joint_1/Chan_trai_3_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_trai_3_joint_1/Chan_trai_3_joint_2/Chan_trai_3_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_trai_3_joint_1/Chan_trai_3_joint_2/Chan_trai_3_joint_3/Chan_trai_3_joint_4
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_trai_3_joint_1/Chan_trai_3_joint_2/Chan_trai_3_joint_3/Chan_trai_3_joint_4/Chan_trai_3_joint_5
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_trai_3_joint_1/Chan_trai_3_joint_2/Chan_trai_3_joint_3/Chan_trai_3_joint_4/Chan_trai_3_joint_5/Chan_trai_3_joint_6
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_trai_3_joint_1/Chan_trai_3_joint_2/Chan_trai_3_joint_3/Chan_trai_3_joint_4/Chan_trai_3_joint_5/Chan_trai_3_joint_6/Chan_trai_3_joint_7
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rang_phai_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rang_phai_joint_1/Rang_phai_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rang_phai_joint_1/Rang_phai_joint_2/Rang_phai_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rang_trai_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rang_trai_joint_1/Rang_trai_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rang_trai_joint_1/Rang_trai_joint_2/Rang_trai_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rau_phai_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rau_phai_joint_1/Rau_phai_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rau_phai_joint_1/Rau_phai_joint_2/Rau_phai_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rau_trai_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rau_trai_joint_1/Rau_trai_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rau_trai_joint_1/Rau_trai_joint_2/Rau_trai_joint_3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Chet
+      takeName: ani Kien bang_v3
+      firstFrame: 160
+      lastFrame: 191
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: gigantic_ant_monster:Mesh
+        weight: 1
+      - path: Hong_Master
+        weight: 1
+      - path: Hong_Master/Duoi_1
+        weight: 1
+      - path: Hong_Master/Duoi_1/Duoi_2
+        weight: 1
+      - path: Hong_Master/Duoi_1/Duoi_2/Duoi_3
+        weight: 1
+      - path: Hong_Master/Duoi_1/Duoi_2/Duoi_3/Duoi_4
+        weight: 1
+      - path: Hong_Master/Lung_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_1_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_1_joint_1/Chan_Phai_1_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_1_joint_1/Chan_Phai_1_joint_2/Chan_Phai_1_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_1_joint_1/Chan_Phai_1_joint_2/Chan_Phai_1_joint_3/Chan_Phai_1_joint_4
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_1_joint_1/Chan_Phai_1_joint_2/Chan_Phai_1_joint_3/Chan_Phai_1_joint_4/Chan_Phai_1_joint_5
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_1_joint_1/Chan_Phai_1_joint_2/Chan_Phai_1_joint_3/Chan_Phai_1_joint_4/Chan_Phai_1_joint_5/Chan_Phai_1_joint_6
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_1_joint_1/Chan_Phai_1_joint_2/Chan_Phai_1_joint_3/Chan_Phai_1_joint_4/Chan_Phai_1_joint_5/Chan_Phai_1_joint_6/Chan_Phai_1_joint_7
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_2_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_2_joint_1/Chan_Phai_2_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_2_joint_1/Chan_Phai_2_joint_2/Chan_Phai_2_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_2_joint_1/Chan_Phai_2_joint_2/Chan_Phai_2_joint_3/Chan_Phai_2_joint_4
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_2_joint_1/Chan_Phai_2_joint_2/Chan_Phai_2_joint_3/Chan_Phai_2_joint_4/Chan_Phai_2_joint_5
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_2_joint_1/Chan_Phai_2_joint_2/Chan_Phai_2_joint_3/Chan_Phai_2_joint_4/Chan_Phai_2_joint_5/Chan_Phai_2_joint_6
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_2_joint_1/Chan_Phai_2_joint_2/Chan_Phai_2_joint_3/Chan_Phai_2_joint_4/Chan_Phai_2_joint_5/Chan_Phai_2_joint_6/Chan_Phai_2_joint_7
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_1_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_1_joint_1/Chan_trai_1_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_1_joint_1/Chan_trai_1_joint_2/Chan_trai_1_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_1_joint_1/Chan_trai_1_joint_2/Chan_trai_1_joint_3/Chan_trai_1_joint_4
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_1_joint_1/Chan_trai_1_joint_2/Chan_trai_1_joint_3/Chan_trai_1_joint_4/Chan_trai_1_joint_5
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_1_joint_1/Chan_trai_1_joint_2/Chan_trai_1_joint_3/Chan_trai_1_joint_4/Chan_trai_1_joint_5/Chan_trai_1_joint_6
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_1_joint_1/Chan_trai_1_joint_2/Chan_trai_1_joint_3/Chan_trai_1_joint_4/Chan_trai_1_joint_5/Chan_trai_1_joint_6/Chan_trai_1_joint_7
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_2_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_2_joint_1/Chan_trai_2_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_2_joint_1/Chan_trai_2_joint_2/Chan_trai_2_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_2_joint_1/Chan_trai_2_joint_2/Chan_trai_2_joint_3/Chan_trai_2_joint_4
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_2_joint_1/Chan_trai_2_joint_2/Chan_trai_2_joint_3/Chan_trai_2_joint_4/Chan_trai_2_joint_5
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_2_joint_1/Chan_trai_2_joint_2/Chan_trai_2_joint_3/Chan_trai_2_joint_4/Chan_trai_2_joint_5/Chan_trai_2_joint_6
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_2_joint_1/Chan_trai_2_joint_2/Chan_trai_2_joint_3/Chan_trai_2_joint_4/Chan_trai_2_joint_5/Chan_trai_2_joint_6/Chan_trai_2_joint_7
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_Phai_3_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_Phai_3_joint_1/Chan_Phai_3_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_Phai_3_joint_1/Chan_Phai_3_joint_2/Chan_Phai_3_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_Phai_3_joint_1/Chan_Phai_3_joint_2/Chan_Phai_3_joint_3/Chan_Phai_3_joint_4
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_Phai_3_joint_1/Chan_Phai_3_joint_2/Chan_Phai_3_joint_3/Chan_Phai_3_joint_4/Chan_Phai_3_joint_5
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_Phai_3_joint_1/Chan_Phai_3_joint_2/Chan_Phai_3_joint_3/Chan_Phai_3_joint_4/Chan_Phai_3_joint_5/Chan_Phai_3_joint_6
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_Phai_3_joint_1/Chan_Phai_3_joint_2/Chan_Phai_3_joint_3/Chan_Phai_3_joint_4/Chan_Phai_3_joint_5/Chan_Phai_3_joint_6/Chan_Phai_3_joint_7
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_trai_3_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_trai_3_joint_1/Chan_trai_3_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_trai_3_joint_1/Chan_trai_3_joint_2/Chan_trai_3_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_trai_3_joint_1/Chan_trai_3_joint_2/Chan_trai_3_joint_3/Chan_trai_3_joint_4
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_trai_3_joint_1/Chan_trai_3_joint_2/Chan_trai_3_joint_3/Chan_trai_3_joint_4/Chan_trai_3_joint_5
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_trai_3_joint_1/Chan_trai_3_joint_2/Chan_trai_3_joint_3/Chan_trai_3_joint_4/Chan_trai_3_joint_5/Chan_trai_3_joint_6
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_trai_3_joint_1/Chan_trai_3_joint_2/Chan_trai_3_joint_3/Chan_trai_3_joint_4/Chan_trai_3_joint_5/Chan_trai_3_joint_6/Chan_trai_3_joint_7
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rang_phai_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rang_phai_joint_1/Rang_phai_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rang_phai_joint_1/Rang_phai_joint_2/Rang_phai_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rang_trai_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rang_trai_joint_1/Rang_trai_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rang_trai_joint_1/Rang_trai_joint_2/Rang_trai_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rau_phai_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rau_phai_joint_1/Rau_phai_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rau_phai_joint_1/Rau_phai_joint_2/Rau_phai_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rau_trai_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rau_trai_joint_1/Rau_trai_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rau_trai_joint_1/Rau_trai_joint_2/Rau_trai_joint_3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Dicham
+      takeName: ani Kien bang_v3
+      firstFrame: 0
+      lastFrame: 33
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: gigantic_ant_monster:Mesh
+        weight: 1
+      - path: Hong_Master
+        weight: 1
+      - path: Hong_Master/Duoi_1
+        weight: 1
+      - path: Hong_Master/Duoi_1/Duoi_2
+        weight: 1
+      - path: Hong_Master/Duoi_1/Duoi_2/Duoi_3
+        weight: 1
+      - path: Hong_Master/Duoi_1/Duoi_2/Duoi_3/Duoi_4
+        weight: 1
+      - path: Hong_Master/Lung_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_1_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_1_joint_1/Chan_Phai_1_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_1_joint_1/Chan_Phai_1_joint_2/Chan_Phai_1_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_1_joint_1/Chan_Phai_1_joint_2/Chan_Phai_1_joint_3/Chan_Phai_1_joint_4
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_1_joint_1/Chan_Phai_1_joint_2/Chan_Phai_1_joint_3/Chan_Phai_1_joint_4/Chan_Phai_1_joint_5
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_1_joint_1/Chan_Phai_1_joint_2/Chan_Phai_1_joint_3/Chan_Phai_1_joint_4/Chan_Phai_1_joint_5/Chan_Phai_1_joint_6
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_1_joint_1/Chan_Phai_1_joint_2/Chan_Phai_1_joint_3/Chan_Phai_1_joint_4/Chan_Phai_1_joint_5/Chan_Phai_1_joint_6/Chan_Phai_1_joint_7
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_2_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_2_joint_1/Chan_Phai_2_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_2_joint_1/Chan_Phai_2_joint_2/Chan_Phai_2_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_2_joint_1/Chan_Phai_2_joint_2/Chan_Phai_2_joint_3/Chan_Phai_2_joint_4
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_2_joint_1/Chan_Phai_2_joint_2/Chan_Phai_2_joint_3/Chan_Phai_2_joint_4/Chan_Phai_2_joint_5
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_2_joint_1/Chan_Phai_2_joint_2/Chan_Phai_2_joint_3/Chan_Phai_2_joint_4/Chan_Phai_2_joint_5/Chan_Phai_2_joint_6
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_Phai_2_joint_1/Chan_Phai_2_joint_2/Chan_Phai_2_joint_3/Chan_Phai_2_joint_4/Chan_Phai_2_joint_5/Chan_Phai_2_joint_6/Chan_Phai_2_joint_7
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_1_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_1_joint_1/Chan_trai_1_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_1_joint_1/Chan_trai_1_joint_2/Chan_trai_1_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_1_joint_1/Chan_trai_1_joint_2/Chan_trai_1_joint_3/Chan_trai_1_joint_4
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_1_joint_1/Chan_trai_1_joint_2/Chan_trai_1_joint_3/Chan_trai_1_joint_4/Chan_trai_1_joint_5
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_1_joint_1/Chan_trai_1_joint_2/Chan_trai_1_joint_3/Chan_trai_1_joint_4/Chan_trai_1_joint_5/Chan_trai_1_joint_6
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_1_joint_1/Chan_trai_1_joint_2/Chan_trai_1_joint_3/Chan_trai_1_joint_4/Chan_trai_1_joint_5/Chan_trai_1_joint_6/Chan_trai_1_joint_7
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_2_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_2_joint_1/Chan_trai_2_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_2_joint_1/Chan_trai_2_joint_2/Chan_trai_2_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_2_joint_1/Chan_trai_2_joint_2/Chan_trai_2_joint_3/Chan_trai_2_joint_4
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_2_joint_1/Chan_trai_2_joint_2/Chan_trai_2_joint_3/Chan_trai_2_joint_4/Chan_trai_2_joint_5
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_2_joint_1/Chan_trai_2_joint_2/Chan_trai_2_joint_3/Chan_trai_2_joint_4/Chan_trai_2_joint_5/Chan_trai_2_joint_6
+        weight: 1
+      - path: Hong_Master/Lung_1/Chan_trai_2_joint_1/Chan_trai_2_joint_2/Chan_trai_2_joint_3/Chan_trai_2_joint_4/Chan_trai_2_joint_5/Chan_trai_2_joint_6/Chan_trai_2_joint_7
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_Phai_3_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_Phai_3_joint_1/Chan_Phai_3_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_Phai_3_joint_1/Chan_Phai_3_joint_2/Chan_Phai_3_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_Phai_3_joint_1/Chan_Phai_3_joint_2/Chan_Phai_3_joint_3/Chan_Phai_3_joint_4
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_Phai_3_joint_1/Chan_Phai_3_joint_2/Chan_Phai_3_joint_3/Chan_Phai_3_joint_4/Chan_Phai_3_joint_5
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_Phai_3_joint_1/Chan_Phai_3_joint_2/Chan_Phai_3_joint_3/Chan_Phai_3_joint_4/Chan_Phai_3_joint_5/Chan_Phai_3_joint_6
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_Phai_3_joint_1/Chan_Phai_3_joint_2/Chan_Phai_3_joint_3/Chan_Phai_3_joint_4/Chan_Phai_3_joint_5/Chan_Phai_3_joint_6/Chan_Phai_3_joint_7
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_trai_3_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_trai_3_joint_1/Chan_trai_3_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_trai_3_joint_1/Chan_trai_3_joint_2/Chan_trai_3_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_trai_3_joint_1/Chan_trai_3_joint_2/Chan_trai_3_joint_3/Chan_trai_3_joint_4
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_trai_3_joint_1/Chan_trai_3_joint_2/Chan_trai_3_joint_3/Chan_trai_3_joint_4/Chan_trai_3_joint_5
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_trai_3_joint_1/Chan_trai_3_joint_2/Chan_trai_3_joint_3/Chan_trai_3_joint_4/Chan_trai_3_joint_5/Chan_trai_3_joint_6
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Chan_trai_3_joint_1/Chan_trai_3_joint_2/Chan_trai_3_joint_3/Chan_trai_3_joint_4/Chan_trai_3_joint_5/Chan_trai_3_joint_6/Chan_trai_3_joint_7
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rang_phai_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rang_phai_joint_1/Rang_phai_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rang_phai_joint_1/Rang_phai_joint_2/Rang_phai_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rang_trai_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rang_trai_joint_1/Rang_trai_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rang_trai_joint_1/Rang_trai_joint_2/Rang_trai_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rau_phai_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rau_phai_joint_1/Rau_phai_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rau_phai_joint_1/Rau_phai_joint_2/Rau_phai_joint_3
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rau_trai_joint_1
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rau_trai_joint_1/Rau_trai_joint_2
+        weight: 1
+      - path: Hong_Master/Lung_1/Lung_2/Co/Dau/Rau_trai_joint_1/Rau_trai_joint_2/Rau_trai_joint_3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

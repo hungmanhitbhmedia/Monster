@@ -1,0 +1,865 @@
+fileFormatVersion: 2
+guid: eabd40c45f8cf694e87fd4057c98012c
+timeCreated: 1462783578
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: G1
+    100002: G2
+    100004: G3
+    100006: G4
+    100008: G5
+    100010: L_1
+    100012: L_B_1
+    100014: L_B_2
+    100016: L_B_3
+    100018: L_B_4
+    100020: L_B_5
+    100022: L_B_6
+    100024: L_F_1
+    100026: L_F_2
+    100028: L_F_3
+    100030: L_F_4
+    100032: L_F_5
+    100034: L_F_6
+    100036: nurbsCircle2
+    100038: nurbsCircle23
+    100040: nurbsCircle24
+    100042: nurbsCircle25
+    100044: nurbsCircle3
+    100046: nurbsCircle4
+    100048: nurbsCircle5
+    100050: polySurface94
+    100052: R_1
+    100054: R_2
+    100056: R_2 1
+    100058: R_3
+    100060: R_3 1
+    100062: R_B_1
+    100064: R_B_2
+    100066: R_B_3
+    100068: R_B_4
+    100070: R_B_5
+    100072: R_B_6
+    100074: R_F_1
+    100076: R_F_2
+    100078: R_F_3
+    100080: R_F_4
+    100082: R_F_5
+    100084: R_F_6
+    100086: //RootNode
+    400000: G1
+    400002: G2
+    400004: G3
+    400006: G4
+    400008: G5
+    400010: L_1
+    400012: L_B_1
+    400014: L_B_2
+    400016: L_B_3
+    400018: L_B_4
+    400020: L_B_5
+    400022: L_B_6
+    400024: L_F_1
+    400026: L_F_2
+    400028: L_F_3
+    400030: L_F_4
+    400032: L_F_5
+    400034: L_F_6
+    400036: nurbsCircle2
+    400038: nurbsCircle23
+    400040: nurbsCircle24
+    400042: nurbsCircle25
+    400044: nurbsCircle3
+    400046: nurbsCircle4
+    400048: nurbsCircle5
+    400050: polySurface94
+    400052: R_1
+    400054: R_2
+    400056: R_2 1
+    400058: R_3
+    400060: R_3 1
+    400062: R_B_1
+    400064: R_B_2
+    400066: R_B_3
+    400068: R_B_4
+    400070: R_B_5
+    400072: R_B_6
+    400074: R_F_1
+    400076: R_F_2
+    400078: R_F_3
+    400080: R_F_4
+    400082: R_F_5
+    400084: R_F_6
+    400086: //RootNode
+    4300000: polySurface94
+    7400000: Tho
+    7400002: Idle
+    7400004: Chay
+    7400006: Attack
+    7400008: Chet
+    7400010: Dicham
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: polySurface94
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Tho
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 35
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: G1
+        weight: 1
+      - path: G1/G2
+        weight: 1
+      - path: G1/G2/G3
+        weight: 1
+      - path: G1/G2/G3/G4
+        weight: 1
+      - path: G1/G2/G3/G4/G5
+        weight: 1
+      - path: G1/G2/G3/G4/G5/L_1
+        weight: 1
+      - path: G1/G2/G3/G4/G5/L_1/R_2
+        weight: 1
+      - path: G1/G2/G3/G4/G5/L_1/R_2/R_3
+        weight: 1
+      - path: G1/G2/G3/G4/G5/R_1
+        weight: 1
+      - path: G1/G2/G3/G4/G5/R_1/R_2 1
+        weight: 1
+      - path: G1/G2/G3/G4/G5/R_1/R_2 1/R_3 1
+        weight: 1
+      - path: G1/G2/G3/L_F_1
+        weight: 1
+      - path: G1/G2/G3/L_F_1/L_F_2
+        weight: 1
+      - path: G1/G2/G3/L_F_1/L_F_2/L_F_3
+        weight: 1
+      - path: G1/G2/G3/L_F_1/L_F_2/L_F_3/L_F_4
+        weight: 1
+      - path: G1/G2/G3/L_F_1/L_F_2/L_F_3/L_F_4/L_F_5
+        weight: 1
+      - path: G1/G2/G3/L_F_1/L_F_2/L_F_3/L_F_4/L_F_5/L_F_6
+        weight: 1
+      - path: G1/G2/G3/R_F_1
+        weight: 1
+      - path: G1/G2/G3/R_F_1/R_F_2
+        weight: 1
+      - path: G1/G2/G3/R_F_1/R_F_2/R_F_3
+        weight: 1
+      - path: G1/G2/G3/R_F_1/R_F_2/R_F_3/R_F_4
+        weight: 1
+      - path: G1/G2/G3/R_F_1/R_F_2/R_F_3/R_F_4/R_F_5
+        weight: 1
+      - path: G1/G2/G3/R_F_1/R_F_2/R_F_3/R_F_4/R_F_5/R_F_6
+        weight: 1
+      - path: G1/L_B_1
+        weight: 1
+      - path: G1/L_B_1/L_B_2
+        weight: 1
+      - path: G1/L_B_1/L_B_2/L_B_3
+        weight: 1
+      - path: G1/L_B_1/L_B_2/L_B_3/L_B_4
+        weight: 1
+      - path: G1/L_B_1/L_B_2/L_B_3/L_B_4/L_B_5
+        weight: 1
+      - path: G1/L_B_1/L_B_2/L_B_3/L_B_4/L_B_5/L_B_6
+        weight: 1
+      - path: G1/R_B_1
+        weight: 1
+      - path: G1/R_B_1/R_B_2
+        weight: 1
+      - path: G1/R_B_1/R_B_2/R_B_3
+        weight: 1
+      - path: G1/R_B_1/R_B_2/R_B_3/R_B_4
+        weight: 1
+      - path: G1/R_B_1/R_B_2/R_B_3/R_B_4/R_B_5
+        weight: 1
+      - path: G1/R_B_1/R_B_2/R_B_3/R_B_4/R_B_5/R_B_6
+        weight: 1
+      - path: nurbsCircle23
+        weight: 1
+      - path: nurbsCircle23/nurbsCircle2
+        weight: 1
+      - path: nurbsCircle23/nurbsCircle2/nurbsCircle3
+        weight: 1
+      - path: nurbsCircle23/nurbsCircle2/nurbsCircle3/nurbsCircle4
+        weight: 1
+      - path: nurbsCircle23/nurbsCircle2/nurbsCircle3/nurbsCircle4/nurbsCircle5
+        weight: 1
+      - path: nurbsCircle23/nurbsCircle2/nurbsCircle3/nurbsCircle4/nurbsCircle5/nurbsCircle24
+        weight: 1
+      - path: nurbsCircle23/nurbsCircle2/nurbsCircle3/nurbsCircle4/nurbsCircle5/nurbsCircle25
+        weight: 1
+      - path: polySurface94
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 35
+      lastFrame: 175
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: G1
+        weight: 1
+      - path: G1/G2
+        weight: 1
+      - path: G1/G2/G3
+        weight: 1
+      - path: G1/G2/G3/G4
+        weight: 1
+      - path: G1/G2/G3/G4/G5
+        weight: 1
+      - path: G1/G2/G3/G4/G5/L_1
+        weight: 1
+      - path: G1/G2/G3/G4/G5/L_1/R_2
+        weight: 1
+      - path: G1/G2/G3/G4/G5/L_1/R_2/R_3
+        weight: 1
+      - path: G1/G2/G3/G4/G5/R_1
+        weight: 1
+      - path: G1/G2/G3/G4/G5/R_1/R_2 1
+        weight: 1
+      - path: G1/G2/G3/G4/G5/R_1/R_2 1/R_3 1
+        weight: 1
+      - path: G1/G2/G3/L_F_1
+        weight: 1
+      - path: G1/G2/G3/L_F_1/L_F_2
+        weight: 1
+      - path: G1/G2/G3/L_F_1/L_F_2/L_F_3
+        weight: 1
+      - path: G1/G2/G3/L_F_1/L_F_2/L_F_3/L_F_4
+        weight: 1
+      - path: G1/G2/G3/L_F_1/L_F_2/L_F_3/L_F_4/L_F_5
+        weight: 1
+      - path: G1/G2/G3/L_F_1/L_F_2/L_F_3/L_F_4/L_F_5/L_F_6
+        weight: 1
+      - path: G1/G2/G3/R_F_1
+        weight: 1
+      - path: G1/G2/G3/R_F_1/R_F_2
+        weight: 1
+      - path: G1/G2/G3/R_F_1/R_F_2/R_F_3
+        weight: 1
+      - path: G1/G2/G3/R_F_1/R_F_2/R_F_3/R_F_4
+        weight: 1
+      - path: G1/G2/G3/R_F_1/R_F_2/R_F_3/R_F_4/R_F_5
+        weight: 1
+      - path: G1/G2/G3/R_F_1/R_F_2/R_F_3/R_F_4/R_F_5/R_F_6
+        weight: 1
+      - path: G1/L_B_1
+        weight: 1
+      - path: G1/L_B_1/L_B_2
+        weight: 1
+      - path: G1/L_B_1/L_B_2/L_B_3
+        weight: 1
+      - path: G1/L_B_1/L_B_2/L_B_3/L_B_4
+        weight: 1
+      - path: G1/L_B_1/L_B_2/L_B_3/L_B_4/L_B_5
+        weight: 1
+      - path: G1/L_B_1/L_B_2/L_B_3/L_B_4/L_B_5/L_B_6
+        weight: 1
+      - path: G1/R_B_1
+        weight: 1
+      - path: G1/R_B_1/R_B_2
+        weight: 1
+      - path: G1/R_B_1/R_B_2/R_B_3
+        weight: 1
+      - path: G1/R_B_1/R_B_2/R_B_3/R_B_4
+        weight: 1
+      - path: G1/R_B_1/R_B_2/R_B_3/R_B_4/R_B_5
+        weight: 1
+      - path: G1/R_B_1/R_B_2/R_B_3/R_B_4/R_B_5/R_B_6
+        weight: 1
+      - path: nurbsCircle23
+        weight: 1
+      - path: nurbsCircle23/nurbsCircle2
+        weight: 1
+      - path: nurbsCircle23/nurbsCircle2/nurbsCircle3
+        weight: 1
+      - path: nurbsCircle23/nurbsCircle2/nurbsCircle3/nurbsCircle4
+        weight: 1
+      - path: nurbsCircle23/nurbsCircle2/nurbsCircle3/nurbsCircle4/nurbsCircle5
+        weight: 1
+      - path: nurbsCircle23/nurbsCircle2/nurbsCircle3/nurbsCircle4/nurbsCircle5/nurbsCircle24
+        weight: 1
+      - path: nurbsCircle23/nurbsCircle2/nurbsCircle3/nurbsCircle4/nurbsCircle5/nurbsCircle25
+        weight: 1
+      - path: polySurface94
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Chay
+      takeName: Take 001
+      firstFrame: 290
+      lastFrame: 320
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: G1
+        weight: 1
+      - path: G1/G2
+        weight: 1
+      - path: G1/G2/G3
+        weight: 1
+      - path: G1/G2/G3/G4
+        weight: 1
+      - path: G1/G2/G3/G4/G5
+        weight: 1
+      - path: G1/G2/G3/G4/G5/L_1
+        weight: 1
+      - path: G1/G2/G3/G4/G5/L_1/R_2
+        weight: 1
+      - path: G1/G2/G3/G4/G5/L_1/R_2/R_3
+        weight: 1
+      - path: G1/G2/G3/G4/G5/R_1
+        weight: 1
+      - path: G1/G2/G3/G4/G5/R_1/R_2 1
+        weight: 1
+      - path: G1/G2/G3/G4/G5/R_1/R_2 1/R_3 1
+        weight: 1
+      - path: G1/G2/G3/L_F_1
+        weight: 1
+      - path: G1/G2/G3/L_F_1/L_F_2
+        weight: 1
+      - path: G1/G2/G3/L_F_1/L_F_2/L_F_3
+        weight: 1
+      - path: G1/G2/G3/L_F_1/L_F_2/L_F_3/L_F_4
+        weight: 1
+      - path: G1/G2/G3/L_F_1/L_F_2/L_F_3/L_F_4/L_F_5
+        weight: 1
+      - path: G1/G2/G3/L_F_1/L_F_2/L_F_3/L_F_4/L_F_5/L_F_6
+        weight: 1
+      - path: G1/G2/G3/R_F_1
+        weight: 1
+      - path: G1/G2/G3/R_F_1/R_F_2
+        weight: 1
+      - path: G1/G2/G3/R_F_1/R_F_2/R_F_3
+        weight: 1
+      - path: G1/G2/G3/R_F_1/R_F_2/R_F_3/R_F_4
+        weight: 1
+      - path: G1/G2/G3/R_F_1/R_F_2/R_F_3/R_F_4/R_F_5
+        weight: 1
+      - path: G1/G2/G3/R_F_1/R_F_2/R_F_3/R_F_4/R_F_5/R_F_6
+        weight: 1
+      - path: G1/L_B_1
+        weight: 1
+      - path: G1/L_B_1/L_B_2
+        weight: 1
+      - path: G1/L_B_1/L_B_2/L_B_3
+        weight: 1
+      - path: G1/L_B_1/L_B_2/L_B_3/L_B_4
+        weight: 1
+      - path: G1/L_B_1/L_B_2/L_B_3/L_B_4/L_B_5
+        weight: 1
+      - path: G1/L_B_1/L_B_2/L_B_3/L_B_4/L_B_5/L_B_6
+        weight: 1
+      - path: G1/R_B_1
+        weight: 1
+      - path: G1/R_B_1/R_B_2
+        weight: 1
+      - path: G1/R_B_1/R_B_2/R_B_3
+        weight: 1
+      - path: G1/R_B_1/R_B_2/R_B_3/R_B_4
+        weight: 1
+      - path: G1/R_B_1/R_B_2/R_B_3/R_B_4/R_B_5
+        weight: 1
+      - path: G1/R_B_1/R_B_2/R_B_3/R_B_4/R_B_5/R_B_6
+        weight: 1
+      - path: nurbsCircle23
+        weight: 1
+      - path: nurbsCircle23/nurbsCircle2
+        weight: 1
+      - path: nurbsCircle23/nurbsCircle2/nurbsCircle3
+        weight: 1
+      - path: nurbsCircle23/nurbsCircle2/nurbsCircle3/nurbsCircle4
+        weight: 1
+      - path: nurbsCircle23/nurbsCircle2/nurbsCircle3/nurbsCircle4/nurbsCircle5
+        weight: 1
+      - path: nurbsCircle23/nurbsCircle2/nurbsCircle3/nurbsCircle4/nurbsCircle5/nurbsCircle24
+        weight: 1
+      - path: nurbsCircle23/nurbsCircle2/nurbsCircle3/nurbsCircle4/nurbsCircle5/nurbsCircle25
+        weight: 1
+      - path: polySurface94
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attack
+      takeName: Take 001
+      firstFrame: 400
+      lastFrame: 420
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: G1
+        weight: 1
+      - path: G1/G2
+        weight: 1
+      - path: G1/G2/G3
+        weight: 1
+      - path: G1/G2/G3/G4
+        weight: 1
+      - path: G1/G2/G3/G4/G5
+        weight: 1
+      - path: G1/G2/G3/G4/G5/L_1
+        weight: 1
+      - path: G1/G2/G3/G4/G5/L_1/R_2
+        weight: 1
+      - path: G1/G2/G3/G4/G5/L_1/R_2/R_3
+        weight: 1
+      - path: G1/G2/G3/G4/G5/R_1
+        weight: 1
+      - path: G1/G2/G3/G4/G5/R_1/R_2 1
+        weight: 1
+      - path: G1/G2/G3/G4/G5/R_1/R_2 1/R_3 1
+        weight: 1
+      - path: G1/G2/G3/L_F_1
+        weight: 1
+      - path: G1/G2/G3/L_F_1/L_F_2
+        weight: 1
+      - path: G1/G2/G3/L_F_1/L_F_2/L_F_3
+        weight: 1
+      - path: G1/G2/G3/L_F_1/L_F_2/L_F_3/L_F_4
+        weight: 1
+      - path: G1/G2/G3/L_F_1/L_F_2/L_F_3/L_F_4/L_F_5
+        weight: 1
+      - path: G1/G2/G3/L_F_1/L_F_2/L_F_3/L_F_4/L_F_5/L_F_6
+        weight: 1
+      - path: G1/G2/G3/R_F_1
+        weight: 1
+      - path: G1/G2/G3/R_F_1/R_F_2
+        weight: 1
+      - path: G1/G2/G3/R_F_1/R_F_2/R_F_3
+        weight: 1
+      - path: G1/G2/G3/R_F_1/R_F_2/R_F_3/R_F_4
+        weight: 1
+      - path: G1/G2/G3/R_F_1/R_F_2/R_F_3/R_F_4/R_F_5
+        weight: 1
+      - path: G1/G2/G3/R_F_1/R_F_2/R_F_3/R_F_4/R_F_5/R_F_6
+        weight: 1
+      - path: G1/L_B_1
+        weight: 1
+      - path: G1/L_B_1/L_B_2
+        weight: 1
+      - path: G1/L_B_1/L_B_2/L_B_3
+        weight: 1
+      - path: G1/L_B_1/L_B_2/L_B_3/L_B_4
+        weight: 1
+      - path: G1/L_B_1/L_B_2/L_B_3/L_B_4/L_B_5
+        weight: 1
+      - path: G1/L_B_1/L_B_2/L_B_3/L_B_4/L_B_5/L_B_6
+        weight: 1
+      - path: G1/R_B_1
+        weight: 1
+      - path: G1/R_B_1/R_B_2
+        weight: 1
+      - path: G1/R_B_1/R_B_2/R_B_3
+        weight: 1
+      - path: G1/R_B_1/R_B_2/R_B_3/R_B_4
+        weight: 1
+      - path: G1/R_B_1/R_B_2/R_B_3/R_B_4/R_B_5
+        weight: 1
+      - path: G1/R_B_1/R_B_2/R_B_3/R_B_4/R_B_5/R_B_6
+        weight: 1
+      - path: nurbsCircle23
+        weight: 1
+      - path: nurbsCircle23/nurbsCircle2
+        weight: 1
+      - path: nurbsCircle23/nurbsCircle2/nurbsCircle3
+        weight: 1
+      - path: nurbsCircle23/nurbsCircle2/nurbsCircle3/nurbsCircle4
+        weight: 1
+      - path: nurbsCircle23/nurbsCircle2/nurbsCircle3/nurbsCircle4/nurbsCircle5
+        weight: 1
+      - path: nurbsCircle23/nurbsCircle2/nurbsCircle3/nurbsCircle4/nurbsCircle5/nurbsCircle24
+        weight: 1
+      - path: nurbsCircle23/nurbsCircle2/nurbsCircle3/nurbsCircle4/nurbsCircle5/nurbsCircle25
+        weight: 1
+      - path: polySurface94
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Chet
+      takeName: Take 001
+      firstFrame: 435
+      lastFrame: 480
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: G1
+        weight: 1
+      - path: G1/G2
+        weight: 1
+      - path: G1/G2/G3
+        weight: 1
+      - path: G1/G2/G3/G4
+        weight: 1
+      - path: G1/G2/G3/G4/G5
+        weight: 1
+      - path: G1/G2/G3/G4/G5/L_1
+        weight: 1
+      - path: G1/G2/G3/G4/G5/L_1/R_2
+        weight: 1
+      - path: G1/G2/G3/G4/G5/L_1/R_2/R_3
+        weight: 1
+      - path: G1/G2/G3/G4/G5/R_1
+        weight: 1
+      - path: G1/G2/G3/G4/G5/R_1/R_2 1
+        weight: 1
+      - path: G1/G2/G3/G4/G5/R_1/R_2 1/R_3 1
+        weight: 1
+      - path: G1/G2/G3/L_F_1
+        weight: 1
+      - path: G1/G2/G3/L_F_1/L_F_2
+        weight: 1
+      - path: G1/G2/G3/L_F_1/L_F_2/L_F_3
+        weight: 1
+      - path: G1/G2/G3/L_F_1/L_F_2/L_F_3/L_F_4
+        weight: 1
+      - path: G1/G2/G3/L_F_1/L_F_2/L_F_3/L_F_4/L_F_5
+        weight: 1
+      - path: G1/G2/G3/L_F_1/L_F_2/L_F_3/L_F_4/L_F_5/L_F_6
+        weight: 1
+      - path: G1/G2/G3/R_F_1
+        weight: 1
+      - path: G1/G2/G3/R_F_1/R_F_2
+        weight: 1
+      - path: G1/G2/G3/R_F_1/R_F_2/R_F_3
+        weight: 1
+      - path: G1/G2/G3/R_F_1/R_F_2/R_F_3/R_F_4
+        weight: 1
+      - path: G1/G2/G3/R_F_1/R_F_2/R_F_3/R_F_4/R_F_5
+        weight: 1
+      - path: G1/G2/G3/R_F_1/R_F_2/R_F_3/R_F_4/R_F_5/R_F_6
+        weight: 1
+      - path: G1/L_B_1
+        weight: 1
+      - path: G1/L_B_1/L_B_2
+        weight: 1
+      - path: G1/L_B_1/L_B_2/L_B_3
+        weight: 1
+      - path: G1/L_B_1/L_B_2/L_B_3/L_B_4
+        weight: 1
+      - path: G1/L_B_1/L_B_2/L_B_3/L_B_4/L_B_5
+        weight: 1
+      - path: G1/L_B_1/L_B_2/L_B_3/L_B_4/L_B_5/L_B_6
+        weight: 1
+      - path: G1/R_B_1
+        weight: 1
+      - path: G1/R_B_1/R_B_2
+        weight: 1
+      - path: G1/R_B_1/R_B_2/R_B_3
+        weight: 1
+      - path: G1/R_B_1/R_B_2/R_B_3/R_B_4
+        weight: 1
+      - path: G1/R_B_1/R_B_2/R_B_3/R_B_4/R_B_5
+        weight: 1
+      - path: G1/R_B_1/R_B_2/R_B_3/R_B_4/R_B_5/R_B_6
+        weight: 1
+      - path: nurbsCircle23
+        weight: 1
+      - path: nurbsCircle23/nurbsCircle2
+        weight: 1
+      - path: nurbsCircle23/nurbsCircle2/nurbsCircle3
+        weight: 1
+      - path: nurbsCircle23/nurbsCircle2/nurbsCircle3/nurbsCircle4
+        weight: 1
+      - path: nurbsCircle23/nurbsCircle2/nurbsCircle3/nurbsCircle4/nurbsCircle5
+        weight: 1
+      - path: nurbsCircle23/nurbsCircle2/nurbsCircle3/nurbsCircle4/nurbsCircle5/nurbsCircle24
+        weight: 1
+      - path: nurbsCircle23/nurbsCircle2/nurbsCircle3/nurbsCircle4/nurbsCircle5/nurbsCircle25
+        weight: 1
+      - path: polySurface94
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Dicham
+      takeName: Take 001
+      firstFrame: 205
+      lastFrame: 235
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: G1
+        weight: 1
+      - path: G1/G2
+        weight: 1
+      - path: G1/G2/G3
+        weight: 1
+      - path: G1/G2/G3/G4
+        weight: 1
+      - path: G1/G2/G3/G4/G5
+        weight: 1
+      - path: G1/G2/G3/G4/G5/L_1
+        weight: 1
+      - path: G1/G2/G3/G4/G5/L_1/R_2
+        weight: 1
+      - path: G1/G2/G3/G4/G5/L_1/R_2/R_3
+        weight: 1
+      - path: G1/G2/G3/G4/G5/R_1
+        weight: 1
+      - path: G1/G2/G3/G4/G5/R_1/R_2 1
+        weight: 1
+      - path: G1/G2/G3/G4/G5/R_1/R_2 1/R_3 1
+        weight: 1
+      - path: G1/G2/G3/L_F_1
+        weight: 1
+      - path: G1/G2/G3/L_F_1/L_F_2
+        weight: 1
+      - path: G1/G2/G3/L_F_1/L_F_2/L_F_3
+        weight: 1
+      - path: G1/G2/G3/L_F_1/L_F_2/L_F_3/L_F_4
+        weight: 1
+      - path: G1/G2/G3/L_F_1/L_F_2/L_F_3/L_F_4/L_F_5
+        weight: 1
+      - path: G1/G2/G3/L_F_1/L_F_2/L_F_3/L_F_4/L_F_5/L_F_6
+        weight: 1
+      - path: G1/G2/G3/R_F_1
+        weight: 1
+      - path: G1/G2/G3/R_F_1/R_F_2
+        weight: 1
+      - path: G1/G2/G3/R_F_1/R_F_2/R_F_3
+        weight: 1
+      - path: G1/G2/G3/R_F_1/R_F_2/R_F_3/R_F_4
+        weight: 1
+      - path: G1/G2/G3/R_F_1/R_F_2/R_F_3/R_F_4/R_F_5
+        weight: 1
+      - path: G1/G2/G3/R_F_1/R_F_2/R_F_3/R_F_4/R_F_5/R_F_6
+        weight: 1
+      - path: G1/L_B_1
+        weight: 1
+      - path: G1/L_B_1/L_B_2
+        weight: 1
+      - path: G1/L_B_1/L_B_2/L_B_3
+        weight: 1
+      - path: G1/L_B_1/L_B_2/L_B_3/L_B_4
+        weight: 1
+      - path: G1/L_B_1/L_B_2/L_B_3/L_B_4/L_B_5
+        weight: 1
+      - path: G1/L_B_1/L_B_2/L_B_3/L_B_4/L_B_5/L_B_6
+        weight: 1
+      - path: G1/R_B_1
+        weight: 1
+      - path: G1/R_B_1/R_B_2
+        weight: 1
+      - path: G1/R_B_1/R_B_2/R_B_3
+        weight: 1
+      - path: G1/R_B_1/R_B_2/R_B_3/R_B_4
+        weight: 1
+      - path: G1/R_B_1/R_B_2/R_B_3/R_B_4/R_B_5
+        weight: 1
+      - path: G1/R_B_1/R_B_2/R_B_3/R_B_4/R_B_5/R_B_6
+        weight: 1
+      - path: nurbsCircle23
+        weight: 1
+      - path: nurbsCircle23/nurbsCircle2
+        weight: 1
+      - path: nurbsCircle23/nurbsCircle2/nurbsCircle3
+        weight: 1
+      - path: nurbsCircle23/nurbsCircle2/nurbsCircle3/nurbsCircle4
+        weight: 1
+      - path: nurbsCircle23/nurbsCircle2/nurbsCircle3/nurbsCircle4/nurbsCircle5
+        weight: 1
+      - path: nurbsCircle23/nurbsCircle2/nurbsCircle3/nurbsCircle4/nurbsCircle5/nurbsCircle24
+        weight: 1
+      - path: nurbsCircle23/nurbsCircle2/nurbsCircle3/nurbsCircle4/nurbsCircle5/nurbsCircle25
+        weight: 1
+      - path: polySurface94
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

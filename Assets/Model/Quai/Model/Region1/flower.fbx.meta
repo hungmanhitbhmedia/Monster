@@ -1,0 +1,713 @@
+fileFormatVersion: 2
+guid: 499538c2488618149b5e63526ab98bbf
+timeCreated: 1462508858
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: control_face
+    100002: //RootNode
+    100004: joint1
+    100006: joint10
+    100008: joint11
+    100010: joint12
+    100012: joint14
+    100014: joint15
+    100016: joint17
+    100018: joint18
+    100020: joint19
+    100022: joint2
+    100024: joint20
+    100026: joint21
+    100028: joint3
+    100030: joint4
+    100032: joint5
+    100034: joint6
+    100036: joint8
+    100038: joint9
+    100040: nurbsCircle1
+    100042: nurbsCircle15
+    100044: nurbsCircle16
+    100046: nurbsCircle17
+    100048: nurbsCircle18
+    100050: nurbsCircle19
+    100052: nurbsCircle20
+    100054: nurbsCircle21
+    100056: nurbsCircle5
+    100058: nurbsCircle6
+    100060: nurbsCircle7
+    100062: nurbsCircle8
+    100064: polySurface47
+    400000: control_face
+    400002: //RootNode
+    400004: joint1
+    400006: joint10
+    400008: joint11
+    400010: joint12
+    400012: joint14
+    400014: joint15
+    400016: joint17
+    400018: joint18
+    400020: joint19
+    400022: joint2
+    400024: joint20
+    400026: joint21
+    400028: joint3
+    400030: joint4
+    400032: joint5
+    400034: joint6
+    400036: joint8
+    400038: joint9
+    400040: nurbsCircle1
+    400042: nurbsCircle15
+    400044: nurbsCircle16
+    400046: nurbsCircle17
+    400048: nurbsCircle18
+    400050: nurbsCircle19
+    400052: nurbsCircle20
+    400054: nurbsCircle21
+    400056: nurbsCircle5
+    400058: nurbsCircle6
+    400060: nurbsCircle7
+    400062: nurbsCircle8
+    400064: polySurface47
+    4300000: polySurface47
+    7400000: Chay
+    7400002: Tho
+    7400004: Idle
+    7400006: Attack
+    7400008: Chay
+    7400010: Chet
+    7400012: Bithuong
+    7400014: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: polySurface47
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Chay
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 120
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: joint1
+        weight: 1
+      - path: joint1/joint2
+        weight: 1
+      - path: joint1/joint2/joint3
+        weight: 1
+      - path: joint1/joint2/joint3/joint4
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6
+        weight: 1
+      - path: joint1/joint8
+        weight: 1
+      - path: joint1/joint8/joint9
+        weight: 1
+      - path: joint1/joint8/joint9/joint10
+        weight: 1
+      - path: joint1/joint8/joint9/joint10/joint11
+        weight: 1
+      - path: joint1/joint17
+        weight: 1
+      - path: joint1/joint17/joint18
+        weight: 1
+      - path: joint1/joint17/joint18/joint19
+        weight: 1
+      - path: joint1/joint17/joint18/joint19/joint20
+        weight: 1
+      - path: joint1/joint21
+        weight: 1
+      - path: joint1/joint21/joint12
+        weight: 1
+      - path: joint1/joint21/joint12/joint14
+        weight: 1
+      - path: joint1/joint21/joint12/joint14/joint15
+        weight: 1
+      - path: nurbsCircle15
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6/nurbsCircle7
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6/nurbsCircle7/nurbsCircle8
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6/nurbsCircle7/nurbsCircle8/control_face
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6/nurbsCircle7/nurbsCircle8/control_face/nurbsCircle16
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6/nurbsCircle7/nurbsCircle8/control_face/nurbsCircle17
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6/nurbsCircle7/nurbsCircle8/control_face/nurbsCircle18
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6/nurbsCircle7/nurbsCircle8/control_face/nurbsCircle19
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6/nurbsCircle7/nurbsCircle8/control_face/nurbsCircle20
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6/nurbsCircle7/nurbsCircle8/control_face/nurbsCircle21
+        weight: 1
+      - path: polySurface47
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Tho
+      takeName: Take 001
+      firstFrame: 131
+      lastFrame: 380
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: joint1
+        weight: 1
+      - path: joint1/joint2
+        weight: 1
+      - path: joint1/joint2/joint3
+        weight: 1
+      - path: joint1/joint2/joint3/joint4
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6
+        weight: 1
+      - path: joint1/joint8
+        weight: 1
+      - path: joint1/joint8/joint9
+        weight: 1
+      - path: joint1/joint8/joint9/joint10
+        weight: 1
+      - path: joint1/joint8/joint9/joint10/joint11
+        weight: 1
+      - path: joint1/joint17
+        weight: 1
+      - path: joint1/joint17/joint18
+        weight: 1
+      - path: joint1/joint17/joint18/joint19
+        weight: 1
+      - path: joint1/joint17/joint18/joint19/joint20
+        weight: 1
+      - path: joint1/joint21
+        weight: 1
+      - path: joint1/joint21/joint12
+        weight: 1
+      - path: joint1/joint21/joint12/joint14
+        weight: 1
+      - path: joint1/joint21/joint12/joint14/joint15
+        weight: 1
+      - path: nurbsCircle15
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6/nurbsCircle7
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6/nurbsCircle7/nurbsCircle8
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6/nurbsCircle7/nurbsCircle8/control_face
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6/nurbsCircle7/nurbsCircle8/control_face/nurbsCircle16
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6/nurbsCircle7/nurbsCircle8/control_face/nurbsCircle17
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6/nurbsCircle7/nurbsCircle8/control_face/nurbsCircle18
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6/nurbsCircle7/nurbsCircle8/control_face/nurbsCircle19
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6/nurbsCircle7/nurbsCircle8/control_face/nurbsCircle20
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6/nurbsCircle7/nurbsCircle8/control_face/nurbsCircle21
+        weight: 1
+      - path: polySurface47
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 391
+      lastFrame: 500
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: joint1
+        weight: 1
+      - path: joint1/joint2
+        weight: 1
+      - path: joint1/joint2/joint3
+        weight: 1
+      - path: joint1/joint2/joint3/joint4
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6
+        weight: 1
+      - path: joint1/joint8
+        weight: 1
+      - path: joint1/joint8/joint9
+        weight: 1
+      - path: joint1/joint8/joint9/joint10
+        weight: 1
+      - path: joint1/joint8/joint9/joint10/joint11
+        weight: 1
+      - path: joint1/joint17
+        weight: 1
+      - path: joint1/joint17/joint18
+        weight: 1
+      - path: joint1/joint17/joint18/joint19
+        weight: 1
+      - path: joint1/joint17/joint18/joint19/joint20
+        weight: 1
+      - path: joint1/joint21
+        weight: 1
+      - path: joint1/joint21/joint12
+        weight: 1
+      - path: joint1/joint21/joint12/joint14
+        weight: 1
+      - path: joint1/joint21/joint12/joint14/joint15
+        weight: 1
+      - path: nurbsCircle15
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6/nurbsCircle7
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6/nurbsCircle7/nurbsCircle8
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6/nurbsCircle7/nurbsCircle8/control_face
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6/nurbsCircle7/nurbsCircle8/control_face/nurbsCircle16
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6/nurbsCircle7/nurbsCircle8/control_face/nurbsCircle17
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6/nurbsCircle7/nurbsCircle8/control_face/nurbsCircle18
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6/nurbsCircle7/nurbsCircle8/control_face/nurbsCircle19
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6/nurbsCircle7/nurbsCircle8/control_face/nurbsCircle20
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6/nurbsCircle7/nurbsCircle8/control_face/nurbsCircle21
+        weight: 1
+      - path: polySurface47
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attack
+      takeName: Take 001
+      firstFrame: 564
+      lastFrame: 600
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: joint1
+        weight: 1
+      - path: joint1/joint2
+        weight: 1
+      - path: joint1/joint2/joint3
+        weight: 1
+      - path: joint1/joint2/joint3/joint4
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6
+        weight: 1
+      - path: joint1/joint8
+        weight: 1
+      - path: joint1/joint8/joint9
+        weight: 1
+      - path: joint1/joint8/joint9/joint10
+        weight: 1
+      - path: joint1/joint8/joint9/joint10/joint11
+        weight: 1
+      - path: joint1/joint17
+        weight: 1
+      - path: joint1/joint17/joint18
+        weight: 1
+      - path: joint1/joint17/joint18/joint19
+        weight: 1
+      - path: joint1/joint17/joint18/joint19/joint20
+        weight: 1
+      - path: joint1/joint21
+        weight: 1
+      - path: joint1/joint21/joint12
+        weight: 1
+      - path: joint1/joint21/joint12/joint14
+        weight: 1
+      - path: joint1/joint21/joint12/joint14/joint15
+        weight: 1
+      - path: nurbsCircle15
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6/nurbsCircle7
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6/nurbsCircle7/nurbsCircle8
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6/nurbsCircle7/nurbsCircle8/control_face
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6/nurbsCircle7/nurbsCircle8/control_face/nurbsCircle16
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6/nurbsCircle7/nurbsCircle8/control_face/nurbsCircle17
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6/nurbsCircle7/nurbsCircle8/control_face/nurbsCircle18
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6/nurbsCircle7/nurbsCircle8/control_face/nurbsCircle19
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6/nurbsCircle7/nurbsCircle8/control_face/nurbsCircle20
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6/nurbsCircle7/nurbsCircle8/control_face/nurbsCircle21
+        weight: 1
+      - path: polySurface47
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Chet
+      takeName: Take 001
+      firstFrame: 770
+      lastFrame: 820
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: joint1
+        weight: 1
+      - path: joint1/joint2
+        weight: 1
+      - path: joint1/joint2/joint3
+        weight: 1
+      - path: joint1/joint2/joint3/joint4
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6
+        weight: 1
+      - path: joint1/joint8
+        weight: 1
+      - path: joint1/joint8/joint9
+        weight: 1
+      - path: joint1/joint8/joint9/joint10
+        weight: 1
+      - path: joint1/joint8/joint9/joint10/joint11
+        weight: 1
+      - path: joint1/joint17
+        weight: 1
+      - path: joint1/joint17/joint18
+        weight: 1
+      - path: joint1/joint17/joint18/joint19
+        weight: 1
+      - path: joint1/joint17/joint18/joint19/joint20
+        weight: 1
+      - path: joint1/joint21
+        weight: 1
+      - path: joint1/joint21/joint12
+        weight: 1
+      - path: joint1/joint21/joint12/joint14
+        weight: 1
+      - path: joint1/joint21/joint12/joint14/joint15
+        weight: 1
+      - path: nurbsCircle15
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6/nurbsCircle7
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6/nurbsCircle7/nurbsCircle8
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6/nurbsCircle7/nurbsCircle8/control_face
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6/nurbsCircle7/nurbsCircle8/control_face/nurbsCircle16
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6/nurbsCircle7/nurbsCircle8/control_face/nurbsCircle17
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6/nurbsCircle7/nurbsCircle8/control_face/nurbsCircle18
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6/nurbsCircle7/nurbsCircle8/control_face/nurbsCircle19
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6/nurbsCircle7/nurbsCircle8/control_face/nurbsCircle20
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6/nurbsCircle7/nurbsCircle8/control_face/nurbsCircle21
+        weight: 1
+      - path: polySurface47
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bithuong
+      takeName: Take 001
+      firstFrame: 996.8
+      lastFrame: 1080
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: joint1
+        weight: 1
+      - path: joint1/joint2
+        weight: 1
+      - path: joint1/joint2/joint3
+        weight: 1
+      - path: joint1/joint2/joint3/joint4
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6
+        weight: 1
+      - path: joint1/joint8
+        weight: 1
+      - path: joint1/joint8/joint9
+        weight: 1
+      - path: joint1/joint8/joint9/joint10
+        weight: 1
+      - path: joint1/joint8/joint9/joint10/joint11
+        weight: 1
+      - path: joint1/joint17
+        weight: 1
+      - path: joint1/joint17/joint18
+        weight: 1
+      - path: joint1/joint17/joint18/joint19
+        weight: 1
+      - path: joint1/joint17/joint18/joint19/joint20
+        weight: 1
+      - path: joint1/joint21
+        weight: 1
+      - path: joint1/joint21/joint12
+        weight: 1
+      - path: joint1/joint21/joint12/joint14
+        weight: 1
+      - path: joint1/joint21/joint12/joint14/joint15
+        weight: 1
+      - path: nurbsCircle15
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6/nurbsCircle7
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6/nurbsCircle7/nurbsCircle8
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6/nurbsCircle7/nurbsCircle8/control_face
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6/nurbsCircle7/nurbsCircle8/control_face/nurbsCircle16
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6/nurbsCircle7/nurbsCircle8/control_face/nurbsCircle17
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6/nurbsCircle7/nurbsCircle8/control_face/nurbsCircle18
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6/nurbsCircle7/nurbsCircle8/control_face/nurbsCircle19
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6/nurbsCircle7/nurbsCircle8/control_face/nurbsCircle20
+        weight: 1
+      - path: nurbsCircle15/nurbsCircle1/nurbsCircle5/nurbsCircle6/nurbsCircle7/nurbsCircle8/control_face/nurbsCircle21
+        weight: 1
+      - path: polySurface47
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 14
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,28 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Login/FacebookSDK/Examples/Scripts/MenuBase.cs">
+    <Files>
+      <File FileName="Assets/Scripts/1.Manh/Energyanager/EnergyManager.cs" Line="74" Column="1" />
+      <File FileName="Assets/Scripts/1.Manh/GameMananger/SelectRegion.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/1.Manh/GameMananger/ShopManager/BuyManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Login/Scripts/QuanLyAccount/QuanLyQuenMatKhau.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/1.Manh/GameMananger/ShopManager/ShopManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/1.Manh/GameMananger/UpgradeManager/UpgradeManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Login/Scripts/QuanLyAccount/QuanLyDangNhap.cs" Line="54" Column="1" />
+      <File FileName="Assets/Scripts/1.Manh/GunManager/ShotGun.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/1.Manh/ShotAndMoveScreen/Shot.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/1.Manh/DataManager/GetData/Monsters.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/1.Manh/GameMananger/RegionCurrent.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/1.Manh/GameMananger/LoadQuestInGame.cs" Line="520" Column="40" />
+      <File FileName="Assets/Scripts/1.Manh/UIControl/UIController.cs" Line="38" Column="3" />
+      <File FileName="Assets/Scripts/Tutorial.cs" Line="76" Column="27" />
+      <File FileName="Assets/Scripts/1.Manh/EffectRequireWeaspon/EffectRegquire.cs" Line="44" Column="39" />
+      <File FileName="Assets/Scripts/1.Manh/EffectRequireWeaspon/ToggleEffectRequire.cs" Line="11" Column="30" />
+      <File FileName="Assets/Login/FacebookSDK/Examples/Scripts/MenuBase.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

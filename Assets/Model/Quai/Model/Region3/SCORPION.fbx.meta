@@ -1,0 +1,1271 @@
+fileFormatVersion: 2
+guid: 129013ca38e744219b5d1777722ec5bb
+timeCreated: 1470021739
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: cang_phai_joint56
+    100002: cang_phai_joint57
+    100004: cang_phai_joint58
+    100006: cang_phai_joint59
+    100008: cang_phai_joint60
+    100010: cang_phai_joint61
+    100012: cang_phai_joint62
+    100014: cang_phai_joint63
+    100016: cang_trai_joint1
+    100018: cang_trai_joint2
+    100020: cang_trai_joint3
+    100022: cang_trai_joint4
+    100024: cang_trai_joint5
+    100026: cang_trai_joint6
+    100028: cang_trai_joint7
+    100030: cang_trai_joint8
+    100032: chan_phai_1_joint1
+    100034: chan_phai_1_joint2
+    100036: chan_phai_1_joint3
+    100038: chan_phai_1_joint4
+    100040: chan_phai_1_joint5
+    100042: chan_phai_2_joint11
+    100044: chan_phai_2_joint12
+    100046: chan_phai_2_joint13
+    100048: chan_phai_2_joint14
+    100050: chan_phai_2_joint15
+    100052: chan_phai_3_joint16
+    100054: chan_phai_3_joint17
+    100056: chan_phai_3_joint18
+    100058: chan_phai_3_joint19
+    100060: chan_phai_3_joint20
+    100062: chan_phai_4_joint21
+    100064: chan_phai_4_joint22
+    100066: chan_phai_4_joint23
+    100068: chan_phai_4_joint24
+    100070: chan_phai_4_joint25
+    100072: chan_trai_1_joint10
+    100074: chan_trai_1_joint6
+    100076: chan_trai_1_joint7
+    100078: chan_trai_1_joint8
+    100080: chan_trai_1_joint9
+    100082: chan_trai_2_joint26
+    100084: chan_trai_2_joint27
+    100086: chan_trai_2_joint28
+    100088: chan_trai_2_joint29
+    100090: chan_trai_2_joint30
+    100092: chan_trai_3_joint31
+    100094: chan_trai_3_joint32
+    100096: chan_trai_3_joint33
+    100098: chan_trai_3_joint34
+    100100: chan_trai_3_joint35
+    100102: chan_trai_4_joint36
+    100104: chan_trai_4_joint37
+    100106: chan_trai_4_joint38
+    100108: chan_trai_4_joint39
+    100110: chan_trai_4_joint40
+    100112: duoi_joint41
+    100114: duoi_joint42
+    100116: duoi_joint43
+    100118: duoi_joint44
+    100120: duoi_joint45
+    100122: duoi_joint46
+    100124: duoi_joint47
+    100126: duoi_joint48
+    100128: mesh
+    100130: mesh 1
+    100132: //RootNode
+    100134: than_joint64
+    100136: than_joint65
+    100138: than_joint66
+    100140: than_joint67
+    100142: than_joint68
+    100144: than_joint69
+    400000: cang_phai_joint56
+    400002: cang_phai_joint57
+    400004: cang_phai_joint58
+    400006: cang_phai_joint59
+    400008: cang_phai_joint60
+    400010: cang_phai_joint61
+    400012: cang_phai_joint62
+    400014: cang_phai_joint63
+    400016: cang_trai_joint1
+    400018: cang_trai_joint2
+    400020: cang_trai_joint3
+    400022: cang_trai_joint4
+    400024: cang_trai_joint5
+    400026: cang_trai_joint6
+    400028: cang_trai_joint7
+    400030: cang_trai_joint8
+    400032: chan_phai_1_joint1
+    400034: chan_phai_1_joint2
+    400036: chan_phai_1_joint3
+    400038: chan_phai_1_joint4
+    400040: chan_phai_1_joint5
+    400042: chan_phai_2_joint11
+    400044: chan_phai_2_joint12
+    400046: chan_phai_2_joint13
+    400048: chan_phai_2_joint14
+    400050: chan_phai_2_joint15
+    400052: chan_phai_3_joint16
+    400054: chan_phai_3_joint17
+    400056: chan_phai_3_joint18
+    400058: chan_phai_3_joint19
+    400060: chan_phai_3_joint20
+    400062: chan_phai_4_joint21
+    400064: chan_phai_4_joint22
+    400066: chan_phai_4_joint23
+    400068: chan_phai_4_joint24
+    400070: chan_phai_4_joint25
+    400072: chan_trai_1_joint10
+    400074: chan_trai_1_joint6
+    400076: chan_trai_1_joint7
+    400078: chan_trai_1_joint8
+    400080: chan_trai_1_joint9
+    400082: chan_trai_2_joint26
+    400084: chan_trai_2_joint27
+    400086: chan_trai_2_joint28
+    400088: chan_trai_2_joint29
+    400090: chan_trai_2_joint30
+    400092: chan_trai_3_joint31
+    400094: chan_trai_3_joint32
+    400096: chan_trai_3_joint33
+    400098: chan_trai_3_joint34
+    400100: chan_trai_3_joint35
+    400102: chan_trai_4_joint36
+    400104: chan_trai_4_joint37
+    400106: chan_trai_4_joint38
+    400108: chan_trai_4_joint39
+    400110: chan_trai_4_joint40
+    400112: duoi_joint41
+    400114: duoi_joint42
+    400116: duoi_joint43
+    400118: duoi_joint44
+    400120: duoi_joint45
+    400122: duoi_joint46
+    400124: duoi_joint47
+    400126: duoi_joint48
+    400128: mesh
+    400130: mesh 1
+    400132: //RootNode
+    400134: than_joint64
+    400136: than_joint65
+    400138: than_joint66
+    400140: than_joint67
+    400142: than_joint68
+    400144: than_joint69
+    4300000: mesh
+    7400000: Dicham
+    7400002: Chay
+    7400004: Tho
+    7400006: Bithuong
+    7400008: Chet
+    7400010: Attack
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: mesh 1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Dicham
+      takeName: Model Scorpion_v15_animation
+      firstFrame: 1
+      lastFrame: 19
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: mesh
+        weight: 1
+      - path: mesh/mesh 1
+        weight: 1
+      - path: than_joint64
+        weight: 1
+      - path: than_joint64/duoi_joint41
+        weight: 1
+      - path: than_joint64/duoi_joint41/duoi_joint42
+        weight: 1
+      - path: than_joint64/duoi_joint41/duoi_joint42/duoi_joint43
+        weight: 1
+      - path: than_joint64/duoi_joint41/duoi_joint42/duoi_joint43/duoi_joint44
+        weight: 1
+      - path: than_joint64/duoi_joint41/duoi_joint42/duoi_joint43/duoi_joint44/duoi_joint45
+        weight: 1
+      - path: than_joint64/duoi_joint41/duoi_joint42/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46
+        weight: 1
+      - path: than_joint64/duoi_joint41/duoi_joint42/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47
+        weight: 1
+      - path: than_joint64/duoi_joint41/duoi_joint42/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint48
+        weight: 1
+      - path: than_joint64/than_joint65
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_phai_1_joint1
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_phai_1_joint1/chan_phai_1_joint2
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_phai_1_joint1/chan_phai_1_joint2/chan_phai_1_joint3
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_phai_1_joint1/chan_phai_1_joint2/chan_phai_1_joint3/chan_phai_1_joint4
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_phai_1_joint1/chan_phai_1_joint2/chan_phai_1_joint3/chan_phai_1_joint4/chan_phai_1_joint5
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_trai_1_joint6
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_trai_1_joint6/chan_trai_1_joint7
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_trai_1_joint6/chan_trai_1_joint7/chan_trai_1_joint8
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_trai_1_joint6/chan_trai_1_joint7/chan_trai_1_joint8/chan_trai_1_joint9
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_trai_1_joint6/chan_trai_1_joint7/chan_trai_1_joint8/chan_trai_1_joint9/chan_trai_1_joint10
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_phai_2_joint11
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_phai_2_joint11/chan_phai_2_joint12
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_phai_2_joint11/chan_phai_2_joint12/chan_phai_2_joint13
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_phai_2_joint11/chan_phai_2_joint12/chan_phai_2_joint13/chan_phai_2_joint14
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_phai_2_joint11/chan_phai_2_joint12/chan_phai_2_joint13/chan_phai_2_joint14/chan_phai_2_joint15
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_trai_2_joint26
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_trai_2_joint26/chan_trai_2_joint27
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_trai_2_joint26/chan_trai_2_joint27/chan_trai_2_joint28
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_trai_2_joint26/chan_trai_2_joint27/chan_trai_2_joint28/chan_trai_2_joint29
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_trai_2_joint26/chan_trai_2_joint27/chan_trai_2_joint28/chan_trai_2_joint29/chan_trai_2_joint30
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_phai_joint56
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_phai_joint56/cang_phai_joint57
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_phai_joint56/cang_phai_joint57/cang_phai_joint58
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_phai_joint56/cang_phai_joint57/cang_phai_joint58/cang_phai_joint59
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_phai_joint56/cang_phai_joint57/cang_phai_joint58/cang_phai_joint59/cang_phai_joint60
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_phai_joint56/cang_phai_joint57/cang_phai_joint58/cang_phai_joint59/cang_phai_joint60/cang_phai_joint61
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_phai_joint56/cang_phai_joint57/cang_phai_joint58/cang_phai_joint59/cang_phai_joint60/cang_phai_joint62
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_phai_joint56/cang_phai_joint57/cang_phai_joint58/cang_phai_joint59/cang_phai_joint60/cang_phai_joint62/cang_phai_joint63
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_trai_joint1
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_trai_joint1/cang_trai_joint2
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_trai_joint1/cang_trai_joint2/cang_trai_joint3
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_trai_joint1/cang_trai_joint2/cang_trai_joint3/cang_trai_joint4
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_trai_joint1/cang_trai_joint2/cang_trai_joint3/cang_trai_joint4/cang_trai_joint5
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_trai_joint1/cang_trai_joint2/cang_trai_joint3/cang_trai_joint4/cang_trai_joint5/cang_trai_joint6
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_trai_joint1/cang_trai_joint2/cang_trai_joint3/cang_trai_joint4/cang_trai_joint5/cang_trai_joint7
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_trai_joint1/cang_trai_joint2/cang_trai_joint3/cang_trai_joint4/cang_trai_joint5/cang_trai_joint7/cang_trai_joint8
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_3_joint16
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_3_joint16/chan_phai_3_joint17
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_3_joint16/chan_phai_3_joint17/chan_phai_3_joint18
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_3_joint16/chan_phai_3_joint17/chan_phai_3_joint18/chan_phai_3_joint19
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_3_joint16/chan_phai_3_joint17/chan_phai_3_joint18/chan_phai_3_joint19/chan_phai_3_joint20
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_4_joint21
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_4_joint21/chan_phai_4_joint22
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_4_joint21/chan_phai_4_joint22/chan_phai_4_joint23
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_4_joint21/chan_phai_4_joint22/chan_phai_4_joint23/chan_phai_4_joint24
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_4_joint21/chan_phai_4_joint22/chan_phai_4_joint23/chan_phai_4_joint24/chan_phai_4_joint25
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_3_joint31
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_3_joint31/chan_trai_3_joint32
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_3_joint31/chan_trai_3_joint32/chan_trai_3_joint33
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_3_joint31/chan_trai_3_joint32/chan_trai_3_joint33/chan_trai_3_joint34
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_3_joint31/chan_trai_3_joint32/chan_trai_3_joint33/chan_trai_3_joint34/chan_trai_3_joint35
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_4_joint36
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_4_joint36/chan_trai_4_joint37
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_4_joint36/chan_trai_4_joint37/chan_trai_4_joint38
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_4_joint36/chan_trai_4_joint37/chan_trai_4_joint38/chan_trai_4_joint39
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_4_joint36/chan_trai_4_joint37/chan_trai_4_joint38/chan_trai_4_joint39/chan_trai_4_joint40
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Chay
+      takeName: Model Scorpion_v15_animation
+      firstFrame: 30
+      lastFrame: 38
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: mesh
+        weight: 1
+      - path: mesh/mesh 1
+        weight: 1
+      - path: than_joint64
+        weight: 1
+      - path: than_joint64/duoi_joint41
+        weight: 1
+      - path: than_joint64/duoi_joint41/duoi_joint42
+        weight: 1
+      - path: than_joint64/duoi_joint41/duoi_joint42/duoi_joint43
+        weight: 1
+      - path: than_joint64/duoi_joint41/duoi_joint42/duoi_joint43/duoi_joint44
+        weight: 1
+      - path: than_joint64/duoi_joint41/duoi_joint42/duoi_joint43/duoi_joint44/duoi_joint45
+        weight: 1
+      - path: than_joint64/duoi_joint41/duoi_joint42/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46
+        weight: 1
+      - path: than_joint64/duoi_joint41/duoi_joint42/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47
+        weight: 1
+      - path: than_joint64/duoi_joint41/duoi_joint42/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint48
+        weight: 1
+      - path: than_joint64/than_joint65
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_phai_1_joint1
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_phai_1_joint1/chan_phai_1_joint2
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_phai_1_joint1/chan_phai_1_joint2/chan_phai_1_joint3
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_phai_1_joint1/chan_phai_1_joint2/chan_phai_1_joint3/chan_phai_1_joint4
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_phai_1_joint1/chan_phai_1_joint2/chan_phai_1_joint3/chan_phai_1_joint4/chan_phai_1_joint5
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_trai_1_joint6
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_trai_1_joint6/chan_trai_1_joint7
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_trai_1_joint6/chan_trai_1_joint7/chan_trai_1_joint8
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_trai_1_joint6/chan_trai_1_joint7/chan_trai_1_joint8/chan_trai_1_joint9
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_trai_1_joint6/chan_trai_1_joint7/chan_trai_1_joint8/chan_trai_1_joint9/chan_trai_1_joint10
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_phai_2_joint11
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_phai_2_joint11/chan_phai_2_joint12
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_phai_2_joint11/chan_phai_2_joint12/chan_phai_2_joint13
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_phai_2_joint11/chan_phai_2_joint12/chan_phai_2_joint13/chan_phai_2_joint14
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_phai_2_joint11/chan_phai_2_joint12/chan_phai_2_joint13/chan_phai_2_joint14/chan_phai_2_joint15
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_trai_2_joint26
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_trai_2_joint26/chan_trai_2_joint27
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_trai_2_joint26/chan_trai_2_joint27/chan_trai_2_joint28
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_trai_2_joint26/chan_trai_2_joint27/chan_trai_2_joint28/chan_trai_2_joint29
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_trai_2_joint26/chan_trai_2_joint27/chan_trai_2_joint28/chan_trai_2_joint29/chan_trai_2_joint30
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_phai_joint56
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_phai_joint56/cang_phai_joint57
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_phai_joint56/cang_phai_joint57/cang_phai_joint58
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_phai_joint56/cang_phai_joint57/cang_phai_joint58/cang_phai_joint59
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_phai_joint56/cang_phai_joint57/cang_phai_joint58/cang_phai_joint59/cang_phai_joint60
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_phai_joint56/cang_phai_joint57/cang_phai_joint58/cang_phai_joint59/cang_phai_joint60/cang_phai_joint61
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_phai_joint56/cang_phai_joint57/cang_phai_joint58/cang_phai_joint59/cang_phai_joint60/cang_phai_joint62
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_phai_joint56/cang_phai_joint57/cang_phai_joint58/cang_phai_joint59/cang_phai_joint60/cang_phai_joint62/cang_phai_joint63
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_trai_joint1
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_trai_joint1/cang_trai_joint2
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_trai_joint1/cang_trai_joint2/cang_trai_joint3
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_trai_joint1/cang_trai_joint2/cang_trai_joint3/cang_trai_joint4
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_trai_joint1/cang_trai_joint2/cang_trai_joint3/cang_trai_joint4/cang_trai_joint5
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_trai_joint1/cang_trai_joint2/cang_trai_joint3/cang_trai_joint4/cang_trai_joint5/cang_trai_joint6
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_trai_joint1/cang_trai_joint2/cang_trai_joint3/cang_trai_joint4/cang_trai_joint5/cang_trai_joint7
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_trai_joint1/cang_trai_joint2/cang_trai_joint3/cang_trai_joint4/cang_trai_joint5/cang_trai_joint7/cang_trai_joint8
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_3_joint16
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_3_joint16/chan_phai_3_joint17
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_3_joint16/chan_phai_3_joint17/chan_phai_3_joint18
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_3_joint16/chan_phai_3_joint17/chan_phai_3_joint18/chan_phai_3_joint19
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_3_joint16/chan_phai_3_joint17/chan_phai_3_joint18/chan_phai_3_joint19/chan_phai_3_joint20
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_4_joint21
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_4_joint21/chan_phai_4_joint22
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_4_joint21/chan_phai_4_joint22/chan_phai_4_joint23
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_4_joint21/chan_phai_4_joint22/chan_phai_4_joint23/chan_phai_4_joint24
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_4_joint21/chan_phai_4_joint22/chan_phai_4_joint23/chan_phai_4_joint24/chan_phai_4_joint25
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_3_joint31
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_3_joint31/chan_trai_3_joint32
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_3_joint31/chan_trai_3_joint32/chan_trai_3_joint33
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_3_joint31/chan_trai_3_joint32/chan_trai_3_joint33/chan_trai_3_joint34
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_3_joint31/chan_trai_3_joint32/chan_trai_3_joint33/chan_trai_3_joint34/chan_trai_3_joint35
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_4_joint36
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_4_joint36/chan_trai_4_joint37
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_4_joint36/chan_trai_4_joint37/chan_trai_4_joint38
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_4_joint36/chan_trai_4_joint37/chan_trai_4_joint38/chan_trai_4_joint39
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_4_joint36/chan_trai_4_joint37/chan_trai_4_joint38/chan_trai_4_joint39/chan_trai_4_joint40
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Tho
+      takeName: Model Scorpion_v15_animation
+      firstFrame: 50
+      lastFrame: 114
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: mesh
+        weight: 1
+      - path: mesh/mesh 1
+        weight: 1
+      - path: than_joint64
+        weight: 1
+      - path: than_joint64/duoi_joint41
+        weight: 1
+      - path: than_joint64/duoi_joint41/duoi_joint42
+        weight: 1
+      - path: than_joint64/duoi_joint41/duoi_joint42/duoi_joint43
+        weight: 1
+      - path: than_joint64/duoi_joint41/duoi_joint42/duoi_joint43/duoi_joint44
+        weight: 1
+      - path: than_joint64/duoi_joint41/duoi_joint42/duoi_joint43/duoi_joint44/duoi_joint45
+        weight: 1
+      - path: than_joint64/duoi_joint41/duoi_joint42/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46
+        weight: 1
+      - path: than_joint64/duoi_joint41/duoi_joint42/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47
+        weight: 1
+      - path: than_joint64/duoi_joint41/duoi_joint42/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint48
+        weight: 1
+      - path: than_joint64/than_joint65
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_phai_1_joint1
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_phai_1_joint1/chan_phai_1_joint2
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_phai_1_joint1/chan_phai_1_joint2/chan_phai_1_joint3
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_phai_1_joint1/chan_phai_1_joint2/chan_phai_1_joint3/chan_phai_1_joint4
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_phai_1_joint1/chan_phai_1_joint2/chan_phai_1_joint3/chan_phai_1_joint4/chan_phai_1_joint5
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_trai_1_joint6
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_trai_1_joint6/chan_trai_1_joint7
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_trai_1_joint6/chan_trai_1_joint7/chan_trai_1_joint8
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_trai_1_joint6/chan_trai_1_joint7/chan_trai_1_joint8/chan_trai_1_joint9
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_trai_1_joint6/chan_trai_1_joint7/chan_trai_1_joint8/chan_trai_1_joint9/chan_trai_1_joint10
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_phai_2_joint11
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_phai_2_joint11/chan_phai_2_joint12
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_phai_2_joint11/chan_phai_2_joint12/chan_phai_2_joint13
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_phai_2_joint11/chan_phai_2_joint12/chan_phai_2_joint13/chan_phai_2_joint14
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_phai_2_joint11/chan_phai_2_joint12/chan_phai_2_joint13/chan_phai_2_joint14/chan_phai_2_joint15
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_trai_2_joint26
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_trai_2_joint26/chan_trai_2_joint27
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_trai_2_joint26/chan_trai_2_joint27/chan_trai_2_joint28
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_trai_2_joint26/chan_trai_2_joint27/chan_trai_2_joint28/chan_trai_2_joint29
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_trai_2_joint26/chan_trai_2_joint27/chan_trai_2_joint28/chan_trai_2_joint29/chan_trai_2_joint30
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_phai_joint56
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_phai_joint56/cang_phai_joint57
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_phai_joint56/cang_phai_joint57/cang_phai_joint58
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_phai_joint56/cang_phai_joint57/cang_phai_joint58/cang_phai_joint59
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_phai_joint56/cang_phai_joint57/cang_phai_joint58/cang_phai_joint59/cang_phai_joint60
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_phai_joint56/cang_phai_joint57/cang_phai_joint58/cang_phai_joint59/cang_phai_joint60/cang_phai_joint61
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_phai_joint56/cang_phai_joint57/cang_phai_joint58/cang_phai_joint59/cang_phai_joint60/cang_phai_joint62
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_phai_joint56/cang_phai_joint57/cang_phai_joint58/cang_phai_joint59/cang_phai_joint60/cang_phai_joint62/cang_phai_joint63
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_trai_joint1
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_trai_joint1/cang_trai_joint2
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_trai_joint1/cang_trai_joint2/cang_trai_joint3
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_trai_joint1/cang_trai_joint2/cang_trai_joint3/cang_trai_joint4
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_trai_joint1/cang_trai_joint2/cang_trai_joint3/cang_trai_joint4/cang_trai_joint5
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_trai_joint1/cang_trai_joint2/cang_trai_joint3/cang_trai_joint4/cang_trai_joint5/cang_trai_joint6
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_trai_joint1/cang_trai_joint2/cang_trai_joint3/cang_trai_joint4/cang_trai_joint5/cang_trai_joint7
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_trai_joint1/cang_trai_joint2/cang_trai_joint3/cang_trai_joint4/cang_trai_joint5/cang_trai_joint7/cang_trai_joint8
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_3_joint16
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_3_joint16/chan_phai_3_joint17
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_3_joint16/chan_phai_3_joint17/chan_phai_3_joint18
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_3_joint16/chan_phai_3_joint17/chan_phai_3_joint18/chan_phai_3_joint19
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_3_joint16/chan_phai_3_joint17/chan_phai_3_joint18/chan_phai_3_joint19/chan_phai_3_joint20
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_4_joint21
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_4_joint21/chan_phai_4_joint22
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_4_joint21/chan_phai_4_joint22/chan_phai_4_joint23
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_4_joint21/chan_phai_4_joint22/chan_phai_4_joint23/chan_phai_4_joint24
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_4_joint21/chan_phai_4_joint22/chan_phai_4_joint23/chan_phai_4_joint24/chan_phai_4_joint25
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_3_joint31
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_3_joint31/chan_trai_3_joint32
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_3_joint31/chan_trai_3_joint32/chan_trai_3_joint33
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_3_joint31/chan_trai_3_joint32/chan_trai_3_joint33/chan_trai_3_joint34
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_3_joint31/chan_trai_3_joint32/chan_trai_3_joint33/chan_trai_3_joint34/chan_trai_3_joint35
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_4_joint36
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_4_joint36/chan_trai_4_joint37
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_4_joint36/chan_trai_4_joint37/chan_trai_4_joint38
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_4_joint36/chan_trai_4_joint37/chan_trai_4_joint38/chan_trai_4_joint39
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_4_joint36/chan_trai_4_joint37/chan_trai_4_joint38/chan_trai_4_joint39/chan_trai_4_joint40
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bithuong
+      takeName: Model Scorpion_v15_animation
+      firstFrame: 160
+      lastFrame: 190
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: mesh
+        weight: 1
+      - path: mesh/mesh 1
+        weight: 1
+      - path: than_joint64
+        weight: 1
+      - path: than_joint64/duoi_joint41
+        weight: 1
+      - path: than_joint64/duoi_joint41/duoi_joint42
+        weight: 1
+      - path: than_joint64/duoi_joint41/duoi_joint42/duoi_joint43
+        weight: 1
+      - path: than_joint64/duoi_joint41/duoi_joint42/duoi_joint43/duoi_joint44
+        weight: 1
+      - path: than_joint64/duoi_joint41/duoi_joint42/duoi_joint43/duoi_joint44/duoi_joint45
+        weight: 1
+      - path: than_joint64/duoi_joint41/duoi_joint42/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46
+        weight: 1
+      - path: than_joint64/duoi_joint41/duoi_joint42/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47
+        weight: 1
+      - path: than_joint64/duoi_joint41/duoi_joint42/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint48
+        weight: 1
+      - path: than_joint64/than_joint65
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_phai_1_joint1
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_phai_1_joint1/chan_phai_1_joint2
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_phai_1_joint1/chan_phai_1_joint2/chan_phai_1_joint3
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_phai_1_joint1/chan_phai_1_joint2/chan_phai_1_joint3/chan_phai_1_joint4
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_phai_1_joint1/chan_phai_1_joint2/chan_phai_1_joint3/chan_phai_1_joint4/chan_phai_1_joint5
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_trai_1_joint6
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_trai_1_joint6/chan_trai_1_joint7
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_trai_1_joint6/chan_trai_1_joint7/chan_trai_1_joint8
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_trai_1_joint6/chan_trai_1_joint7/chan_trai_1_joint8/chan_trai_1_joint9
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_trai_1_joint6/chan_trai_1_joint7/chan_trai_1_joint8/chan_trai_1_joint9/chan_trai_1_joint10
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_phai_2_joint11
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_phai_2_joint11/chan_phai_2_joint12
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_phai_2_joint11/chan_phai_2_joint12/chan_phai_2_joint13
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_phai_2_joint11/chan_phai_2_joint12/chan_phai_2_joint13/chan_phai_2_joint14
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_phai_2_joint11/chan_phai_2_joint12/chan_phai_2_joint13/chan_phai_2_joint14/chan_phai_2_joint15
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_trai_2_joint26
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_trai_2_joint26/chan_trai_2_joint27
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_trai_2_joint26/chan_trai_2_joint27/chan_trai_2_joint28
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_trai_2_joint26/chan_trai_2_joint27/chan_trai_2_joint28/chan_trai_2_joint29
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_trai_2_joint26/chan_trai_2_joint27/chan_trai_2_joint28/chan_trai_2_joint29/chan_trai_2_joint30
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_phai_joint56
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_phai_joint56/cang_phai_joint57
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_phai_joint56/cang_phai_joint57/cang_phai_joint58
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_phai_joint56/cang_phai_joint57/cang_phai_joint58/cang_phai_joint59
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_phai_joint56/cang_phai_joint57/cang_phai_joint58/cang_phai_joint59/cang_phai_joint60
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_phai_joint56/cang_phai_joint57/cang_phai_joint58/cang_phai_joint59/cang_phai_joint60/cang_phai_joint61
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_phai_joint56/cang_phai_joint57/cang_phai_joint58/cang_phai_joint59/cang_phai_joint60/cang_phai_joint62
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_phai_joint56/cang_phai_joint57/cang_phai_joint58/cang_phai_joint59/cang_phai_joint60/cang_phai_joint62/cang_phai_joint63
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_trai_joint1
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_trai_joint1/cang_trai_joint2
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_trai_joint1/cang_trai_joint2/cang_trai_joint3
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_trai_joint1/cang_trai_joint2/cang_trai_joint3/cang_trai_joint4
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_trai_joint1/cang_trai_joint2/cang_trai_joint3/cang_trai_joint4/cang_trai_joint5
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_trai_joint1/cang_trai_joint2/cang_trai_joint3/cang_trai_joint4/cang_trai_joint5/cang_trai_joint6
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_trai_joint1/cang_trai_joint2/cang_trai_joint3/cang_trai_joint4/cang_trai_joint5/cang_trai_joint7
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_trai_joint1/cang_trai_joint2/cang_trai_joint3/cang_trai_joint4/cang_trai_joint5/cang_trai_joint7/cang_trai_joint8
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_3_joint16
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_3_joint16/chan_phai_3_joint17
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_3_joint16/chan_phai_3_joint17/chan_phai_3_joint18
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_3_joint16/chan_phai_3_joint17/chan_phai_3_joint18/chan_phai_3_joint19
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_3_joint16/chan_phai_3_joint17/chan_phai_3_joint18/chan_phai_3_joint19/chan_phai_3_joint20
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_4_joint21
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_4_joint21/chan_phai_4_joint22
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_4_joint21/chan_phai_4_joint22/chan_phai_4_joint23
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_4_joint21/chan_phai_4_joint22/chan_phai_4_joint23/chan_phai_4_joint24
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_4_joint21/chan_phai_4_joint22/chan_phai_4_joint23/chan_phai_4_joint24/chan_phai_4_joint25
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_3_joint31
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_3_joint31/chan_trai_3_joint32
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_3_joint31/chan_trai_3_joint32/chan_trai_3_joint33
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_3_joint31/chan_trai_3_joint32/chan_trai_3_joint33/chan_trai_3_joint34
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_3_joint31/chan_trai_3_joint32/chan_trai_3_joint33/chan_trai_3_joint34/chan_trai_3_joint35
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_4_joint36
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_4_joint36/chan_trai_4_joint37
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_4_joint36/chan_trai_4_joint37/chan_trai_4_joint38
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_4_joint36/chan_trai_4_joint37/chan_trai_4_joint38/chan_trai_4_joint39
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_4_joint36/chan_trai_4_joint37/chan_trai_4_joint38/chan_trai_4_joint39/chan_trai_4_joint40
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Chet
+      takeName: Model Scorpion_v15_animation
+      firstFrame: 230
+      lastFrame: 267.9
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: mesh
+        weight: 1
+      - path: mesh/mesh 1
+        weight: 1
+      - path: than_joint64
+        weight: 1
+      - path: than_joint64/duoi_joint41
+        weight: 1
+      - path: than_joint64/duoi_joint41/duoi_joint42
+        weight: 1
+      - path: than_joint64/duoi_joint41/duoi_joint42/duoi_joint43
+        weight: 1
+      - path: than_joint64/duoi_joint41/duoi_joint42/duoi_joint43/duoi_joint44
+        weight: 1
+      - path: than_joint64/duoi_joint41/duoi_joint42/duoi_joint43/duoi_joint44/duoi_joint45
+        weight: 1
+      - path: than_joint64/duoi_joint41/duoi_joint42/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46
+        weight: 1
+      - path: than_joint64/duoi_joint41/duoi_joint42/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47
+        weight: 1
+      - path: than_joint64/duoi_joint41/duoi_joint42/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint48
+        weight: 1
+      - path: than_joint64/than_joint65
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_phai_1_joint1
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_phai_1_joint1/chan_phai_1_joint2
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_phai_1_joint1/chan_phai_1_joint2/chan_phai_1_joint3
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_phai_1_joint1/chan_phai_1_joint2/chan_phai_1_joint3/chan_phai_1_joint4
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_phai_1_joint1/chan_phai_1_joint2/chan_phai_1_joint3/chan_phai_1_joint4/chan_phai_1_joint5
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_trai_1_joint6
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_trai_1_joint6/chan_trai_1_joint7
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_trai_1_joint6/chan_trai_1_joint7/chan_trai_1_joint8
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_trai_1_joint6/chan_trai_1_joint7/chan_trai_1_joint8/chan_trai_1_joint9
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_trai_1_joint6/chan_trai_1_joint7/chan_trai_1_joint8/chan_trai_1_joint9/chan_trai_1_joint10
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_phai_2_joint11
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_phai_2_joint11/chan_phai_2_joint12
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_phai_2_joint11/chan_phai_2_joint12/chan_phai_2_joint13
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_phai_2_joint11/chan_phai_2_joint12/chan_phai_2_joint13/chan_phai_2_joint14
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_phai_2_joint11/chan_phai_2_joint12/chan_phai_2_joint13/chan_phai_2_joint14/chan_phai_2_joint15
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_trai_2_joint26
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_trai_2_joint26/chan_trai_2_joint27
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_trai_2_joint26/chan_trai_2_joint27/chan_trai_2_joint28
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_trai_2_joint26/chan_trai_2_joint27/chan_trai_2_joint28/chan_trai_2_joint29
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_trai_2_joint26/chan_trai_2_joint27/chan_trai_2_joint28/chan_trai_2_joint29/chan_trai_2_joint30
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_phai_joint56
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_phai_joint56/cang_phai_joint57
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_phai_joint56/cang_phai_joint57/cang_phai_joint58
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_phai_joint56/cang_phai_joint57/cang_phai_joint58/cang_phai_joint59
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_phai_joint56/cang_phai_joint57/cang_phai_joint58/cang_phai_joint59/cang_phai_joint60
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_phai_joint56/cang_phai_joint57/cang_phai_joint58/cang_phai_joint59/cang_phai_joint60/cang_phai_joint61
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_phai_joint56/cang_phai_joint57/cang_phai_joint58/cang_phai_joint59/cang_phai_joint60/cang_phai_joint62
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_phai_joint56/cang_phai_joint57/cang_phai_joint58/cang_phai_joint59/cang_phai_joint60/cang_phai_joint62/cang_phai_joint63
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_trai_joint1
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_trai_joint1/cang_trai_joint2
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_trai_joint1/cang_trai_joint2/cang_trai_joint3
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_trai_joint1/cang_trai_joint2/cang_trai_joint3/cang_trai_joint4
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_trai_joint1/cang_trai_joint2/cang_trai_joint3/cang_trai_joint4/cang_trai_joint5
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_trai_joint1/cang_trai_joint2/cang_trai_joint3/cang_trai_joint4/cang_trai_joint5/cang_trai_joint6
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_trai_joint1/cang_trai_joint2/cang_trai_joint3/cang_trai_joint4/cang_trai_joint5/cang_trai_joint7
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_trai_joint1/cang_trai_joint2/cang_trai_joint3/cang_trai_joint4/cang_trai_joint5/cang_trai_joint7/cang_trai_joint8
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_3_joint16
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_3_joint16/chan_phai_3_joint17
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_3_joint16/chan_phai_3_joint17/chan_phai_3_joint18
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_3_joint16/chan_phai_3_joint17/chan_phai_3_joint18/chan_phai_3_joint19
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_3_joint16/chan_phai_3_joint17/chan_phai_3_joint18/chan_phai_3_joint19/chan_phai_3_joint20
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_4_joint21
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_4_joint21/chan_phai_4_joint22
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_4_joint21/chan_phai_4_joint22/chan_phai_4_joint23
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_4_joint21/chan_phai_4_joint22/chan_phai_4_joint23/chan_phai_4_joint24
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_4_joint21/chan_phai_4_joint22/chan_phai_4_joint23/chan_phai_4_joint24/chan_phai_4_joint25
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_3_joint31
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_3_joint31/chan_trai_3_joint32
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_3_joint31/chan_trai_3_joint32/chan_trai_3_joint33
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_3_joint31/chan_trai_3_joint32/chan_trai_3_joint33/chan_trai_3_joint34
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_3_joint31/chan_trai_3_joint32/chan_trai_3_joint33/chan_trai_3_joint34/chan_trai_3_joint35
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_4_joint36
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_4_joint36/chan_trai_4_joint37
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_4_joint36/chan_trai_4_joint37/chan_trai_4_joint38
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_4_joint36/chan_trai_4_joint37/chan_trai_4_joint38/chan_trai_4_joint39
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_4_joint36/chan_trai_4_joint37/chan_trai_4_joint38/chan_trai_4_joint39/chan_trai_4_joint40
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attack
+      takeName: Model Scorpion_v15_animation
+      firstFrame: 130
+      lastFrame: 150
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: mesh
+        weight: 1
+      - path: mesh/mesh 1
+        weight: 1
+      - path: than_joint64
+        weight: 1
+      - path: than_joint64/duoi_joint41
+        weight: 1
+      - path: than_joint64/duoi_joint41/duoi_joint42
+        weight: 1
+      - path: than_joint64/duoi_joint41/duoi_joint42/duoi_joint43
+        weight: 1
+      - path: than_joint64/duoi_joint41/duoi_joint42/duoi_joint43/duoi_joint44
+        weight: 1
+      - path: than_joint64/duoi_joint41/duoi_joint42/duoi_joint43/duoi_joint44/duoi_joint45
+        weight: 1
+      - path: than_joint64/duoi_joint41/duoi_joint42/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46
+        weight: 1
+      - path: than_joint64/duoi_joint41/duoi_joint42/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47
+        weight: 1
+      - path: than_joint64/duoi_joint41/duoi_joint42/duoi_joint43/duoi_joint44/duoi_joint45/duoi_joint46/duoi_joint47/duoi_joint48
+        weight: 1
+      - path: than_joint64/than_joint65
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_phai_1_joint1
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_phai_1_joint1/chan_phai_1_joint2
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_phai_1_joint1/chan_phai_1_joint2/chan_phai_1_joint3
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_phai_1_joint1/chan_phai_1_joint2/chan_phai_1_joint3/chan_phai_1_joint4
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_phai_1_joint1/chan_phai_1_joint2/chan_phai_1_joint3/chan_phai_1_joint4/chan_phai_1_joint5
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_trai_1_joint6
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_trai_1_joint6/chan_trai_1_joint7
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_trai_1_joint6/chan_trai_1_joint7/chan_trai_1_joint8
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_trai_1_joint6/chan_trai_1_joint7/chan_trai_1_joint8/chan_trai_1_joint9
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/chan_trai_1_joint6/chan_trai_1_joint7/chan_trai_1_joint8/chan_trai_1_joint9/chan_trai_1_joint10
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_phai_2_joint11
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_phai_2_joint11/chan_phai_2_joint12
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_phai_2_joint11/chan_phai_2_joint12/chan_phai_2_joint13
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_phai_2_joint11/chan_phai_2_joint12/chan_phai_2_joint13/chan_phai_2_joint14
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_phai_2_joint11/chan_phai_2_joint12/chan_phai_2_joint13/chan_phai_2_joint14/chan_phai_2_joint15
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_trai_2_joint26
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_trai_2_joint26/chan_trai_2_joint27
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_trai_2_joint26/chan_trai_2_joint27/chan_trai_2_joint28
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_trai_2_joint26/chan_trai_2_joint27/chan_trai_2_joint28/chan_trai_2_joint29
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/chan_trai_2_joint26/chan_trai_2_joint27/chan_trai_2_joint28/chan_trai_2_joint29/chan_trai_2_joint30
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_phai_joint56
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_phai_joint56/cang_phai_joint57
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_phai_joint56/cang_phai_joint57/cang_phai_joint58
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_phai_joint56/cang_phai_joint57/cang_phai_joint58/cang_phai_joint59
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_phai_joint56/cang_phai_joint57/cang_phai_joint58/cang_phai_joint59/cang_phai_joint60
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_phai_joint56/cang_phai_joint57/cang_phai_joint58/cang_phai_joint59/cang_phai_joint60/cang_phai_joint61
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_phai_joint56/cang_phai_joint57/cang_phai_joint58/cang_phai_joint59/cang_phai_joint60/cang_phai_joint62
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_phai_joint56/cang_phai_joint57/cang_phai_joint58/cang_phai_joint59/cang_phai_joint60/cang_phai_joint62/cang_phai_joint63
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_trai_joint1
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_trai_joint1/cang_trai_joint2
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_trai_joint1/cang_trai_joint2/cang_trai_joint3
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_trai_joint1/cang_trai_joint2/cang_trai_joint3/cang_trai_joint4
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_trai_joint1/cang_trai_joint2/cang_trai_joint3/cang_trai_joint4/cang_trai_joint5
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_trai_joint1/cang_trai_joint2/cang_trai_joint3/cang_trai_joint4/cang_trai_joint5/cang_trai_joint6
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_trai_joint1/cang_trai_joint2/cang_trai_joint3/cang_trai_joint4/cang_trai_joint5/cang_trai_joint7
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/cang_trai_joint1/cang_trai_joint2/cang_trai_joint3/cang_trai_joint4/cang_trai_joint5/cang_trai_joint7/cang_trai_joint8
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_3_joint16
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_3_joint16/chan_phai_3_joint17
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_3_joint16/chan_phai_3_joint17/chan_phai_3_joint18
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_3_joint16/chan_phai_3_joint17/chan_phai_3_joint18/chan_phai_3_joint19
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_3_joint16/chan_phai_3_joint17/chan_phai_3_joint18/chan_phai_3_joint19/chan_phai_3_joint20
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_4_joint21
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_4_joint21/chan_phai_4_joint22
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_4_joint21/chan_phai_4_joint22/chan_phai_4_joint23
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_4_joint21/chan_phai_4_joint22/chan_phai_4_joint23/chan_phai_4_joint24
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_phai_4_joint21/chan_phai_4_joint22/chan_phai_4_joint23/chan_phai_4_joint24/chan_phai_4_joint25
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_3_joint31
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_3_joint31/chan_trai_3_joint32
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_3_joint31/chan_trai_3_joint32/chan_trai_3_joint33
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_3_joint31/chan_trai_3_joint32/chan_trai_3_joint33/chan_trai_3_joint34
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_3_joint31/chan_trai_3_joint32/chan_trai_3_joint33/chan_trai_3_joint34/chan_trai_3_joint35
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_4_joint36
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_4_joint36/chan_trai_4_joint37
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_4_joint36/chan_trai_4_joint37/chan_trai_4_joint38
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_4_joint36/chan_trai_4_joint37/chan_trai_4_joint38/chan_trai_4_joint39
+        weight: 1
+      - path: than_joint64/than_joint65/than_joint66/than_joint67/than_joint68/than_joint69/chan_trai_4_joint36/chan_trai_4_joint37/chan_trai_4_joint38/chan_trai_4_joint39/chan_trai_4_joint40
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

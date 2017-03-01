@@ -1,0 +1,349 @@
+fileFormatVersion: 2
+guid: f8beb1e9aa22e41ecbf89bd271c77787
+timeCreated: 1478847641
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: cay_plant
+    100002: cay_thogn
+    100004: cay_thong1:polySurface1
+    100006: cay_thong1:polySurface137
+    100008: group1
+    100010: group3
+    100012: group4
+    100014: group8
+    100016: Nui
+    100018: pCube1
+    100020: pCube1 1
+    100022: pCube2
+    100024: pCube2 1
+    100026: pCube3
+    100028: pCube4
+    100030: pCube4 1
+    100032: pCube7
+    100034: pCube8
+    100036: pine_snow8
+    100038: polySurface1
+    100040: polySurface1 1
+    100042: polySurface137
+    100044: polySurface137 1
+    100046: polySurface151
+    100048: pPlane1
+    100050: pPlane10
+    100052: pPlane11
+    100054: pPlane12
+    100056: pPlane13
+    100058: pPlane14
+    100060: pPlane15
+    100062: pPlane16
+    100064: pPlane17
+    100066: pPlane18
+    100068: pPlane19
+    100070: pPlane2
+    100072: pPlane20
+    100074: pPlane21
+    100076: pPlane22
+    100078: pPlane24
+    100080: pPlane25
+    100082: pPlane26
+    100084: pPlane27
+    100086: pPlane28
+    100088: pPlane29
+    100090: pPlane3
+    100092: pPlane30
+    100094: pPlane31
+    100096: pPlane32
+    100098: pPlane33
+    100100: pPlane34
+    100102: pPlane35
+    100104: pPlane37
+    100106: pPlane38
+    100108: pPlane39
+    100110: pPlane4
+    100112: pPlane40
+    100114: pPlane41
+    100116: pPlane8
+    100118: //RootNode
+    100120: Snow_covered_Cottage:Cottage_House
+    400000: cay_plant
+    400002: cay_thogn
+    400004: cay_thong1:polySurface1
+    400006: cay_thong1:polySurface137
+    400008: group1
+    400010: group3
+    400012: group4
+    400014: group8
+    400016: Nui
+    400018: pCube1
+    400020: pCube1 1
+    400022: pCube2
+    400024: pCube2 1
+    400026: pCube3
+    400028: pCube4
+    400030: pCube4 1
+    400032: pCube7
+    400034: pCube8
+    400036: pine_snow8
+    400038: polySurface1
+    400040: polySurface1 1
+    400042: polySurface137
+    400044: polySurface137 1
+    400046: polySurface151
+    400048: pPlane1
+    400050: pPlane10
+    400052: pPlane11
+    400054: pPlane12
+    400056: pPlane13
+    400058: pPlane14
+    400060: pPlane15
+    400062: pPlane16
+    400064: pPlane17
+    400066: pPlane18
+    400068: pPlane19
+    400070: pPlane2
+    400072: pPlane20
+    400074: pPlane21
+    400076: pPlane22
+    400078: pPlane24
+    400080: pPlane25
+    400082: pPlane26
+    400084: pPlane27
+    400086: pPlane28
+    400088: pPlane29
+    400090: pPlane3
+    400092: pPlane30
+    400094: pPlane31
+    400096: pPlane32
+    400098: pPlane33
+    400100: pPlane34
+    400102: pPlane35
+    400104: pPlane37
+    400106: pPlane38
+    400108: pPlane39
+    400110: pPlane4
+    400112: pPlane40
+    400114: pPlane41
+    400116: pPlane8
+    400118: //RootNode
+    400120: Snow_covered_Cottage:Cottage_House
+    2300000: cay_thong1:polySurface1
+    2300002: cay_thong1:polySurface137
+    2300004: pCube1
+    2300006: pCube1 1
+    2300008: pCube2
+    2300010: pCube2 1
+    2300012: pCube3
+    2300014: pCube4
+    2300016: pCube4 1
+    2300018: pCube7
+    2300020: pCube8
+    2300022: polySurface1
+    2300024: polySurface1 1
+    2300026: polySurface137
+    2300028: polySurface137 1
+    2300030: polySurface151
+    2300032: pPlane1
+    2300034: pPlane10
+    2300036: pPlane11
+    2300038: pPlane12
+    2300040: pPlane13
+    2300042: pPlane14
+    2300044: pPlane15
+    2300046: pPlane16
+    2300048: pPlane17
+    2300050: pPlane18
+    2300052: pPlane19
+    2300054: pPlane2
+    2300056: pPlane20
+    2300058: pPlane21
+    2300060: pPlane22
+    2300062: pPlane24
+    2300064: pPlane25
+    2300066: pPlane26
+    2300068: pPlane27
+    2300070: pPlane28
+    2300072: pPlane29
+    2300074: pPlane3
+    2300076: pPlane30
+    2300078: pPlane31
+    2300080: pPlane32
+    2300082: pPlane33
+    2300084: pPlane34
+    2300086: pPlane35
+    2300088: pPlane37
+    2300090: pPlane38
+    2300092: pPlane39
+    2300094: pPlane4
+    2300096: pPlane40
+    2300098: pPlane41
+    2300100: pPlane8
+    2300102: Snow_covered_Cottage:Cottage_House
+    3300000: cay_thong1:polySurface1
+    3300002: cay_thong1:polySurface137
+    3300004: pCube1
+    3300006: pCube1 1
+    3300008: pCube2
+    3300010: pCube2 1
+    3300012: pCube3
+    3300014: pCube4
+    3300016: pCube4 1
+    3300018: pCube7
+    3300020: pCube8
+    3300022: polySurface1
+    3300024: polySurface1 1
+    3300026: polySurface137
+    3300028: polySurface137 1
+    3300030: polySurface151
+    3300032: pPlane1
+    3300034: pPlane10
+    3300036: pPlane11
+    3300038: pPlane12
+    3300040: pPlane13
+    3300042: pPlane14
+    3300044: pPlane15
+    3300046: pPlane16
+    3300048: pPlane17
+    3300050: pPlane18
+    3300052: pPlane19
+    3300054: pPlane2
+    3300056: pPlane20
+    3300058: pPlane21
+    3300060: pPlane22
+    3300062: pPlane24
+    3300064: pPlane25
+    3300066: pPlane26
+    3300068: pPlane27
+    3300070: pPlane28
+    3300072: pPlane29
+    3300074: pPlane3
+    3300076: pPlane30
+    3300078: pPlane31
+    3300080: pPlane32
+    3300082: pPlane33
+    3300084: pPlane34
+    3300086: pPlane35
+    3300088: pPlane37
+    3300090: pPlane38
+    3300092: pPlane39
+    3300094: pPlane4
+    3300096: pPlane40
+    3300098: pPlane41
+    3300100: pPlane8
+    3300102: Snow_covered_Cottage:Cottage_House
+    4300000: pPlane4
+    4300002: pPlane1
+    4300004: pPlane3
+    4300006: pPlane8
+    4300008: pPlane10
+    4300010: pPlane11
+    4300012: pPlane12
+    4300014: pPlane13
+    4300016: pPlane14
+    4300018: pPlane15
+    4300020: pPlane16
+    4300022: pPlane17
+    4300024: pPlane18
+    4300026: pPlane20
+    4300028: pPlane21
+    4300030: pPlane22
+    4300032: pPlane24
+    4300034: pPlane25
+    4300036: pPlane26
+    4300038: pPlane27
+    4300040: pPlane28
+    4300042: pPlane29
+    4300044: pPlane30
+    4300046: pPlane31
+    4300048: pPlane32
+    4300050: pPlane35
+    4300052: pPlane37
+    4300054: pPlane38
+    4300056: pPlane39
+    4300058: pPlane40
+    4300060: pPlane41
+    4300062: pPlane2
+    4300064: Snow_covered_Cottage:Cottage_House
+    4300066: pPlane19
+    4300068: pCube1
+    4300070: pCube2
+    4300072: pCube3
+    4300074: pCube4
+    4300076: polySurface1
+    4300078: polySurface137
+    4300080: pCube8
+    4300082: cay_thong1:polySurface137
+    4300084: cay_thong1:polySurface1
+    4300086: polySurface1
+    4300088: polySurface137
+    4300090: pCube1
+    4300092: pCube2
+    4300094: pCube4
+    4300096: pCube7
+    4300098: pPlane34
+    4300100: pPlane33
+    4300102: polySurface151
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,35 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/1.Manh/GameMananger/ShopManager/BuyManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/1.Manh/GunManager/ThayDanShotGun.cs" Line="40" Column="33" />
+      <File FileName="Assets/Scripts/1.Manh/GunManager/ThayDanSungDacBiet.cs" Line="43" Column="38" />
+      <File FileName="Assets/Scripts/1.Manh/GunManager/ThayDanSungTiaThayCaBang.cs" Line="20" Column="37" />
+      <File FileName="Assets/Scripts/1.Manh/GunManager/ThayDanSungTIaThayTungVien.cs" Line="36" Column="36" />
+      <File FileName="Assets/Scripts/1.Manh/GunManager/ThayDanSungTruong.cs" Line="25" Column="34" />
+      <File FileName="Assets/Scripts/1.Manh/GunManager/ShotGun.cs" Line="280" Column="6" />
+      <File FileName="Assets/Scripts/1.Manh/ShotAndMoveScreen/Zoom.cs" Line="75" Column="2" />
+      <File FileName="Assets/Scripts/1.Manh/ShotAndMoveScreen/MoveScreen.cs" Line="99" Column="2" />
+      <File FileName="Assets/Scripts/1.Manh/MapMananager/MapManager.cs" Line="82" Column="1" />
+      <File FileName="Assets/Scripts/1.Manh/Monster/SetCollider.cs" Line="14" Column="16" />
+      <File FileName="Assets/Scripts/1.Manh/Monster/MonsterManager.cs" Line="64" Column="55" />
+      <File FileName="Assets/Scripts/1.Manh/DataManager/GetData/Monsters.cs" Line="98" Column="16" />
+      <File FileName="Assets/Scripts/1.Manh/Const.cs" Line="102" Column="1" />
+      <File FileName="Assets/Scripts/1.Manh/UIControl/UIController.cs" Line="85" Column="1" />
+      <File FileName="Assets/Login/Scripts/QuanLyAccount/CapNhatThongTin.cs" Line="94" Column="2" />
+      <File FileName="Assets/Login/Scripts/QuanLyAccount/QuanLyDangNhap.cs" Line="46" Column="16" />
+      <File FileName="Assets/Scripts/1.Manh/GameMananger/ShopManager/Purchaser.cs" Line="222" Column="31" />
+      <File FileName="Assets/Scripts/1.Manh/GameMananger/ShopManager/BuyManager.cs" Line="118" Column="51" />
+      <File FileName="Assets/Scripts/1.Manh/SOCIAL/Social.cs" Line="103" Column="52" />
+      <File FileName="Assets/Scripts/1.Manh/GameMananger/SelectRegion.cs" Line="187" Column="15" />
+      <File FileName="Assets/Scripts/1.Manh/Loadscene/SceneLoader.cs" Line="62" Column="37" />
+      <File FileName="Assets/Scripts/1.Manh/DataManager/SQLite.cs" Line="1311" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Volumes/Data D/WORK/BHmedia/Deer Hunter3/Assets/Scripts/1.Manh/GunManager/ShotGun.cs" line="473" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

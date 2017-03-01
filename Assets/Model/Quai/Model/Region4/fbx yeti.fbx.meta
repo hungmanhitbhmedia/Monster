@@ -1,0 +1,1094 @@
+fileFormatVersion: 2
+guid: 6b0f27b1c5313034ca3b2110954ac793
+timeCreated: 1460175293
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ba_vai_phai
+    100002: base_capal_phai
+    100004: base_capal_trai
+    100006: calavical_phai
+    100008: calavical_trai
+    100010: capal_phai
+    100012: capal_trai
+    100014: chan_phai_joint1
+    100016: chan_phai_joint2
+    100018: chan_phai_joint3
+    100020: chan_phai_joint4
+    100022: chan_trai_joint5
+    100024: chan_trai_joint6
+    100026: chan_trai_joint7
+    100028: chan_trai_joint8
+    100030: co
+    100032: de_co
+    100034: //RootNode
+    100036: geo
+    100038: khuyu_tay_phai
+    100040: khuyu_tay_trai
+    100042: ngon_ap_ut_phai_joint36
+    100044: ngon_ap_ut_phai_joint37
+    100046: ngon_ap_ut_phai_joint38
+    100048: ngon_ap_ut_trai_joint25
+    100050: ngon_ap_ut_trai_joint26
+    100052: ngon_ap_ut_trai_joint27
+    100054: ngon_cai_phai_joint42
+    100056: ngon_cai_phai_joint43
+    100058: ngon_cai_phai_joint44
+    100060: ngon_cai_trai_joint29
+    100062: ngon_cai_trai_joint30
+    100064: ngon_cai_trai_joint31
+    100066: ngon_tro_phai_joint33
+    100068: ngon_tro_phai_joint34
+    100070: ngon_tro_phai_joint35
+    100072: ngon_tro_trai_joint28
+    100074: ngon_tro_trai_joint29
+    100076: ngon_tro_trai_joint30
+    100078: ngon_ut_phai_joint39
+    100080: ngon_ut_phai_joint40
+    100082: ngon_ut_phai_joint41
+    100084: ngon_ut_trai_joint22
+    100086: ngon_ut_trai_joint23
+    100088: ngon_ut_trai_joint24
+    100090: polySurface42
+    100092: than_1
+    100094: than_2
+    100096: than_3
+    100098: vba_vai_trai
+    100100: xuong
+    400000: ba_vai_phai
+    400002: base_capal_phai
+    400004: base_capal_trai
+    400006: calavical_phai
+    400008: calavical_trai
+    400010: capal_phai
+    400012: capal_trai
+    400014: chan_phai_joint1
+    400016: chan_phai_joint2
+    400018: chan_phai_joint3
+    400020: chan_phai_joint4
+    400022: chan_trai_joint5
+    400024: chan_trai_joint6
+    400026: chan_trai_joint7
+    400028: chan_trai_joint8
+    400030: co
+    400032: de_co
+    400034: //RootNode
+    400036: geo
+    400038: khuyu_tay_phai
+    400040: khuyu_tay_trai
+    400042: ngon_ap_ut_phai_joint36
+    400044: ngon_ap_ut_phai_joint37
+    400046: ngon_ap_ut_phai_joint38
+    400048: ngon_ap_ut_trai_joint25
+    400050: ngon_ap_ut_trai_joint26
+    400052: ngon_ap_ut_trai_joint27
+    400054: ngon_cai_phai_joint42
+    400056: ngon_cai_phai_joint43
+    400058: ngon_cai_phai_joint44
+    400060: ngon_cai_trai_joint29
+    400062: ngon_cai_trai_joint30
+    400064: ngon_cai_trai_joint31
+    400066: ngon_tro_phai_joint33
+    400068: ngon_tro_phai_joint34
+    400070: ngon_tro_phai_joint35
+    400072: ngon_tro_trai_joint28
+    400074: ngon_tro_trai_joint29
+    400076: ngon_tro_trai_joint30
+    400078: ngon_ut_phai_joint39
+    400080: ngon_ut_phai_joint40
+    400082: ngon_ut_phai_joint41
+    400084: ngon_ut_trai_joint22
+    400086: ngon_ut_trai_joint23
+    400088: ngon_ut_trai_joint24
+    400090: polySurface42
+    400092: than_1
+    400094: than_2
+    400096: than_3
+    400098: vba_vai_trai
+    400100: xuong
+    4300000: polySurface42
+    7400000: Idle
+    7400002: Chay
+    7400004: Tho
+    7400006: Chet
+    7400008: Attack
+    7400010: Bithuong
+    7400012: Dicham
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: polySurface42
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 81
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: geo
+        weight: 1
+      - path: geo/polySurface42
+        weight: 1
+      - path: xuong
+        weight: 1
+      - path: xuong/than_1
+        weight: 1
+      - path: xuong/than_1/chan_phai_joint1
+        weight: 1
+      - path: xuong/than_1/chan_phai_joint1/chan_phai_joint2
+        weight: 1
+      - path: xuong/than_1/chan_phai_joint1/chan_phai_joint2/chan_phai_joint3
+        weight: 1
+      - path: xuong/than_1/chan_phai_joint1/chan_phai_joint2/chan_phai_joint3/chan_phai_joint4
+        weight: 1
+      - path: xuong/than_1/chan_trai_joint5
+        weight: 1
+      - path: xuong/than_1/chan_trai_joint5/chan_trai_joint6
+        weight: 1
+      - path: xuong/than_1/chan_trai_joint5/chan_trai_joint6/chan_trai_joint7
+        weight: 1
+      - path: xuong/than_1/chan_trai_joint5/chan_trai_joint6/chan_trai_joint7/chan_trai_joint8
+        weight: 1
+      - path: xuong/than_1/than_2
+        weight: 1
+      - path: xuong/than_1/than_2/than_3
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_ap_ut_phai_joint36
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_ap_ut_phai_joint36/ngon_ap_ut_phai_joint37
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_ap_ut_phai_joint36/ngon_ap_ut_phai_joint37/ngon_ap_ut_phai_joint38
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_cai_phai_joint42
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_cai_phai_joint42/ngon_cai_phai_joint43
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_cai_phai_joint42/ngon_cai_phai_joint43/ngon_cai_phai_joint44
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_tro_phai_joint33
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_tro_phai_joint33/ngon_tro_phai_joint34
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_tro_phai_joint33/ngon_tro_phai_joint34/ngon_tro_phai_joint35
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_ut_phai_joint39
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_ut_phai_joint39/ngon_ut_phai_joint40
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_ut_phai_joint39/ngon_ut_phai_joint40/ngon_ut_phai_joint41
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_ap_ut_trai_joint25
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_ap_ut_trai_joint25/ngon_ap_ut_trai_joint26
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_ap_ut_trai_joint25/ngon_ap_ut_trai_joint26/ngon_ap_ut_trai_joint27
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_cai_trai_joint31
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_cai_trai_joint31/ngon_cai_trai_joint29
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_cai_trai_joint31/ngon_cai_trai_joint29/ngon_cai_trai_joint30
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_tro_trai_joint28
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_tro_trai_joint28/ngon_tro_trai_joint29
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_tro_trai_joint28/ngon_tro_trai_joint29/ngon_tro_trai_joint30
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_ut_trai_joint22
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_ut_trai_joint22/ngon_ut_trai_joint23
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_ut_trai_joint22/ngon_ut_trai_joint23/ngon_ut_trai_joint24
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/de_co
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/de_co/co
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Chay
+      takeName: Take 001
+      firstFrame: 105
+      lastFrame: 131
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: geo
+        weight: 1
+      - path: geo/polySurface42
+        weight: 1
+      - path: xuong
+        weight: 1
+      - path: xuong/than_1
+        weight: 1
+      - path: xuong/than_1/chan_phai_joint1
+        weight: 1
+      - path: xuong/than_1/chan_phai_joint1/chan_phai_joint2
+        weight: 1
+      - path: xuong/than_1/chan_phai_joint1/chan_phai_joint2/chan_phai_joint3
+        weight: 1
+      - path: xuong/than_1/chan_phai_joint1/chan_phai_joint2/chan_phai_joint3/chan_phai_joint4
+        weight: 1
+      - path: xuong/than_1/chan_trai_joint5
+        weight: 1
+      - path: xuong/than_1/chan_trai_joint5/chan_trai_joint6
+        weight: 1
+      - path: xuong/than_1/chan_trai_joint5/chan_trai_joint6/chan_trai_joint7
+        weight: 1
+      - path: xuong/than_1/chan_trai_joint5/chan_trai_joint6/chan_trai_joint7/chan_trai_joint8
+        weight: 1
+      - path: xuong/than_1/than_2
+        weight: 1
+      - path: xuong/than_1/than_2/than_3
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_ap_ut_phai_joint36
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_ap_ut_phai_joint36/ngon_ap_ut_phai_joint37
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_ap_ut_phai_joint36/ngon_ap_ut_phai_joint37/ngon_ap_ut_phai_joint38
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_cai_phai_joint42
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_cai_phai_joint42/ngon_cai_phai_joint43
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_cai_phai_joint42/ngon_cai_phai_joint43/ngon_cai_phai_joint44
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_tro_phai_joint33
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_tro_phai_joint33/ngon_tro_phai_joint34
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_tro_phai_joint33/ngon_tro_phai_joint34/ngon_tro_phai_joint35
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_ut_phai_joint39
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_ut_phai_joint39/ngon_ut_phai_joint40
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_ut_phai_joint39/ngon_ut_phai_joint40/ngon_ut_phai_joint41
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_ap_ut_trai_joint25
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_ap_ut_trai_joint25/ngon_ap_ut_trai_joint26
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_ap_ut_trai_joint25/ngon_ap_ut_trai_joint26/ngon_ap_ut_trai_joint27
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_cai_trai_joint31
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_cai_trai_joint31/ngon_cai_trai_joint29
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_cai_trai_joint31/ngon_cai_trai_joint29/ngon_cai_trai_joint30
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_tro_trai_joint28
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_tro_trai_joint28/ngon_tro_trai_joint29
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_tro_trai_joint28/ngon_tro_trai_joint29/ngon_tro_trai_joint30
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_ut_trai_joint22
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_ut_trai_joint22/ngon_ut_trai_joint23
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_ut_trai_joint22/ngon_ut_trai_joint23/ngon_ut_trai_joint24
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/de_co
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/de_co/co
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Tho
+      takeName: Take 001
+      firstFrame: 150
+      lastFrame: 302
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: geo
+        weight: 1
+      - path: geo/polySurface42
+        weight: 1
+      - path: xuong
+        weight: 1
+      - path: xuong/than_1
+        weight: 1
+      - path: xuong/than_1/chan_phai_joint1
+        weight: 1
+      - path: xuong/than_1/chan_phai_joint1/chan_phai_joint2
+        weight: 1
+      - path: xuong/than_1/chan_phai_joint1/chan_phai_joint2/chan_phai_joint3
+        weight: 1
+      - path: xuong/than_1/chan_phai_joint1/chan_phai_joint2/chan_phai_joint3/chan_phai_joint4
+        weight: 1
+      - path: xuong/than_1/chan_trai_joint5
+        weight: 1
+      - path: xuong/than_1/chan_trai_joint5/chan_trai_joint6
+        weight: 1
+      - path: xuong/than_1/chan_trai_joint5/chan_trai_joint6/chan_trai_joint7
+        weight: 1
+      - path: xuong/than_1/chan_trai_joint5/chan_trai_joint6/chan_trai_joint7/chan_trai_joint8
+        weight: 1
+      - path: xuong/than_1/than_2
+        weight: 1
+      - path: xuong/than_1/than_2/than_3
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_ap_ut_phai_joint36
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_ap_ut_phai_joint36/ngon_ap_ut_phai_joint37
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_ap_ut_phai_joint36/ngon_ap_ut_phai_joint37/ngon_ap_ut_phai_joint38
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_cai_phai_joint42
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_cai_phai_joint42/ngon_cai_phai_joint43
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_cai_phai_joint42/ngon_cai_phai_joint43/ngon_cai_phai_joint44
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_tro_phai_joint33
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_tro_phai_joint33/ngon_tro_phai_joint34
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_tro_phai_joint33/ngon_tro_phai_joint34/ngon_tro_phai_joint35
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_ut_phai_joint39
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_ut_phai_joint39/ngon_ut_phai_joint40
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_ut_phai_joint39/ngon_ut_phai_joint40/ngon_ut_phai_joint41
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_ap_ut_trai_joint25
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_ap_ut_trai_joint25/ngon_ap_ut_trai_joint26
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_ap_ut_trai_joint25/ngon_ap_ut_trai_joint26/ngon_ap_ut_trai_joint27
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_cai_trai_joint31
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_cai_trai_joint31/ngon_cai_trai_joint29
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_cai_trai_joint31/ngon_cai_trai_joint29/ngon_cai_trai_joint30
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_tro_trai_joint28
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_tro_trai_joint28/ngon_tro_trai_joint29
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_tro_trai_joint28/ngon_tro_trai_joint29/ngon_tro_trai_joint30
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_ut_trai_joint22
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_ut_trai_joint22/ngon_ut_trai_joint23
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_ut_trai_joint22/ngon_ut_trai_joint23/ngon_ut_trai_joint24
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/de_co
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/de_co/co
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Chet
+      takeName: Take 001
+      firstFrame: 320
+      lastFrame: 343
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: geo
+        weight: 1
+      - path: geo/polySurface42
+        weight: 1
+      - path: xuong
+        weight: 1
+      - path: xuong/than_1
+        weight: 1
+      - path: xuong/than_1/chan_phai_joint1
+        weight: 1
+      - path: xuong/than_1/chan_phai_joint1/chan_phai_joint2
+        weight: 1
+      - path: xuong/than_1/chan_phai_joint1/chan_phai_joint2/chan_phai_joint3
+        weight: 1
+      - path: xuong/than_1/chan_phai_joint1/chan_phai_joint2/chan_phai_joint3/chan_phai_joint4
+        weight: 1
+      - path: xuong/than_1/chan_trai_joint5
+        weight: 1
+      - path: xuong/than_1/chan_trai_joint5/chan_trai_joint6
+        weight: 1
+      - path: xuong/than_1/chan_trai_joint5/chan_trai_joint6/chan_trai_joint7
+        weight: 1
+      - path: xuong/than_1/chan_trai_joint5/chan_trai_joint6/chan_trai_joint7/chan_trai_joint8
+        weight: 1
+      - path: xuong/than_1/than_2
+        weight: 1
+      - path: xuong/than_1/than_2/than_3
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_ap_ut_phai_joint36
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_ap_ut_phai_joint36/ngon_ap_ut_phai_joint37
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_ap_ut_phai_joint36/ngon_ap_ut_phai_joint37/ngon_ap_ut_phai_joint38
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_cai_phai_joint42
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_cai_phai_joint42/ngon_cai_phai_joint43
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_cai_phai_joint42/ngon_cai_phai_joint43/ngon_cai_phai_joint44
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_tro_phai_joint33
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_tro_phai_joint33/ngon_tro_phai_joint34
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_tro_phai_joint33/ngon_tro_phai_joint34/ngon_tro_phai_joint35
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_ut_phai_joint39
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_ut_phai_joint39/ngon_ut_phai_joint40
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_ut_phai_joint39/ngon_ut_phai_joint40/ngon_ut_phai_joint41
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_ap_ut_trai_joint25
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_ap_ut_trai_joint25/ngon_ap_ut_trai_joint26
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_ap_ut_trai_joint25/ngon_ap_ut_trai_joint26/ngon_ap_ut_trai_joint27
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_cai_trai_joint31
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_cai_trai_joint31/ngon_cai_trai_joint29
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_cai_trai_joint31/ngon_cai_trai_joint29/ngon_cai_trai_joint30
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_tro_trai_joint28
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_tro_trai_joint28/ngon_tro_trai_joint29
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_tro_trai_joint28/ngon_tro_trai_joint29/ngon_tro_trai_joint30
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_ut_trai_joint22
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_ut_trai_joint22/ngon_ut_trai_joint23
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_ut_trai_joint22/ngon_ut_trai_joint23/ngon_ut_trai_joint24
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/de_co
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/de_co/co
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attack
+      takeName: Take 001
+      firstFrame: 350
+      lastFrame: 377
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: geo
+        weight: 1
+      - path: geo/polySurface42
+        weight: 1
+      - path: xuong
+        weight: 1
+      - path: xuong/than_1
+        weight: 1
+      - path: xuong/than_1/chan_phai_joint1
+        weight: 1
+      - path: xuong/than_1/chan_phai_joint1/chan_phai_joint2
+        weight: 1
+      - path: xuong/than_1/chan_phai_joint1/chan_phai_joint2/chan_phai_joint3
+        weight: 1
+      - path: xuong/than_1/chan_phai_joint1/chan_phai_joint2/chan_phai_joint3/chan_phai_joint4
+        weight: 1
+      - path: xuong/than_1/chan_trai_joint5
+        weight: 1
+      - path: xuong/than_1/chan_trai_joint5/chan_trai_joint6
+        weight: 1
+      - path: xuong/than_1/chan_trai_joint5/chan_trai_joint6/chan_trai_joint7
+        weight: 1
+      - path: xuong/than_1/chan_trai_joint5/chan_trai_joint6/chan_trai_joint7/chan_trai_joint8
+        weight: 1
+      - path: xuong/than_1/than_2
+        weight: 1
+      - path: xuong/than_1/than_2/than_3
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_ap_ut_phai_joint36
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_ap_ut_phai_joint36/ngon_ap_ut_phai_joint37
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_ap_ut_phai_joint36/ngon_ap_ut_phai_joint37/ngon_ap_ut_phai_joint38
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_cai_phai_joint42
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_cai_phai_joint42/ngon_cai_phai_joint43
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_cai_phai_joint42/ngon_cai_phai_joint43/ngon_cai_phai_joint44
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_tro_phai_joint33
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_tro_phai_joint33/ngon_tro_phai_joint34
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_tro_phai_joint33/ngon_tro_phai_joint34/ngon_tro_phai_joint35
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_ut_phai_joint39
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_ut_phai_joint39/ngon_ut_phai_joint40
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_ut_phai_joint39/ngon_ut_phai_joint40/ngon_ut_phai_joint41
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_ap_ut_trai_joint25
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_ap_ut_trai_joint25/ngon_ap_ut_trai_joint26
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_ap_ut_trai_joint25/ngon_ap_ut_trai_joint26/ngon_ap_ut_trai_joint27
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_cai_trai_joint31
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_cai_trai_joint31/ngon_cai_trai_joint29
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_cai_trai_joint31/ngon_cai_trai_joint29/ngon_cai_trai_joint30
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_tro_trai_joint28
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_tro_trai_joint28/ngon_tro_trai_joint29
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_tro_trai_joint28/ngon_tro_trai_joint29/ngon_tro_trai_joint30
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_ut_trai_joint22
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_ut_trai_joint22/ngon_ut_trai_joint23
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_ut_trai_joint22/ngon_ut_trai_joint23/ngon_ut_trai_joint24
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/de_co
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/de_co/co
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bithuong
+      takeName: Take 001
+      firstFrame: 400
+      lastFrame: 438
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: geo
+        weight: 1
+      - path: geo/polySurface42
+        weight: 1
+      - path: xuong
+        weight: 1
+      - path: xuong/than_1
+        weight: 1
+      - path: xuong/than_1/chan_phai_joint1
+        weight: 1
+      - path: xuong/than_1/chan_phai_joint1/chan_phai_joint2
+        weight: 1
+      - path: xuong/than_1/chan_phai_joint1/chan_phai_joint2/chan_phai_joint3
+        weight: 1
+      - path: xuong/than_1/chan_phai_joint1/chan_phai_joint2/chan_phai_joint3/chan_phai_joint4
+        weight: 1
+      - path: xuong/than_1/chan_trai_joint5
+        weight: 1
+      - path: xuong/than_1/chan_trai_joint5/chan_trai_joint6
+        weight: 1
+      - path: xuong/than_1/chan_trai_joint5/chan_trai_joint6/chan_trai_joint7
+        weight: 1
+      - path: xuong/than_1/chan_trai_joint5/chan_trai_joint6/chan_trai_joint7/chan_trai_joint8
+        weight: 1
+      - path: xuong/than_1/than_2
+        weight: 1
+      - path: xuong/than_1/than_2/than_3
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_ap_ut_phai_joint36
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_ap_ut_phai_joint36/ngon_ap_ut_phai_joint37
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_ap_ut_phai_joint36/ngon_ap_ut_phai_joint37/ngon_ap_ut_phai_joint38
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_cai_phai_joint42
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_cai_phai_joint42/ngon_cai_phai_joint43
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_cai_phai_joint42/ngon_cai_phai_joint43/ngon_cai_phai_joint44
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_tro_phai_joint33
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_tro_phai_joint33/ngon_tro_phai_joint34
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_tro_phai_joint33/ngon_tro_phai_joint34/ngon_tro_phai_joint35
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_ut_phai_joint39
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_ut_phai_joint39/ngon_ut_phai_joint40
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_ut_phai_joint39/ngon_ut_phai_joint40/ngon_ut_phai_joint41
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_ap_ut_trai_joint25
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_ap_ut_trai_joint25/ngon_ap_ut_trai_joint26
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_ap_ut_trai_joint25/ngon_ap_ut_trai_joint26/ngon_ap_ut_trai_joint27
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_cai_trai_joint31
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_cai_trai_joint31/ngon_cai_trai_joint29
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_cai_trai_joint31/ngon_cai_trai_joint29/ngon_cai_trai_joint30
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_tro_trai_joint28
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_tro_trai_joint28/ngon_tro_trai_joint29
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_tro_trai_joint28/ngon_tro_trai_joint29/ngon_tro_trai_joint30
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_ut_trai_joint22
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_ut_trai_joint22/ngon_ut_trai_joint23
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_ut_trai_joint22/ngon_ut_trai_joint23/ngon_ut_trai_joint24
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/de_co
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/de_co/co
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Dicham
+      takeName: Take 001
+      firstFrame: 400
+      lastFrame: 438
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: geo
+        weight: 1
+      - path: geo/polySurface42
+        weight: 1
+      - path: xuong
+        weight: 1
+      - path: xuong/than_1
+        weight: 1
+      - path: xuong/than_1/chan_phai_joint1
+        weight: 1
+      - path: xuong/than_1/chan_phai_joint1/chan_phai_joint2
+        weight: 1
+      - path: xuong/than_1/chan_phai_joint1/chan_phai_joint2/chan_phai_joint3
+        weight: 1
+      - path: xuong/than_1/chan_phai_joint1/chan_phai_joint2/chan_phai_joint3/chan_phai_joint4
+        weight: 1
+      - path: xuong/than_1/chan_trai_joint5
+        weight: 1
+      - path: xuong/than_1/chan_trai_joint5/chan_trai_joint6
+        weight: 1
+      - path: xuong/than_1/chan_trai_joint5/chan_trai_joint6/chan_trai_joint7
+        weight: 1
+      - path: xuong/than_1/chan_trai_joint5/chan_trai_joint6/chan_trai_joint7/chan_trai_joint8
+        weight: 1
+      - path: xuong/than_1/than_2
+        weight: 1
+      - path: xuong/than_1/than_2/than_3
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_ap_ut_phai_joint36
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_ap_ut_phai_joint36/ngon_ap_ut_phai_joint37
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_ap_ut_phai_joint36/ngon_ap_ut_phai_joint37/ngon_ap_ut_phai_joint38
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_cai_phai_joint42
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_cai_phai_joint42/ngon_cai_phai_joint43
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_cai_phai_joint42/ngon_cai_phai_joint43/ngon_cai_phai_joint44
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_tro_phai_joint33
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_tro_phai_joint33/ngon_tro_phai_joint34
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_tro_phai_joint33/ngon_tro_phai_joint34/ngon_tro_phai_joint35
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_ut_phai_joint39
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_ut_phai_joint39/ngon_ut_phai_joint40
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_phai/ba_vai_phai/khuyu_tay_phai/base_capal_phai/capal_phai/ngon_ut_phai_joint39/ngon_ut_phai_joint40/ngon_ut_phai_joint41
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_ap_ut_trai_joint25
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_ap_ut_trai_joint25/ngon_ap_ut_trai_joint26
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_ap_ut_trai_joint25/ngon_ap_ut_trai_joint26/ngon_ap_ut_trai_joint27
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_cai_trai_joint31
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_cai_trai_joint31/ngon_cai_trai_joint29
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_cai_trai_joint31/ngon_cai_trai_joint29/ngon_cai_trai_joint30
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_tro_trai_joint28
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_tro_trai_joint28/ngon_tro_trai_joint29
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_tro_trai_joint28/ngon_tro_trai_joint29/ngon_tro_trai_joint30
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_ut_trai_joint22
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_ut_trai_joint22/ngon_ut_trai_joint23
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/calavical_trai/vba_vai_trai/khuyu_tay_trai/base_capal_trai/capal_trai/ngon_ut_trai_joint22/ngon_ut_trai_joint23/ngon_ut_trai_joint24
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/de_co
+        weight: 1
+      - path: xuong/than_1/than_2/than_3/de_co/co
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

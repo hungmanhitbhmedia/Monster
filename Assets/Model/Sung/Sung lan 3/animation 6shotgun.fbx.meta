@@ -1,0 +1,1854 @@
+fileFormatVersion: 2
+guid: 39669a89481614022a82841aac4dc863
+timeCreated: 1479345848
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Boomstick_v2:polySurface60
+    100004: desolation_v1:chittiet:polySurface117
+    100006: desolation_v1:polySurface94
+    100008: fix_doi_ban_tay_1:ap_ut_phai_joint39
+    100010: fix_doi_ban_tay_1:ap_ut_phai_joint40
+    100012: fix_doi_ban_tay_1:ap_ut_phai_joint41
+    100014: fix_doi_ban_tay_1:ap_ut_phai_joint42
+    100016: fix_doi_ban_tay_1:ap_ut_trai_joint16
+    100018: fix_doi_ban_tay_1:ap_ut_trai_joint17
+    100020: fix_doi_ban_tay_1:ap_ut_trai_joint18
+    100022: fix_doi_ban_tay_1:ap_ut_trai_joint19
+    100024: fix_doi_ban_tay_1:ba_vai
+    100026: fix_doi_ban_tay_1:ba_vai 1
+    100028: fix_doi_ban_tay_1:cai_phai_joint28
+    100030: fix_doi_ban_tay_1:cai_phai_joint29
+    100032: fix_doi_ban_tay_1:cai_phai_joint30
+    100034: fix_doi_ban_tay_1:cai_trai_joint5
+    100036: fix_doi_ban_tay_1:cai_trai_joint6
+    100038: fix_doi_ban_tay_1:cai_trai_joint7
+    100040: fix_doi_ban_tay_1:co_tay
+    100042: fix_doi_ban_tay_1:co_tay 1
+    100044: fix_doi_ban_tay_1:giua_phai_joint35
+    100046: fix_doi_ban_tay_1:giua_phai_joint36
+    100048: fix_doi_ban_tay_1:giua_phai_joint37
+    100050: fix_doi_ban_tay_1:giua_phai_joint38
+    100052: fix_doi_ban_tay_1:giua_trai_joint12
+    100054: fix_doi_ban_tay_1:giua_trai_joint13
+    100056: fix_doi_ban_tay_1:giua_trai_joint14
+    100058: fix_doi_ban_tay_1:giua_trai_joint15
+    100060: fix_doi_ban_tay_1:Hand_lam_la_Anim_Sungi_v1:tay_phai_lam_lai:tay_phai
+    100062: fix_doi_ban_tay_1:Hand_lam_la_Anim_Sungi_v1:tay_trai_lam_lai:tay_phai1
+    100064: fix_doi_ban_tay_1:joint_tay_phai
+    100066: fix_doi_ban_tay_1:joint_tay_trai
+    100068: fix_doi_ban_tay_1:khuyu_tay
+    100070: fix_doi_ban_tay_1:khuyu_tay 1
+    100072: fix_doi_ban_tay_1:Model_Hand
+    100074: fix_doi_ban_tay_1:mu_ban_tay
+    100076: fix_doi_ban_tay_1:mu_ban_tay 1
+    100078: fix_doi_ban_tay_1:tro_phai_joint31
+    100080: fix_doi_ban_tay_1:tro_phai_joint32
+    100082: fix_doi_ban_tay_1:tro_phai_joint33
+    100084: fix_doi_ban_tay_1:tro_phai_joint34
+    100086: fix_doi_ban_tay_1:tro_trai_joint10
+    100088: fix_doi_ban_tay_1:tro_trai_joint11
+    100090: fix_doi_ban_tay_1:tro_trai_joint8
+    100092: fix_doi_ban_tay_1:tro_trai_joint9
+    100094: fix_doi_ban_tay_1:ut_phai_joint43
+    100096: fix_doi_ban_tay_1:ut_phai_joint44
+    100098: fix_doi_ban_tay_1:ut_phai_joint45
+    100100: fix_doi_ban_tay_1:ut_phai_joint46
+    100102: fix_doi_ban_tay_1:ut_trai_joint20
+    100104: fix_doi_ban_tay_1:ut_trai_joint21
+    100106: fix_doi_ban_tay_1:ut_trai_joint22
+    100108: fix_doi_ban_tay_1:ut_trai_joint23
+    100110: Forsaken_shotgun:polySurface83
+    100112: Lockjaw_v3:gun
+    100114: nurbsCircle1
+    100116: nurbsCircle1_PH
+    100118: nurbsCircle1_SN
+    100120: polySurface7
+    100122: redwood_shotgun_v2:redwood_shotgun_v1:polySurface12
+    100124: redwood_shotgun_v2:redwood_shotgun_v1:polySurface13
+    100126: transform4
+    100128: transform5
+    400000: //RootNode
+    400002: Boomstick_v2:polySurface60
+    400004: desolation_v1:chittiet:polySurface117
+    400006: desolation_v1:polySurface94
+    400008: fix_doi_ban_tay_1:ap_ut_phai_joint39
+    400010: fix_doi_ban_tay_1:ap_ut_phai_joint40
+    400012: fix_doi_ban_tay_1:ap_ut_phai_joint41
+    400014: fix_doi_ban_tay_1:ap_ut_phai_joint42
+    400016: fix_doi_ban_tay_1:ap_ut_trai_joint16
+    400018: fix_doi_ban_tay_1:ap_ut_trai_joint17
+    400020: fix_doi_ban_tay_1:ap_ut_trai_joint18
+    400022: fix_doi_ban_tay_1:ap_ut_trai_joint19
+    400024: fix_doi_ban_tay_1:ba_vai
+    400026: fix_doi_ban_tay_1:ba_vai 1
+    400028: fix_doi_ban_tay_1:cai_phai_joint28
+    400030: fix_doi_ban_tay_1:cai_phai_joint29
+    400032: fix_doi_ban_tay_1:cai_phai_joint30
+    400034: fix_doi_ban_tay_1:cai_trai_joint5
+    400036: fix_doi_ban_tay_1:cai_trai_joint6
+    400038: fix_doi_ban_tay_1:cai_trai_joint7
+    400040: fix_doi_ban_tay_1:co_tay
+    400042: fix_doi_ban_tay_1:co_tay 1
+    400044: fix_doi_ban_tay_1:giua_phai_joint35
+    400046: fix_doi_ban_tay_1:giua_phai_joint36
+    400048: fix_doi_ban_tay_1:giua_phai_joint37
+    400050: fix_doi_ban_tay_1:giua_phai_joint38
+    400052: fix_doi_ban_tay_1:giua_trai_joint12
+    400054: fix_doi_ban_tay_1:giua_trai_joint13
+    400056: fix_doi_ban_tay_1:giua_trai_joint14
+    400058: fix_doi_ban_tay_1:giua_trai_joint15
+    400060: fix_doi_ban_tay_1:Hand_lam_la_Anim_Sungi_v1:tay_phai_lam_lai:tay_phai
+    400062: fix_doi_ban_tay_1:Hand_lam_la_Anim_Sungi_v1:tay_trai_lam_lai:tay_phai1
+    400064: fix_doi_ban_tay_1:joint_tay_phai
+    400066: fix_doi_ban_tay_1:joint_tay_trai
+    400068: fix_doi_ban_tay_1:khuyu_tay
+    400070: fix_doi_ban_tay_1:khuyu_tay 1
+    400072: fix_doi_ban_tay_1:Model_Hand
+    400074: fix_doi_ban_tay_1:mu_ban_tay
+    400076: fix_doi_ban_tay_1:mu_ban_tay 1
+    400078: fix_doi_ban_tay_1:tro_phai_joint31
+    400080: fix_doi_ban_tay_1:tro_phai_joint32
+    400082: fix_doi_ban_tay_1:tro_phai_joint33
+    400084: fix_doi_ban_tay_1:tro_phai_joint34
+    400086: fix_doi_ban_tay_1:tro_trai_joint10
+    400088: fix_doi_ban_tay_1:tro_trai_joint11
+    400090: fix_doi_ban_tay_1:tro_trai_joint8
+    400092: fix_doi_ban_tay_1:tro_trai_joint9
+    400094: fix_doi_ban_tay_1:ut_phai_joint43
+    400096: fix_doi_ban_tay_1:ut_phai_joint44
+    400098: fix_doi_ban_tay_1:ut_phai_joint45
+    400100: fix_doi_ban_tay_1:ut_phai_joint46
+    400102: fix_doi_ban_tay_1:ut_trai_joint20
+    400104: fix_doi_ban_tay_1:ut_trai_joint21
+    400106: fix_doi_ban_tay_1:ut_trai_joint22
+    400108: fix_doi_ban_tay_1:ut_trai_joint23
+    400110: Forsaken_shotgun:polySurface83
+    400112: Lockjaw_v3:gun
+    400114: nurbsCircle1
+    400116: nurbsCircle1_PH
+    400118: nurbsCircle1_SN
+    400120: polySurface7
+    400122: redwood_shotgun_v2:redwood_shotgun_v1:polySurface12
+    400124: redwood_shotgun_v2:redwood_shotgun_v1:polySurface13
+    400126: transform4
+    400128: transform5
+    2300000: Boomstick_v2:polySurface60
+    2300002: desolation_v1:chittiet:polySurface117
+    2300004: desolation_v1:polySurface94
+    2300006: Forsaken_shotgun:polySurface83
+    2300008: Lockjaw_v3:gun
+    2300010: polySurface7
+    3300000: Boomstick_v2:polySurface60
+    3300002: desolation_v1:chittiet:polySurface117
+    3300004: desolation_v1:polySurface94
+    3300006: Forsaken_shotgun:polySurface83
+    3300008: Lockjaw_v3:gun
+    3300010: polySurface7
+    4300000: fix_doi_ban_tay_1:Hand_lam_la_Anim_Sungi_v1:tay_trai_lam_lai:tay_phai1
+    4300002: fix_doi_ban_tay_1:Hand_lam_la_Anim_Sungi_v1:tay_phai_lam_lai:tay_phai
+    4300004: Boomstick_v2:polySurface60
+    4300006: desolation_v1:chittiet:polySurface117
+    4300008: desolation_v1:polySurface94
+    4300010: Forsaken_shotgun:polySurface83
+    4300012: Lockjaw_v3:gun
+    4300014: polySurface7
+    7400000: Thadan
+    7400002: Lendan
+    7400004: Rutsung
+    7400006: Duasunglenngamsungtia
+    7400008: Haongngamsungtia
+    7400010: Bankhongngamsungtia
+    7400012: Trangthaikhongdichuyen
+    7400014: Thadan2
+    7400016: Thadan1
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: fix_doi_ban_tay_1:Hand_lam_la_Anim_Sungi_v1:tay_phai_lam_lai:tay_phai
+    13700002: fix_doi_ban_tay_1:Hand_lam_la_Anim_Sungi_v1:tay_trai_lam_lai:tay_phai1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Thadan
+      takeName: Take 001
+      firstFrame: 80
+      lastFrame: 106
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ap_ut_phai_joint39
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ap_ut_phai_joint39/fix_doi_ban_tay_1:ap_ut_phai_joint40
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ap_ut_phai_joint39/fix_doi_ban_tay_1:ap_ut_phai_joint40/fix_doi_ban_tay_1:ap_ut_phai_joint41
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ap_ut_phai_joint39/fix_doi_ban_tay_1:ap_ut_phai_joint40/fix_doi_ban_tay_1:ap_ut_phai_joint41/fix_doi_ban_tay_1:ap_ut_phai_joint42
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:cai_phai_joint28
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:cai_phai_joint28/fix_doi_ban_tay_1:cai_phai_joint29
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:cai_phai_joint28/fix_doi_ban_tay_1:cai_phai_joint29/fix_doi_ban_tay_1:cai_phai_joint30
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:giua_phai_joint35
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:giua_phai_joint35/fix_doi_ban_tay_1:giua_phai_joint36
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:giua_phai_joint35/fix_doi_ban_tay_1:giua_phai_joint36/fix_doi_ban_tay_1:giua_phai_joint37
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:giua_phai_joint35/fix_doi_ban_tay_1:giua_phai_joint36/fix_doi_ban_tay_1:giua_phai_joint37/fix_doi_ban_tay_1:giua_phai_joint38
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:tro_phai_joint31
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:tro_phai_joint31/fix_doi_ban_tay_1:tro_phai_joint32
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:tro_phai_joint31/fix_doi_ban_tay_1:tro_phai_joint32/fix_doi_ban_tay_1:tro_phai_joint33
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:tro_phai_joint31/fix_doi_ban_tay_1:tro_phai_joint32/fix_doi_ban_tay_1:tro_phai_joint33/fix_doi_ban_tay_1:tro_phai_joint34
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ut_phai_joint43
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ut_phai_joint43/fix_doi_ban_tay_1:ut_phai_joint44
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ut_phai_joint43/fix_doi_ban_tay_1:ut_phai_joint44/fix_doi_ban_tay_1:ut_phai_joint45
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ut_phai_joint43/fix_doi_ban_tay_1:ut_phai_joint44/fix_doi_ban_tay_1:ut_phai_joint45/fix_doi_ban_tay_1:ut_phai_joint46
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ap_ut_trai_joint16
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ap_ut_trai_joint16/fix_doi_ban_tay_1:ap_ut_trai_joint17
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ap_ut_trai_joint16/fix_doi_ban_tay_1:ap_ut_trai_joint17/fix_doi_ban_tay_1:ap_ut_trai_joint18
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ap_ut_trai_joint16/fix_doi_ban_tay_1:ap_ut_trai_joint17/fix_doi_ban_tay_1:ap_ut_trai_joint18/fix_doi_ban_tay_1:ap_ut_trai_joint19
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:cai_trai_joint5
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:cai_trai_joint5/fix_doi_ban_tay_1:cai_trai_joint6
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:cai_trai_joint5/fix_doi_ban_tay_1:cai_trai_joint6/fix_doi_ban_tay_1:cai_trai_joint7
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:giua_trai_joint12
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:giua_trai_joint12/fix_doi_ban_tay_1:giua_trai_joint13
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:giua_trai_joint12/fix_doi_ban_tay_1:giua_trai_joint13/fix_doi_ban_tay_1:giua_trai_joint14
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:giua_trai_joint12/fix_doi_ban_tay_1:giua_trai_joint13/fix_doi_ban_tay_1:giua_trai_joint14/fix_doi_ban_tay_1:giua_trai_joint15
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:tro_trai_joint8
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:tro_trai_joint8/fix_doi_ban_tay_1:tro_trai_joint9
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:tro_trai_joint8/fix_doi_ban_tay_1:tro_trai_joint9/fix_doi_ban_tay_1:tro_trai_joint10
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:tro_trai_joint8/fix_doi_ban_tay_1:tro_trai_joint9/fix_doi_ban_tay_1:tro_trai_joint10/fix_doi_ban_tay_1:tro_trai_joint11
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ut_trai_joint20
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ut_trai_joint20/fix_doi_ban_tay_1:ut_trai_joint21
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ut_trai_joint20/fix_doi_ban_tay_1:ut_trai_joint21/fix_doi_ban_tay_1:ut_trai_joint22
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ut_trai_joint20/fix_doi_ban_tay_1:ut_trai_joint21/fix_doi_ban_tay_1:ut_trai_joint22/fix_doi_ban_tay_1:ut_trai_joint23
+        weight: 1
+      - path: fix_doi_ban_tay_1:Model_Hand
+        weight: 1
+      - path: fix_doi_ban_tay_1:Model_Hand/fix_doi_ban_tay_1:Hand_lam_la_Anim_Sungi_v1:tay_phai_lam_lai:tay_phai
+        weight: 1
+      - path: fix_doi_ban_tay_1:Model_Hand/fix_doi_ban_tay_1:Hand_lam_la_Anim_Sungi_v1:tay_trai_lam_lai:tay_phai1
+        weight: 1
+      - path: nurbsCircle1_PH
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1/Boomstick_v2:polySurface60
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1/desolation_v1:chittiet:polySurface117
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1/desolation_v1:polySurface94
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1/Forsaken_shotgun:polySurface83
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1/Lockjaw_v3:gun
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1/polySurface7
+        weight: 1
+      - path: redwood_shotgun_v2:redwood_shotgun_v1:polySurface12
+        weight: 1
+      - path: redwood_shotgun_v2:redwood_shotgun_v1:polySurface12/transform5
+        weight: 1
+      - path: redwood_shotgun_v2:redwood_shotgun_v1:polySurface13
+        weight: 1
+      - path: redwood_shotgun_v2:redwood_shotgun_v1:polySurface13/transform4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Lendan
+      takeName: Take 001
+      firstFrame: 120
+      lastFrame: 166
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ap_ut_phai_joint39
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ap_ut_phai_joint39/fix_doi_ban_tay_1:ap_ut_phai_joint40
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ap_ut_phai_joint39/fix_doi_ban_tay_1:ap_ut_phai_joint40/fix_doi_ban_tay_1:ap_ut_phai_joint41
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ap_ut_phai_joint39/fix_doi_ban_tay_1:ap_ut_phai_joint40/fix_doi_ban_tay_1:ap_ut_phai_joint41/fix_doi_ban_tay_1:ap_ut_phai_joint42
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:cai_phai_joint28
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:cai_phai_joint28/fix_doi_ban_tay_1:cai_phai_joint29
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:cai_phai_joint28/fix_doi_ban_tay_1:cai_phai_joint29/fix_doi_ban_tay_1:cai_phai_joint30
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:giua_phai_joint35
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:giua_phai_joint35/fix_doi_ban_tay_1:giua_phai_joint36
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:giua_phai_joint35/fix_doi_ban_tay_1:giua_phai_joint36/fix_doi_ban_tay_1:giua_phai_joint37
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:giua_phai_joint35/fix_doi_ban_tay_1:giua_phai_joint36/fix_doi_ban_tay_1:giua_phai_joint37/fix_doi_ban_tay_1:giua_phai_joint38
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:tro_phai_joint31
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:tro_phai_joint31/fix_doi_ban_tay_1:tro_phai_joint32
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:tro_phai_joint31/fix_doi_ban_tay_1:tro_phai_joint32/fix_doi_ban_tay_1:tro_phai_joint33
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:tro_phai_joint31/fix_doi_ban_tay_1:tro_phai_joint32/fix_doi_ban_tay_1:tro_phai_joint33/fix_doi_ban_tay_1:tro_phai_joint34
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ut_phai_joint43
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ut_phai_joint43/fix_doi_ban_tay_1:ut_phai_joint44
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ut_phai_joint43/fix_doi_ban_tay_1:ut_phai_joint44/fix_doi_ban_tay_1:ut_phai_joint45
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ut_phai_joint43/fix_doi_ban_tay_1:ut_phai_joint44/fix_doi_ban_tay_1:ut_phai_joint45/fix_doi_ban_tay_1:ut_phai_joint46
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ap_ut_trai_joint16
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ap_ut_trai_joint16/fix_doi_ban_tay_1:ap_ut_trai_joint17
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ap_ut_trai_joint16/fix_doi_ban_tay_1:ap_ut_trai_joint17/fix_doi_ban_tay_1:ap_ut_trai_joint18
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ap_ut_trai_joint16/fix_doi_ban_tay_1:ap_ut_trai_joint17/fix_doi_ban_tay_1:ap_ut_trai_joint18/fix_doi_ban_tay_1:ap_ut_trai_joint19
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:cai_trai_joint5
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:cai_trai_joint5/fix_doi_ban_tay_1:cai_trai_joint6
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:cai_trai_joint5/fix_doi_ban_tay_1:cai_trai_joint6/fix_doi_ban_tay_1:cai_trai_joint7
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:giua_trai_joint12
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:giua_trai_joint12/fix_doi_ban_tay_1:giua_trai_joint13
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:giua_trai_joint12/fix_doi_ban_tay_1:giua_trai_joint13/fix_doi_ban_tay_1:giua_trai_joint14
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:giua_trai_joint12/fix_doi_ban_tay_1:giua_trai_joint13/fix_doi_ban_tay_1:giua_trai_joint14/fix_doi_ban_tay_1:giua_trai_joint15
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:tro_trai_joint8
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:tro_trai_joint8/fix_doi_ban_tay_1:tro_trai_joint9
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:tro_trai_joint8/fix_doi_ban_tay_1:tro_trai_joint9/fix_doi_ban_tay_1:tro_trai_joint10
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:tro_trai_joint8/fix_doi_ban_tay_1:tro_trai_joint9/fix_doi_ban_tay_1:tro_trai_joint10/fix_doi_ban_tay_1:tro_trai_joint11
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ut_trai_joint20
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ut_trai_joint20/fix_doi_ban_tay_1:ut_trai_joint21
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ut_trai_joint20/fix_doi_ban_tay_1:ut_trai_joint21/fix_doi_ban_tay_1:ut_trai_joint22
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ut_trai_joint20/fix_doi_ban_tay_1:ut_trai_joint21/fix_doi_ban_tay_1:ut_trai_joint22/fix_doi_ban_tay_1:ut_trai_joint23
+        weight: 1
+      - path: fix_doi_ban_tay_1:Model_Hand
+        weight: 1
+      - path: fix_doi_ban_tay_1:Model_Hand/fix_doi_ban_tay_1:Hand_lam_la_Anim_Sungi_v1:tay_phai_lam_lai:tay_phai
+        weight: 1
+      - path: fix_doi_ban_tay_1:Model_Hand/fix_doi_ban_tay_1:Hand_lam_la_Anim_Sungi_v1:tay_trai_lam_lai:tay_phai1
+        weight: 1
+      - path: nurbsCircle1_PH
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1/Boomstick_v2:polySurface60
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1/desolation_v1:chittiet:polySurface117
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1/desolation_v1:polySurface94
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1/Forsaken_shotgun:polySurface83
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1/Lockjaw_v3:gun
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1/polySurface7
+        weight: 1
+      - path: redwood_shotgun_v2:redwood_shotgun_v1:polySurface12
+        weight: 1
+      - path: redwood_shotgun_v2:redwood_shotgun_v1:polySurface12/transform5
+        weight: 1
+      - path: redwood_shotgun_v2:redwood_shotgun_v1:polySurface13
+        weight: 1
+      - path: redwood_shotgun_v2:redwood_shotgun_v1:polySurface13/transform4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Rutsung
+      takeName: Take 001
+      firstFrame: 180
+      lastFrame: 211
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ap_ut_phai_joint39
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ap_ut_phai_joint39/fix_doi_ban_tay_1:ap_ut_phai_joint40
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ap_ut_phai_joint39/fix_doi_ban_tay_1:ap_ut_phai_joint40/fix_doi_ban_tay_1:ap_ut_phai_joint41
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ap_ut_phai_joint39/fix_doi_ban_tay_1:ap_ut_phai_joint40/fix_doi_ban_tay_1:ap_ut_phai_joint41/fix_doi_ban_tay_1:ap_ut_phai_joint42
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:cai_phai_joint28
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:cai_phai_joint28/fix_doi_ban_tay_1:cai_phai_joint29
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:cai_phai_joint28/fix_doi_ban_tay_1:cai_phai_joint29/fix_doi_ban_tay_1:cai_phai_joint30
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:giua_phai_joint35
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:giua_phai_joint35/fix_doi_ban_tay_1:giua_phai_joint36
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:giua_phai_joint35/fix_doi_ban_tay_1:giua_phai_joint36/fix_doi_ban_tay_1:giua_phai_joint37
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:giua_phai_joint35/fix_doi_ban_tay_1:giua_phai_joint36/fix_doi_ban_tay_1:giua_phai_joint37/fix_doi_ban_tay_1:giua_phai_joint38
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:tro_phai_joint31
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:tro_phai_joint31/fix_doi_ban_tay_1:tro_phai_joint32
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:tro_phai_joint31/fix_doi_ban_tay_1:tro_phai_joint32/fix_doi_ban_tay_1:tro_phai_joint33
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:tro_phai_joint31/fix_doi_ban_tay_1:tro_phai_joint32/fix_doi_ban_tay_1:tro_phai_joint33/fix_doi_ban_tay_1:tro_phai_joint34
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ut_phai_joint43
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ut_phai_joint43/fix_doi_ban_tay_1:ut_phai_joint44
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ut_phai_joint43/fix_doi_ban_tay_1:ut_phai_joint44/fix_doi_ban_tay_1:ut_phai_joint45
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ut_phai_joint43/fix_doi_ban_tay_1:ut_phai_joint44/fix_doi_ban_tay_1:ut_phai_joint45/fix_doi_ban_tay_1:ut_phai_joint46
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ap_ut_trai_joint16
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ap_ut_trai_joint16/fix_doi_ban_tay_1:ap_ut_trai_joint17
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ap_ut_trai_joint16/fix_doi_ban_tay_1:ap_ut_trai_joint17/fix_doi_ban_tay_1:ap_ut_trai_joint18
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ap_ut_trai_joint16/fix_doi_ban_tay_1:ap_ut_trai_joint17/fix_doi_ban_tay_1:ap_ut_trai_joint18/fix_doi_ban_tay_1:ap_ut_trai_joint19
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:cai_trai_joint5
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:cai_trai_joint5/fix_doi_ban_tay_1:cai_trai_joint6
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:cai_trai_joint5/fix_doi_ban_tay_1:cai_trai_joint6/fix_doi_ban_tay_1:cai_trai_joint7
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:giua_trai_joint12
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:giua_trai_joint12/fix_doi_ban_tay_1:giua_trai_joint13
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:giua_trai_joint12/fix_doi_ban_tay_1:giua_trai_joint13/fix_doi_ban_tay_1:giua_trai_joint14
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:giua_trai_joint12/fix_doi_ban_tay_1:giua_trai_joint13/fix_doi_ban_tay_1:giua_trai_joint14/fix_doi_ban_tay_1:giua_trai_joint15
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:tro_trai_joint8
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:tro_trai_joint8/fix_doi_ban_tay_1:tro_trai_joint9
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:tro_trai_joint8/fix_doi_ban_tay_1:tro_trai_joint9/fix_doi_ban_tay_1:tro_trai_joint10
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:tro_trai_joint8/fix_doi_ban_tay_1:tro_trai_joint9/fix_doi_ban_tay_1:tro_trai_joint10/fix_doi_ban_tay_1:tro_trai_joint11
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ut_trai_joint20
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ut_trai_joint20/fix_doi_ban_tay_1:ut_trai_joint21
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ut_trai_joint20/fix_doi_ban_tay_1:ut_trai_joint21/fix_doi_ban_tay_1:ut_trai_joint22
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ut_trai_joint20/fix_doi_ban_tay_1:ut_trai_joint21/fix_doi_ban_tay_1:ut_trai_joint22/fix_doi_ban_tay_1:ut_trai_joint23
+        weight: 1
+      - path: fix_doi_ban_tay_1:Model_Hand
+        weight: 1
+      - path: fix_doi_ban_tay_1:Model_Hand/fix_doi_ban_tay_1:Hand_lam_la_Anim_Sungi_v1:tay_phai_lam_lai:tay_phai
+        weight: 1
+      - path: fix_doi_ban_tay_1:Model_Hand/fix_doi_ban_tay_1:Hand_lam_la_Anim_Sungi_v1:tay_trai_lam_lai:tay_phai1
+        weight: 1
+      - path: nurbsCircle1_PH
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1/Boomstick_v2:polySurface60
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1/desolation_v1:chittiet:polySurface117
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1/desolation_v1:polySurface94
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1/Forsaken_shotgun:polySurface83
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1/Lockjaw_v3:gun
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1/polySurface7
+        weight: 1
+      - path: redwood_shotgun_v2:redwood_shotgun_v1:polySurface12
+        weight: 1
+      - path: redwood_shotgun_v2:redwood_shotgun_v1:polySurface12/transform5
+        weight: 1
+      - path: redwood_shotgun_v2:redwood_shotgun_v1:polySurface13
+        weight: 1
+      - path: redwood_shotgun_v2:redwood_shotgun_v1:polySurface13/transform4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Duasunglenngamsungtia
+      takeName: Take 001
+      firstFrame: 220
+      lastFrame: 227
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ap_ut_phai_joint39
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ap_ut_phai_joint39/fix_doi_ban_tay_1:ap_ut_phai_joint40
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ap_ut_phai_joint39/fix_doi_ban_tay_1:ap_ut_phai_joint40/fix_doi_ban_tay_1:ap_ut_phai_joint41
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ap_ut_phai_joint39/fix_doi_ban_tay_1:ap_ut_phai_joint40/fix_doi_ban_tay_1:ap_ut_phai_joint41/fix_doi_ban_tay_1:ap_ut_phai_joint42
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:cai_phai_joint28
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:cai_phai_joint28/fix_doi_ban_tay_1:cai_phai_joint29
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:cai_phai_joint28/fix_doi_ban_tay_1:cai_phai_joint29/fix_doi_ban_tay_1:cai_phai_joint30
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:giua_phai_joint35
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:giua_phai_joint35/fix_doi_ban_tay_1:giua_phai_joint36
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:giua_phai_joint35/fix_doi_ban_tay_1:giua_phai_joint36/fix_doi_ban_tay_1:giua_phai_joint37
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:giua_phai_joint35/fix_doi_ban_tay_1:giua_phai_joint36/fix_doi_ban_tay_1:giua_phai_joint37/fix_doi_ban_tay_1:giua_phai_joint38
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:tro_phai_joint31
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:tro_phai_joint31/fix_doi_ban_tay_1:tro_phai_joint32
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:tro_phai_joint31/fix_doi_ban_tay_1:tro_phai_joint32/fix_doi_ban_tay_1:tro_phai_joint33
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:tro_phai_joint31/fix_doi_ban_tay_1:tro_phai_joint32/fix_doi_ban_tay_1:tro_phai_joint33/fix_doi_ban_tay_1:tro_phai_joint34
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ut_phai_joint43
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ut_phai_joint43/fix_doi_ban_tay_1:ut_phai_joint44
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ut_phai_joint43/fix_doi_ban_tay_1:ut_phai_joint44/fix_doi_ban_tay_1:ut_phai_joint45
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ut_phai_joint43/fix_doi_ban_tay_1:ut_phai_joint44/fix_doi_ban_tay_1:ut_phai_joint45/fix_doi_ban_tay_1:ut_phai_joint46
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ap_ut_trai_joint16
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ap_ut_trai_joint16/fix_doi_ban_tay_1:ap_ut_trai_joint17
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ap_ut_trai_joint16/fix_doi_ban_tay_1:ap_ut_trai_joint17/fix_doi_ban_tay_1:ap_ut_trai_joint18
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ap_ut_trai_joint16/fix_doi_ban_tay_1:ap_ut_trai_joint17/fix_doi_ban_tay_1:ap_ut_trai_joint18/fix_doi_ban_tay_1:ap_ut_trai_joint19
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:cai_trai_joint5
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:cai_trai_joint5/fix_doi_ban_tay_1:cai_trai_joint6
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:cai_trai_joint5/fix_doi_ban_tay_1:cai_trai_joint6/fix_doi_ban_tay_1:cai_trai_joint7
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:giua_trai_joint12
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:giua_trai_joint12/fix_doi_ban_tay_1:giua_trai_joint13
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:giua_trai_joint12/fix_doi_ban_tay_1:giua_trai_joint13/fix_doi_ban_tay_1:giua_trai_joint14
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:giua_trai_joint12/fix_doi_ban_tay_1:giua_trai_joint13/fix_doi_ban_tay_1:giua_trai_joint14/fix_doi_ban_tay_1:giua_trai_joint15
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:tro_trai_joint8
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:tro_trai_joint8/fix_doi_ban_tay_1:tro_trai_joint9
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:tro_trai_joint8/fix_doi_ban_tay_1:tro_trai_joint9/fix_doi_ban_tay_1:tro_trai_joint10
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:tro_trai_joint8/fix_doi_ban_tay_1:tro_trai_joint9/fix_doi_ban_tay_1:tro_trai_joint10/fix_doi_ban_tay_1:tro_trai_joint11
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ut_trai_joint20
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ut_trai_joint20/fix_doi_ban_tay_1:ut_trai_joint21
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ut_trai_joint20/fix_doi_ban_tay_1:ut_trai_joint21/fix_doi_ban_tay_1:ut_trai_joint22
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ut_trai_joint20/fix_doi_ban_tay_1:ut_trai_joint21/fix_doi_ban_tay_1:ut_trai_joint22/fix_doi_ban_tay_1:ut_trai_joint23
+        weight: 1
+      - path: fix_doi_ban_tay_1:Model_Hand
+        weight: 1
+      - path: fix_doi_ban_tay_1:Model_Hand/fix_doi_ban_tay_1:Hand_lam_la_Anim_Sungi_v1:tay_phai_lam_lai:tay_phai
+        weight: 1
+      - path: fix_doi_ban_tay_1:Model_Hand/fix_doi_ban_tay_1:Hand_lam_la_Anim_Sungi_v1:tay_trai_lam_lai:tay_phai1
+        weight: 1
+      - path: nurbsCircle1_PH
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1/Boomstick_v2:polySurface60
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1/desolation_v1:chittiet:polySurface117
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1/desolation_v1:polySurface94
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1/Forsaken_shotgun:polySurface83
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1/Lockjaw_v3:gun
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1/polySurface7
+        weight: 1
+      - path: redwood_shotgun_v2:redwood_shotgun_v1:polySurface12
+        weight: 1
+      - path: redwood_shotgun_v2:redwood_shotgun_v1:polySurface12/transform5
+        weight: 1
+      - path: redwood_shotgun_v2:redwood_shotgun_v1:polySurface13
+        weight: 1
+      - path: redwood_shotgun_v2:redwood_shotgun_v1:polySurface13/transform4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Haongngamsungtia
+      takeName: Take 001
+      firstFrame: 230
+      lastFrame: 237
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ap_ut_phai_joint39
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ap_ut_phai_joint39/fix_doi_ban_tay_1:ap_ut_phai_joint40
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ap_ut_phai_joint39/fix_doi_ban_tay_1:ap_ut_phai_joint40/fix_doi_ban_tay_1:ap_ut_phai_joint41
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ap_ut_phai_joint39/fix_doi_ban_tay_1:ap_ut_phai_joint40/fix_doi_ban_tay_1:ap_ut_phai_joint41/fix_doi_ban_tay_1:ap_ut_phai_joint42
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:cai_phai_joint28
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:cai_phai_joint28/fix_doi_ban_tay_1:cai_phai_joint29
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:cai_phai_joint28/fix_doi_ban_tay_1:cai_phai_joint29/fix_doi_ban_tay_1:cai_phai_joint30
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:giua_phai_joint35
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:giua_phai_joint35/fix_doi_ban_tay_1:giua_phai_joint36
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:giua_phai_joint35/fix_doi_ban_tay_1:giua_phai_joint36/fix_doi_ban_tay_1:giua_phai_joint37
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:giua_phai_joint35/fix_doi_ban_tay_1:giua_phai_joint36/fix_doi_ban_tay_1:giua_phai_joint37/fix_doi_ban_tay_1:giua_phai_joint38
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:tro_phai_joint31
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:tro_phai_joint31/fix_doi_ban_tay_1:tro_phai_joint32
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:tro_phai_joint31/fix_doi_ban_tay_1:tro_phai_joint32/fix_doi_ban_tay_1:tro_phai_joint33
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:tro_phai_joint31/fix_doi_ban_tay_1:tro_phai_joint32/fix_doi_ban_tay_1:tro_phai_joint33/fix_doi_ban_tay_1:tro_phai_joint34
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ut_phai_joint43
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ut_phai_joint43/fix_doi_ban_tay_1:ut_phai_joint44
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ut_phai_joint43/fix_doi_ban_tay_1:ut_phai_joint44/fix_doi_ban_tay_1:ut_phai_joint45
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ut_phai_joint43/fix_doi_ban_tay_1:ut_phai_joint44/fix_doi_ban_tay_1:ut_phai_joint45/fix_doi_ban_tay_1:ut_phai_joint46
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ap_ut_trai_joint16
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ap_ut_trai_joint16/fix_doi_ban_tay_1:ap_ut_trai_joint17
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ap_ut_trai_joint16/fix_doi_ban_tay_1:ap_ut_trai_joint17/fix_doi_ban_tay_1:ap_ut_trai_joint18
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ap_ut_trai_joint16/fix_doi_ban_tay_1:ap_ut_trai_joint17/fix_doi_ban_tay_1:ap_ut_trai_joint18/fix_doi_ban_tay_1:ap_ut_trai_joint19
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:cai_trai_joint5
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:cai_trai_joint5/fix_doi_ban_tay_1:cai_trai_joint6
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:cai_trai_joint5/fix_doi_ban_tay_1:cai_trai_joint6/fix_doi_ban_tay_1:cai_trai_joint7
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:giua_trai_joint12
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:giua_trai_joint12/fix_doi_ban_tay_1:giua_trai_joint13
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:giua_trai_joint12/fix_doi_ban_tay_1:giua_trai_joint13/fix_doi_ban_tay_1:giua_trai_joint14
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:giua_trai_joint12/fix_doi_ban_tay_1:giua_trai_joint13/fix_doi_ban_tay_1:giua_trai_joint14/fix_doi_ban_tay_1:giua_trai_joint15
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:tro_trai_joint8
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:tro_trai_joint8/fix_doi_ban_tay_1:tro_trai_joint9
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:tro_trai_joint8/fix_doi_ban_tay_1:tro_trai_joint9/fix_doi_ban_tay_1:tro_trai_joint10
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:tro_trai_joint8/fix_doi_ban_tay_1:tro_trai_joint9/fix_doi_ban_tay_1:tro_trai_joint10/fix_doi_ban_tay_1:tro_trai_joint11
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ut_trai_joint20
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ut_trai_joint20/fix_doi_ban_tay_1:ut_trai_joint21
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ut_trai_joint20/fix_doi_ban_tay_1:ut_trai_joint21/fix_doi_ban_tay_1:ut_trai_joint22
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ut_trai_joint20/fix_doi_ban_tay_1:ut_trai_joint21/fix_doi_ban_tay_1:ut_trai_joint22/fix_doi_ban_tay_1:ut_trai_joint23
+        weight: 1
+      - path: fix_doi_ban_tay_1:Model_Hand
+        weight: 1
+      - path: fix_doi_ban_tay_1:Model_Hand/fix_doi_ban_tay_1:Hand_lam_la_Anim_Sungi_v1:tay_phai_lam_lai:tay_phai
+        weight: 1
+      - path: fix_doi_ban_tay_1:Model_Hand/fix_doi_ban_tay_1:Hand_lam_la_Anim_Sungi_v1:tay_trai_lam_lai:tay_phai1
+        weight: 1
+      - path: nurbsCircle1_PH
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1/Boomstick_v2:polySurface60
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1/desolation_v1:chittiet:polySurface117
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1/desolation_v1:polySurface94
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1/Forsaken_shotgun:polySurface83
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1/Lockjaw_v3:gun
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1/polySurface7
+        weight: 1
+      - path: redwood_shotgun_v2:redwood_shotgun_v1:polySurface12
+        weight: 1
+      - path: redwood_shotgun_v2:redwood_shotgun_v1:polySurface12/transform5
+        weight: 1
+      - path: redwood_shotgun_v2:redwood_shotgun_v1:polySurface13
+        weight: 1
+      - path: redwood_shotgun_v2:redwood_shotgun_v1:polySurface13/transform4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bankhongngamsungtia
+      takeName: Take 001
+      firstFrame: 250
+      lastFrame: 263
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ap_ut_phai_joint39
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ap_ut_phai_joint39/fix_doi_ban_tay_1:ap_ut_phai_joint40
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ap_ut_phai_joint39/fix_doi_ban_tay_1:ap_ut_phai_joint40/fix_doi_ban_tay_1:ap_ut_phai_joint41
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ap_ut_phai_joint39/fix_doi_ban_tay_1:ap_ut_phai_joint40/fix_doi_ban_tay_1:ap_ut_phai_joint41/fix_doi_ban_tay_1:ap_ut_phai_joint42
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:cai_phai_joint28
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:cai_phai_joint28/fix_doi_ban_tay_1:cai_phai_joint29
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:cai_phai_joint28/fix_doi_ban_tay_1:cai_phai_joint29/fix_doi_ban_tay_1:cai_phai_joint30
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:giua_phai_joint35
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:giua_phai_joint35/fix_doi_ban_tay_1:giua_phai_joint36
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:giua_phai_joint35/fix_doi_ban_tay_1:giua_phai_joint36/fix_doi_ban_tay_1:giua_phai_joint37
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:giua_phai_joint35/fix_doi_ban_tay_1:giua_phai_joint36/fix_doi_ban_tay_1:giua_phai_joint37/fix_doi_ban_tay_1:giua_phai_joint38
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:tro_phai_joint31
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:tro_phai_joint31/fix_doi_ban_tay_1:tro_phai_joint32
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:tro_phai_joint31/fix_doi_ban_tay_1:tro_phai_joint32/fix_doi_ban_tay_1:tro_phai_joint33
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:tro_phai_joint31/fix_doi_ban_tay_1:tro_phai_joint32/fix_doi_ban_tay_1:tro_phai_joint33/fix_doi_ban_tay_1:tro_phai_joint34
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ut_phai_joint43
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ut_phai_joint43/fix_doi_ban_tay_1:ut_phai_joint44
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ut_phai_joint43/fix_doi_ban_tay_1:ut_phai_joint44/fix_doi_ban_tay_1:ut_phai_joint45
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ut_phai_joint43/fix_doi_ban_tay_1:ut_phai_joint44/fix_doi_ban_tay_1:ut_phai_joint45/fix_doi_ban_tay_1:ut_phai_joint46
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ap_ut_trai_joint16
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ap_ut_trai_joint16/fix_doi_ban_tay_1:ap_ut_trai_joint17
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ap_ut_trai_joint16/fix_doi_ban_tay_1:ap_ut_trai_joint17/fix_doi_ban_tay_1:ap_ut_trai_joint18
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ap_ut_trai_joint16/fix_doi_ban_tay_1:ap_ut_trai_joint17/fix_doi_ban_tay_1:ap_ut_trai_joint18/fix_doi_ban_tay_1:ap_ut_trai_joint19
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:cai_trai_joint5
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:cai_trai_joint5/fix_doi_ban_tay_1:cai_trai_joint6
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:cai_trai_joint5/fix_doi_ban_tay_1:cai_trai_joint6/fix_doi_ban_tay_1:cai_trai_joint7
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:giua_trai_joint12
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:giua_trai_joint12/fix_doi_ban_tay_1:giua_trai_joint13
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:giua_trai_joint12/fix_doi_ban_tay_1:giua_trai_joint13/fix_doi_ban_tay_1:giua_trai_joint14
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:giua_trai_joint12/fix_doi_ban_tay_1:giua_trai_joint13/fix_doi_ban_tay_1:giua_trai_joint14/fix_doi_ban_tay_1:giua_trai_joint15
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:tro_trai_joint8
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:tro_trai_joint8/fix_doi_ban_tay_1:tro_trai_joint9
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:tro_trai_joint8/fix_doi_ban_tay_1:tro_trai_joint9/fix_doi_ban_tay_1:tro_trai_joint10
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:tro_trai_joint8/fix_doi_ban_tay_1:tro_trai_joint9/fix_doi_ban_tay_1:tro_trai_joint10/fix_doi_ban_tay_1:tro_trai_joint11
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ut_trai_joint20
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ut_trai_joint20/fix_doi_ban_tay_1:ut_trai_joint21
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ut_trai_joint20/fix_doi_ban_tay_1:ut_trai_joint21/fix_doi_ban_tay_1:ut_trai_joint22
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ut_trai_joint20/fix_doi_ban_tay_1:ut_trai_joint21/fix_doi_ban_tay_1:ut_trai_joint22/fix_doi_ban_tay_1:ut_trai_joint23
+        weight: 1
+      - path: fix_doi_ban_tay_1:Model_Hand
+        weight: 1
+      - path: fix_doi_ban_tay_1:Model_Hand/fix_doi_ban_tay_1:Hand_lam_la_Anim_Sungi_v1:tay_phai_lam_lai:tay_phai
+        weight: 1
+      - path: fix_doi_ban_tay_1:Model_Hand/fix_doi_ban_tay_1:Hand_lam_la_Anim_Sungi_v1:tay_trai_lam_lai:tay_phai1
+        weight: 1
+      - path: nurbsCircle1_PH
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1/Boomstick_v2:polySurface60
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1/desolation_v1:chittiet:polySurface117
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1/desolation_v1:polySurface94
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1/Forsaken_shotgun:polySurface83
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1/Lockjaw_v3:gun
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1/polySurface7
+        weight: 1
+      - path: redwood_shotgun_v2:redwood_shotgun_v1:polySurface12
+        weight: 1
+      - path: redwood_shotgun_v2:redwood_shotgun_v1:polySurface12/transform5
+        weight: 1
+      - path: redwood_shotgun_v2:redwood_shotgun_v1:polySurface13
+        weight: 1
+      - path: redwood_shotgun_v2:redwood_shotgun_v1:polySurface13/transform4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Trangthaikhongdichuyen
+      takeName: Take 001
+      firstFrame: 270
+      lastFrame: 290
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ap_ut_phai_joint39
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ap_ut_phai_joint39/fix_doi_ban_tay_1:ap_ut_phai_joint40
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ap_ut_phai_joint39/fix_doi_ban_tay_1:ap_ut_phai_joint40/fix_doi_ban_tay_1:ap_ut_phai_joint41
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ap_ut_phai_joint39/fix_doi_ban_tay_1:ap_ut_phai_joint40/fix_doi_ban_tay_1:ap_ut_phai_joint41/fix_doi_ban_tay_1:ap_ut_phai_joint42
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:cai_phai_joint28
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:cai_phai_joint28/fix_doi_ban_tay_1:cai_phai_joint29
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:cai_phai_joint28/fix_doi_ban_tay_1:cai_phai_joint29/fix_doi_ban_tay_1:cai_phai_joint30
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:giua_phai_joint35
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:giua_phai_joint35/fix_doi_ban_tay_1:giua_phai_joint36
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:giua_phai_joint35/fix_doi_ban_tay_1:giua_phai_joint36/fix_doi_ban_tay_1:giua_phai_joint37
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:giua_phai_joint35/fix_doi_ban_tay_1:giua_phai_joint36/fix_doi_ban_tay_1:giua_phai_joint37/fix_doi_ban_tay_1:giua_phai_joint38
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:tro_phai_joint31
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:tro_phai_joint31/fix_doi_ban_tay_1:tro_phai_joint32
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:tro_phai_joint31/fix_doi_ban_tay_1:tro_phai_joint32/fix_doi_ban_tay_1:tro_phai_joint33
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:tro_phai_joint31/fix_doi_ban_tay_1:tro_phai_joint32/fix_doi_ban_tay_1:tro_phai_joint33/fix_doi_ban_tay_1:tro_phai_joint34
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ut_phai_joint43
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ut_phai_joint43/fix_doi_ban_tay_1:ut_phai_joint44
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ut_phai_joint43/fix_doi_ban_tay_1:ut_phai_joint44/fix_doi_ban_tay_1:ut_phai_joint45
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ut_phai_joint43/fix_doi_ban_tay_1:ut_phai_joint44/fix_doi_ban_tay_1:ut_phai_joint45/fix_doi_ban_tay_1:ut_phai_joint46
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ap_ut_trai_joint16
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ap_ut_trai_joint16/fix_doi_ban_tay_1:ap_ut_trai_joint17
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ap_ut_trai_joint16/fix_doi_ban_tay_1:ap_ut_trai_joint17/fix_doi_ban_tay_1:ap_ut_trai_joint18
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ap_ut_trai_joint16/fix_doi_ban_tay_1:ap_ut_trai_joint17/fix_doi_ban_tay_1:ap_ut_trai_joint18/fix_doi_ban_tay_1:ap_ut_trai_joint19
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:cai_trai_joint5
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:cai_trai_joint5/fix_doi_ban_tay_1:cai_trai_joint6
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:cai_trai_joint5/fix_doi_ban_tay_1:cai_trai_joint6/fix_doi_ban_tay_1:cai_trai_joint7
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:giua_trai_joint12
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:giua_trai_joint12/fix_doi_ban_tay_1:giua_trai_joint13
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:giua_trai_joint12/fix_doi_ban_tay_1:giua_trai_joint13/fix_doi_ban_tay_1:giua_trai_joint14
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:giua_trai_joint12/fix_doi_ban_tay_1:giua_trai_joint13/fix_doi_ban_tay_1:giua_trai_joint14/fix_doi_ban_tay_1:giua_trai_joint15
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:tro_trai_joint8
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:tro_trai_joint8/fix_doi_ban_tay_1:tro_trai_joint9
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:tro_trai_joint8/fix_doi_ban_tay_1:tro_trai_joint9/fix_doi_ban_tay_1:tro_trai_joint10
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:tro_trai_joint8/fix_doi_ban_tay_1:tro_trai_joint9/fix_doi_ban_tay_1:tro_trai_joint10/fix_doi_ban_tay_1:tro_trai_joint11
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ut_trai_joint20
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ut_trai_joint20/fix_doi_ban_tay_1:ut_trai_joint21
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ut_trai_joint20/fix_doi_ban_tay_1:ut_trai_joint21/fix_doi_ban_tay_1:ut_trai_joint22
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ut_trai_joint20/fix_doi_ban_tay_1:ut_trai_joint21/fix_doi_ban_tay_1:ut_trai_joint22/fix_doi_ban_tay_1:ut_trai_joint23
+        weight: 1
+      - path: fix_doi_ban_tay_1:Model_Hand
+        weight: 1
+      - path: fix_doi_ban_tay_1:Model_Hand/fix_doi_ban_tay_1:Hand_lam_la_Anim_Sungi_v1:tay_phai_lam_lai:tay_phai
+        weight: 1
+      - path: fix_doi_ban_tay_1:Model_Hand/fix_doi_ban_tay_1:Hand_lam_la_Anim_Sungi_v1:tay_trai_lam_lai:tay_phai1
+        weight: 1
+      - path: nurbsCircle1_PH
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1/Boomstick_v2:polySurface60
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1/desolation_v1:chittiet:polySurface117
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1/desolation_v1:polySurface94
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1/Forsaken_shotgun:polySurface83
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1/Lockjaw_v3:gun
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1/polySurface7
+        weight: 1
+      - path: redwood_shotgun_v2:redwood_shotgun_v1:polySurface12
+        weight: 1
+      - path: redwood_shotgun_v2:redwood_shotgun_v1:polySurface12/transform5
+        weight: 1
+      - path: redwood_shotgun_v2:redwood_shotgun_v1:polySurface13
+        weight: 1
+      - path: redwood_shotgun_v2:redwood_shotgun_v1:polySurface13/transform4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Thadan2
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ap_ut_phai_joint39
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ap_ut_phai_joint39/fix_doi_ban_tay_1:ap_ut_phai_joint40
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ap_ut_phai_joint39/fix_doi_ban_tay_1:ap_ut_phai_joint40/fix_doi_ban_tay_1:ap_ut_phai_joint41
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ap_ut_phai_joint39/fix_doi_ban_tay_1:ap_ut_phai_joint40/fix_doi_ban_tay_1:ap_ut_phai_joint41/fix_doi_ban_tay_1:ap_ut_phai_joint42
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:cai_phai_joint28
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:cai_phai_joint28/fix_doi_ban_tay_1:cai_phai_joint29
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:cai_phai_joint28/fix_doi_ban_tay_1:cai_phai_joint29/fix_doi_ban_tay_1:cai_phai_joint30
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:giua_phai_joint35
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:giua_phai_joint35/fix_doi_ban_tay_1:giua_phai_joint36
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:giua_phai_joint35/fix_doi_ban_tay_1:giua_phai_joint36/fix_doi_ban_tay_1:giua_phai_joint37
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:giua_phai_joint35/fix_doi_ban_tay_1:giua_phai_joint36/fix_doi_ban_tay_1:giua_phai_joint37/fix_doi_ban_tay_1:giua_phai_joint38
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:tro_phai_joint31
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:tro_phai_joint31/fix_doi_ban_tay_1:tro_phai_joint32
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:tro_phai_joint31/fix_doi_ban_tay_1:tro_phai_joint32/fix_doi_ban_tay_1:tro_phai_joint33
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:tro_phai_joint31/fix_doi_ban_tay_1:tro_phai_joint32/fix_doi_ban_tay_1:tro_phai_joint33/fix_doi_ban_tay_1:tro_phai_joint34
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ut_phai_joint43
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ut_phai_joint43/fix_doi_ban_tay_1:ut_phai_joint44
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ut_phai_joint43/fix_doi_ban_tay_1:ut_phai_joint44/fix_doi_ban_tay_1:ut_phai_joint45
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ut_phai_joint43/fix_doi_ban_tay_1:ut_phai_joint44/fix_doi_ban_tay_1:ut_phai_joint45/fix_doi_ban_tay_1:ut_phai_joint46
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ap_ut_trai_joint16
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ap_ut_trai_joint16/fix_doi_ban_tay_1:ap_ut_trai_joint17
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ap_ut_trai_joint16/fix_doi_ban_tay_1:ap_ut_trai_joint17/fix_doi_ban_tay_1:ap_ut_trai_joint18
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ap_ut_trai_joint16/fix_doi_ban_tay_1:ap_ut_trai_joint17/fix_doi_ban_tay_1:ap_ut_trai_joint18/fix_doi_ban_tay_1:ap_ut_trai_joint19
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:cai_trai_joint5
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:cai_trai_joint5/fix_doi_ban_tay_1:cai_trai_joint6
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:cai_trai_joint5/fix_doi_ban_tay_1:cai_trai_joint6/fix_doi_ban_tay_1:cai_trai_joint7
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:giua_trai_joint12
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:giua_trai_joint12/fix_doi_ban_tay_1:giua_trai_joint13
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:giua_trai_joint12/fix_doi_ban_tay_1:giua_trai_joint13/fix_doi_ban_tay_1:giua_trai_joint14
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:giua_trai_joint12/fix_doi_ban_tay_1:giua_trai_joint13/fix_doi_ban_tay_1:giua_trai_joint14/fix_doi_ban_tay_1:giua_trai_joint15
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:tro_trai_joint8
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:tro_trai_joint8/fix_doi_ban_tay_1:tro_trai_joint9
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:tro_trai_joint8/fix_doi_ban_tay_1:tro_trai_joint9/fix_doi_ban_tay_1:tro_trai_joint10
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:tro_trai_joint8/fix_doi_ban_tay_1:tro_trai_joint9/fix_doi_ban_tay_1:tro_trai_joint10/fix_doi_ban_tay_1:tro_trai_joint11
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ut_trai_joint20
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ut_trai_joint20/fix_doi_ban_tay_1:ut_trai_joint21
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ut_trai_joint20/fix_doi_ban_tay_1:ut_trai_joint21/fix_doi_ban_tay_1:ut_trai_joint22
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ut_trai_joint20/fix_doi_ban_tay_1:ut_trai_joint21/fix_doi_ban_tay_1:ut_trai_joint22/fix_doi_ban_tay_1:ut_trai_joint23
+        weight: 1
+      - path: fix_doi_ban_tay_1:Model_Hand
+        weight: 1
+      - path: fix_doi_ban_tay_1:Model_Hand/fix_doi_ban_tay_1:Hand_lam_la_Anim_Sungi_v1:tay_phai_lam_lai:tay_phai
+        weight: 1
+      - path: fix_doi_ban_tay_1:Model_Hand/fix_doi_ban_tay_1:Hand_lam_la_Anim_Sungi_v1:tay_trai_lam_lai:tay_phai1
+        weight: 1
+      - path: nurbsCircle1_PH
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1/Boomstick_v2:polySurface60
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1/desolation_v1:chittiet:polySurface117
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1/desolation_v1:polySurface94
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1/Forsaken_shotgun:polySurface83
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1/Lockjaw_v3:gun
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1/polySurface7
+        weight: 1
+      - path: redwood_shotgun_v2:redwood_shotgun_v1:polySurface12
+        weight: 1
+      - path: redwood_shotgun_v2:redwood_shotgun_v1:polySurface12/transform5
+        weight: 1
+      - path: redwood_shotgun_v2:redwood_shotgun_v1:polySurface13
+        weight: 1
+      - path: redwood_shotgun_v2:redwood_shotgun_v1:polySurface13/transform4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Thadan1
+      takeName: Take 001
+      firstFrame: 60
+      lastFrame: 80
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ap_ut_phai_joint39
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ap_ut_phai_joint39/fix_doi_ban_tay_1:ap_ut_phai_joint40
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ap_ut_phai_joint39/fix_doi_ban_tay_1:ap_ut_phai_joint40/fix_doi_ban_tay_1:ap_ut_phai_joint41
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ap_ut_phai_joint39/fix_doi_ban_tay_1:ap_ut_phai_joint40/fix_doi_ban_tay_1:ap_ut_phai_joint41/fix_doi_ban_tay_1:ap_ut_phai_joint42
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:cai_phai_joint28
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:cai_phai_joint28/fix_doi_ban_tay_1:cai_phai_joint29
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:cai_phai_joint28/fix_doi_ban_tay_1:cai_phai_joint29/fix_doi_ban_tay_1:cai_phai_joint30
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:giua_phai_joint35
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:giua_phai_joint35/fix_doi_ban_tay_1:giua_phai_joint36
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:giua_phai_joint35/fix_doi_ban_tay_1:giua_phai_joint36/fix_doi_ban_tay_1:giua_phai_joint37
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:giua_phai_joint35/fix_doi_ban_tay_1:giua_phai_joint36/fix_doi_ban_tay_1:giua_phai_joint37/fix_doi_ban_tay_1:giua_phai_joint38
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:tro_phai_joint31
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:tro_phai_joint31/fix_doi_ban_tay_1:tro_phai_joint32
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:tro_phai_joint31/fix_doi_ban_tay_1:tro_phai_joint32/fix_doi_ban_tay_1:tro_phai_joint33
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:tro_phai_joint31/fix_doi_ban_tay_1:tro_phai_joint32/fix_doi_ban_tay_1:tro_phai_joint33/fix_doi_ban_tay_1:tro_phai_joint34
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ut_phai_joint43
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ut_phai_joint43/fix_doi_ban_tay_1:ut_phai_joint44
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ut_phai_joint43/fix_doi_ban_tay_1:ut_phai_joint44/fix_doi_ban_tay_1:ut_phai_joint45
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_phai/fix_doi_ban_tay_1:ba_vai/fix_doi_ban_tay_1:khuyu_tay/fix_doi_ban_tay_1:co_tay/fix_doi_ban_tay_1:mu_ban_tay/fix_doi_ban_tay_1:ut_phai_joint43/fix_doi_ban_tay_1:ut_phai_joint44/fix_doi_ban_tay_1:ut_phai_joint45/fix_doi_ban_tay_1:ut_phai_joint46
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ap_ut_trai_joint16
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ap_ut_trai_joint16/fix_doi_ban_tay_1:ap_ut_trai_joint17
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ap_ut_trai_joint16/fix_doi_ban_tay_1:ap_ut_trai_joint17/fix_doi_ban_tay_1:ap_ut_trai_joint18
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ap_ut_trai_joint16/fix_doi_ban_tay_1:ap_ut_trai_joint17/fix_doi_ban_tay_1:ap_ut_trai_joint18/fix_doi_ban_tay_1:ap_ut_trai_joint19
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:cai_trai_joint5
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:cai_trai_joint5/fix_doi_ban_tay_1:cai_trai_joint6
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:cai_trai_joint5/fix_doi_ban_tay_1:cai_trai_joint6/fix_doi_ban_tay_1:cai_trai_joint7
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:giua_trai_joint12
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:giua_trai_joint12/fix_doi_ban_tay_1:giua_trai_joint13
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:giua_trai_joint12/fix_doi_ban_tay_1:giua_trai_joint13/fix_doi_ban_tay_1:giua_trai_joint14
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:giua_trai_joint12/fix_doi_ban_tay_1:giua_trai_joint13/fix_doi_ban_tay_1:giua_trai_joint14/fix_doi_ban_tay_1:giua_trai_joint15
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:tro_trai_joint8
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:tro_trai_joint8/fix_doi_ban_tay_1:tro_trai_joint9
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:tro_trai_joint8/fix_doi_ban_tay_1:tro_trai_joint9/fix_doi_ban_tay_1:tro_trai_joint10
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:tro_trai_joint8/fix_doi_ban_tay_1:tro_trai_joint9/fix_doi_ban_tay_1:tro_trai_joint10/fix_doi_ban_tay_1:tro_trai_joint11
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ut_trai_joint20
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ut_trai_joint20/fix_doi_ban_tay_1:ut_trai_joint21
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ut_trai_joint20/fix_doi_ban_tay_1:ut_trai_joint21/fix_doi_ban_tay_1:ut_trai_joint22
+        weight: 1
+      - path: fix_doi_ban_tay_1:joint_tay_trai/fix_doi_ban_tay_1:ba_vai 1/fix_doi_ban_tay_1:khuyu_tay
+          1/fix_doi_ban_tay_1:co_tay 1/fix_doi_ban_tay_1:mu_ban_tay 1/fix_doi_ban_tay_1:ut_trai_joint20/fix_doi_ban_tay_1:ut_trai_joint21/fix_doi_ban_tay_1:ut_trai_joint22/fix_doi_ban_tay_1:ut_trai_joint23
+        weight: 1
+      - path: fix_doi_ban_tay_1:Model_Hand
+        weight: 1
+      - path: fix_doi_ban_tay_1:Model_Hand/fix_doi_ban_tay_1:Hand_lam_la_Anim_Sungi_v1:tay_phai_lam_lai:tay_phai
+        weight: 1
+      - path: fix_doi_ban_tay_1:Model_Hand/fix_doi_ban_tay_1:Hand_lam_la_Anim_Sungi_v1:tay_trai_lam_lai:tay_phai1
+        weight: 1
+      - path: nurbsCircle1_PH
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1/Boomstick_v2:polySurface60
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1/desolation_v1:chittiet:polySurface117
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1/desolation_v1:polySurface94
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1/Forsaken_shotgun:polySurface83
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1/Lockjaw_v3:gun
+        weight: 1
+      - path: nurbsCircle1_PH/nurbsCircle1_SN/nurbsCircle1/polySurface7
+        weight: 1
+      - path: redwood_shotgun_v2:redwood_shotgun_v1:polySurface12
+        weight: 1
+      - path: redwood_shotgun_v2:redwood_shotgun_v1:polySurface12/transform5
+        weight: 1
+      - path: redwood_shotgun_v2:redwood_shotgun_v1:polySurface13
+        weight: 1
+      - path: redwood_shotgun_v2:redwood_shotgun_v1:polySurface13/transform4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

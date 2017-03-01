@@ -1,0 +1,992 @@
+fileFormatVersion: 2
+guid: ae71f74d355ed764fbad29d75b6d4bfa
+timeCreated: 1462783534
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: joint1
+    100002: joint10
+    100004: joint11
+    100006: joint12
+    100008: joint13
+    100010: joint14
+    100012: joint15
+    100014: joint16
+    100016: joint17
+    100018: joint18
+    100020: joint19
+    100022: joint2
+    100024: joint3
+    100026: joint4
+    100028: joint5
+    100030: joint6
+    100032: joint7
+    100034: joint8
+    100036: joint9
+    100038: L_B_S_1
+    100040: L_B_S_2
+    100042: L_B_S_3
+    100044: L_B_S_4
+    100046: L_B_S_5
+    100048: L_B_S_6
+    100050: L_B_T_1
+    100052: L_B_T_2
+    100054: L_B_T_3
+    100056: L_B_T_4
+    100058: L_B_T_5
+    100060: L_F_1
+    100062: L_F_2
+    100064: L_F_3
+    100066: L_F_4
+    100068: L_F_5
+    100070: //RootNode
+    100072: polySurface174
+    100074: R_B_S_1
+    100076: R_B_S_2
+    100078: R_B_S_3
+    100080: R_B_S_4
+    100082: R_B_S_5
+    100084: R_B_S_6
+    100086: R_B_T_1
+    100088: R_B_T_2
+    100090: R_B_T_3
+    100092: R_B_T_4
+    100094: R_B_T_5
+    100096: R_F_1
+    100098: R_F_2
+    100100: R_F_3
+    100102: R_F_4
+    100104: R_F_5
+    400000: joint1
+    400002: joint10
+    400004: joint11
+    400006: joint12
+    400008: joint13
+    400010: joint14
+    400012: joint15
+    400014: joint16
+    400016: joint17
+    400018: joint18
+    400020: joint19
+    400022: joint2
+    400024: joint3
+    400026: joint4
+    400028: joint5
+    400030: joint6
+    400032: joint7
+    400034: joint8
+    400036: joint9
+    400038: L_B_S_1
+    400040: L_B_S_2
+    400042: L_B_S_3
+    400044: L_B_S_4
+    400046: L_B_S_5
+    400048: L_B_S_6
+    400050: L_B_T_1
+    400052: L_B_T_2
+    400054: L_B_T_3
+    400056: L_B_T_4
+    400058: L_B_T_5
+    400060: L_F_1
+    400062: L_F_2
+    400064: L_F_3
+    400066: L_F_4
+    400068: L_F_5
+    400070: //RootNode
+    400072: polySurface174
+    400074: R_B_S_1
+    400076: R_B_S_2
+    400078: R_B_S_3
+    400080: R_B_S_4
+    400082: R_B_S_5
+    400084: R_B_S_6
+    400086: R_B_T_1
+    400088: R_B_T_2
+    400090: R_B_T_3
+    400092: R_B_T_4
+    400094: R_B_T_5
+    400096: R_F_1
+    400098: R_F_2
+    400100: R_F_3
+    400102: R_F_4
+    400104: R_F_5
+    4300000: polySurface174
+    7400000: Idle
+    7400002: Chay
+    7400004: Tho
+    7400006: Chet
+    7400008: Attack
+    7400010: Bithuong
+    7400012: Dicham
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: polySurface174
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 130
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: joint1
+        weight: 1
+      - path: joint1/joint2
+        weight: 1
+      - path: joint1/joint2/joint3
+        weight: 1
+      - path: joint1/joint2/joint3/joint4
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint10
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint10/joint11
+        weight: 1
+      - path: joint1/joint2/joint3/L_F_1
+        weight: 1
+      - path: joint1/joint2/joint3/L_F_1/L_F_2
+        weight: 1
+      - path: joint1/joint2/joint3/L_F_1/L_F_2/L_F_3
+        weight: 1
+      - path: joint1/joint2/joint3/L_F_1/L_F_2/L_F_3/L_F_4
+        weight: 1
+      - path: joint1/joint2/joint3/L_F_1/L_F_2/L_F_3/L_F_4/L_F_5
+        weight: 1
+      - path: joint1/joint2/joint3/R_F_1
+        weight: 1
+      - path: joint1/joint2/joint3/R_F_1/R_F_2
+        weight: 1
+      - path: joint1/joint2/joint3/R_F_1/R_F_2/R_F_3
+        weight: 1
+      - path: joint1/joint2/joint3/R_F_1/R_F_2/R_F_3/R_F_4
+        weight: 1
+      - path: joint1/joint2/joint3/R_F_1/R_F_2/R_F_3/R_F_4/R_F_5
+        weight: 1
+      - path: joint1/joint2/L_B_T_1
+        weight: 1
+      - path: joint1/joint2/L_B_T_1/L_B_T_2
+        weight: 1
+      - path: joint1/joint2/L_B_T_1/L_B_T_2/L_B_T_3
+        weight: 1
+      - path: joint1/joint2/L_B_T_1/L_B_T_2/L_B_T_3/L_B_T_4
+        weight: 1
+      - path: joint1/joint2/L_B_T_1/L_B_T_2/L_B_T_3/L_B_T_4/L_B_T_5
+        weight: 1
+      - path: joint1/joint2/R_B_T_1
+        weight: 1
+      - path: joint1/joint2/R_B_T_1/R_B_T_2
+        weight: 1
+      - path: joint1/joint2/R_B_T_1/R_B_T_2/R_B_T_3
+        weight: 1
+      - path: joint1/joint2/R_B_T_1/R_B_T_2/R_B_T_3/R_B_T_4
+        weight: 1
+      - path: joint1/joint2/R_B_T_1/R_B_T_2/R_B_T_3/R_B_T_4/R_B_T_5
+        weight: 1
+      - path: joint1/joint12
+        weight: 1
+      - path: joint1/joint12/joint13
+        weight: 1
+      - path: joint1/joint12/joint13/joint14
+        weight: 1
+      - path: joint1/joint12/joint13/joint14/joint15
+        weight: 1
+      - path: joint1/joint12/joint13/joint14/joint15/joint16
+        weight: 1
+      - path: joint1/joint12/joint13/joint14/joint15/joint16/joint17
+        weight: 1
+      - path: joint1/joint12/joint13/joint14/joint15/joint16/joint17/joint18
+        weight: 1
+      - path: joint1/joint12/joint13/joint14/joint15/joint16/joint17/joint18/joint19
+        weight: 1
+      - path: joint1/L_B_S_1
+        weight: 1
+      - path: joint1/L_B_S_1/L_B_S_2
+        weight: 1
+      - path: joint1/L_B_S_1/L_B_S_2/L_B_S_3
+        weight: 1
+      - path: joint1/L_B_S_1/L_B_S_2/L_B_S_3/L_B_S_4
+        weight: 1
+      - path: joint1/L_B_S_1/L_B_S_2/L_B_S_3/L_B_S_4/L_B_S_5
+        weight: 1
+      - path: joint1/L_B_S_1/L_B_S_2/L_B_S_3/L_B_S_4/L_B_S_5/L_B_S_6
+        weight: 1
+      - path: joint1/R_B_S_1
+        weight: 1
+      - path: joint1/R_B_S_1/R_B_S_2
+        weight: 1
+      - path: joint1/R_B_S_1/R_B_S_2/R_B_S_3
+        weight: 1
+      - path: joint1/R_B_S_1/R_B_S_2/R_B_S_3/R_B_S_4
+        weight: 1
+      - path: joint1/R_B_S_1/R_B_S_2/R_B_S_3/R_B_S_4/R_B_S_5
+        weight: 1
+      - path: joint1/R_B_S_1/R_B_S_2/R_B_S_3/R_B_S_4/R_B_S_5/R_B_S_6
+        weight: 1
+      - path: polySurface174
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Chay
+      takeName: Take 001
+      firstFrame: 175
+      lastFrame: 206.4
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: joint1
+        weight: 1
+      - path: joint1/joint2
+        weight: 1
+      - path: joint1/joint2/joint3
+        weight: 1
+      - path: joint1/joint2/joint3/joint4
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint10
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint10/joint11
+        weight: 1
+      - path: joint1/joint2/joint3/L_F_1
+        weight: 1
+      - path: joint1/joint2/joint3/L_F_1/L_F_2
+        weight: 1
+      - path: joint1/joint2/joint3/L_F_1/L_F_2/L_F_3
+        weight: 1
+      - path: joint1/joint2/joint3/L_F_1/L_F_2/L_F_3/L_F_4
+        weight: 1
+      - path: joint1/joint2/joint3/L_F_1/L_F_2/L_F_3/L_F_4/L_F_5
+        weight: 1
+      - path: joint1/joint2/joint3/R_F_1
+        weight: 1
+      - path: joint1/joint2/joint3/R_F_1/R_F_2
+        weight: 1
+      - path: joint1/joint2/joint3/R_F_1/R_F_2/R_F_3
+        weight: 1
+      - path: joint1/joint2/joint3/R_F_1/R_F_2/R_F_3/R_F_4
+        weight: 1
+      - path: joint1/joint2/joint3/R_F_1/R_F_2/R_F_3/R_F_4/R_F_5
+        weight: 1
+      - path: joint1/joint2/L_B_T_1
+        weight: 1
+      - path: joint1/joint2/L_B_T_1/L_B_T_2
+        weight: 1
+      - path: joint1/joint2/L_B_T_1/L_B_T_2/L_B_T_3
+        weight: 1
+      - path: joint1/joint2/L_B_T_1/L_B_T_2/L_B_T_3/L_B_T_4
+        weight: 1
+      - path: joint1/joint2/L_B_T_1/L_B_T_2/L_B_T_3/L_B_T_4/L_B_T_5
+        weight: 1
+      - path: joint1/joint2/R_B_T_1
+        weight: 1
+      - path: joint1/joint2/R_B_T_1/R_B_T_2
+        weight: 1
+      - path: joint1/joint2/R_B_T_1/R_B_T_2/R_B_T_3
+        weight: 1
+      - path: joint1/joint2/R_B_T_1/R_B_T_2/R_B_T_3/R_B_T_4
+        weight: 1
+      - path: joint1/joint2/R_B_T_1/R_B_T_2/R_B_T_3/R_B_T_4/R_B_T_5
+        weight: 1
+      - path: joint1/joint12
+        weight: 1
+      - path: joint1/joint12/joint13
+        weight: 1
+      - path: joint1/joint12/joint13/joint14
+        weight: 1
+      - path: joint1/joint12/joint13/joint14/joint15
+        weight: 1
+      - path: joint1/joint12/joint13/joint14/joint15/joint16
+        weight: 1
+      - path: joint1/joint12/joint13/joint14/joint15/joint16/joint17
+        weight: 1
+      - path: joint1/joint12/joint13/joint14/joint15/joint16/joint17/joint18
+        weight: 1
+      - path: joint1/joint12/joint13/joint14/joint15/joint16/joint17/joint18/joint19
+        weight: 1
+      - path: joint1/L_B_S_1
+        weight: 1
+      - path: joint1/L_B_S_1/L_B_S_2
+        weight: 1
+      - path: joint1/L_B_S_1/L_B_S_2/L_B_S_3
+        weight: 1
+      - path: joint1/L_B_S_1/L_B_S_2/L_B_S_3/L_B_S_4
+        weight: 1
+      - path: joint1/L_B_S_1/L_B_S_2/L_B_S_3/L_B_S_4/L_B_S_5
+        weight: 1
+      - path: joint1/L_B_S_1/L_B_S_2/L_B_S_3/L_B_S_4/L_B_S_5/L_B_S_6
+        weight: 1
+      - path: joint1/R_B_S_1
+        weight: 1
+      - path: joint1/R_B_S_1/R_B_S_2
+        weight: 1
+      - path: joint1/R_B_S_1/R_B_S_2/R_B_S_3
+        weight: 1
+      - path: joint1/R_B_S_1/R_B_S_2/R_B_S_3/R_B_S_4
+        weight: 1
+      - path: joint1/R_B_S_1/R_B_S_2/R_B_S_3/R_B_S_4/R_B_S_5
+        weight: 1
+      - path: joint1/R_B_S_1/R_B_S_2/R_B_S_3/R_B_S_4/R_B_S_5/R_B_S_6
+        weight: 1
+      - path: polySurface174
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Tho
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 130
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: joint1
+        weight: 1
+      - path: joint1/joint2
+        weight: 1
+      - path: joint1/joint2/joint3
+        weight: 1
+      - path: joint1/joint2/joint3/joint4
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint10
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint10/joint11
+        weight: 1
+      - path: joint1/joint2/joint3/L_F_1
+        weight: 1
+      - path: joint1/joint2/joint3/L_F_1/L_F_2
+        weight: 1
+      - path: joint1/joint2/joint3/L_F_1/L_F_2/L_F_3
+        weight: 1
+      - path: joint1/joint2/joint3/L_F_1/L_F_2/L_F_3/L_F_4
+        weight: 1
+      - path: joint1/joint2/joint3/L_F_1/L_F_2/L_F_3/L_F_4/L_F_5
+        weight: 1
+      - path: joint1/joint2/joint3/R_F_1
+        weight: 1
+      - path: joint1/joint2/joint3/R_F_1/R_F_2
+        weight: 1
+      - path: joint1/joint2/joint3/R_F_1/R_F_2/R_F_3
+        weight: 1
+      - path: joint1/joint2/joint3/R_F_1/R_F_2/R_F_3/R_F_4
+        weight: 1
+      - path: joint1/joint2/joint3/R_F_1/R_F_2/R_F_3/R_F_4/R_F_5
+        weight: 1
+      - path: joint1/joint2/L_B_T_1
+        weight: 1
+      - path: joint1/joint2/L_B_T_1/L_B_T_2
+        weight: 1
+      - path: joint1/joint2/L_B_T_1/L_B_T_2/L_B_T_3
+        weight: 1
+      - path: joint1/joint2/L_B_T_1/L_B_T_2/L_B_T_3/L_B_T_4
+        weight: 1
+      - path: joint1/joint2/L_B_T_1/L_B_T_2/L_B_T_3/L_B_T_4/L_B_T_5
+        weight: 1
+      - path: joint1/joint2/R_B_T_1
+        weight: 1
+      - path: joint1/joint2/R_B_T_1/R_B_T_2
+        weight: 1
+      - path: joint1/joint2/R_B_T_1/R_B_T_2/R_B_T_3
+        weight: 1
+      - path: joint1/joint2/R_B_T_1/R_B_T_2/R_B_T_3/R_B_T_4
+        weight: 1
+      - path: joint1/joint2/R_B_T_1/R_B_T_2/R_B_T_3/R_B_T_4/R_B_T_5
+        weight: 1
+      - path: joint1/joint12
+        weight: 1
+      - path: joint1/joint12/joint13
+        weight: 1
+      - path: joint1/joint12/joint13/joint14
+        weight: 1
+      - path: joint1/joint12/joint13/joint14/joint15
+        weight: 1
+      - path: joint1/joint12/joint13/joint14/joint15/joint16
+        weight: 1
+      - path: joint1/joint12/joint13/joint14/joint15/joint16/joint17
+        weight: 1
+      - path: joint1/joint12/joint13/joint14/joint15/joint16/joint17/joint18
+        weight: 1
+      - path: joint1/joint12/joint13/joint14/joint15/joint16/joint17/joint18/joint19
+        weight: 1
+      - path: joint1/L_B_S_1
+        weight: 1
+      - path: joint1/L_B_S_1/L_B_S_2
+        weight: 1
+      - path: joint1/L_B_S_1/L_B_S_2/L_B_S_3
+        weight: 1
+      - path: joint1/L_B_S_1/L_B_S_2/L_B_S_3/L_B_S_4
+        weight: 1
+      - path: joint1/L_B_S_1/L_B_S_2/L_B_S_3/L_B_S_4/L_B_S_5
+        weight: 1
+      - path: joint1/L_B_S_1/L_B_S_2/L_B_S_3/L_B_S_4/L_B_S_5/L_B_S_6
+        weight: 1
+      - path: joint1/R_B_S_1
+        weight: 1
+      - path: joint1/R_B_S_1/R_B_S_2
+        weight: 1
+      - path: joint1/R_B_S_1/R_B_S_2/R_B_S_3
+        weight: 1
+      - path: joint1/R_B_S_1/R_B_S_2/R_B_S_3/R_B_S_4
+        weight: 1
+      - path: joint1/R_B_S_1/R_B_S_2/R_B_S_3/R_B_S_4/R_B_S_5
+        weight: 1
+      - path: joint1/R_B_S_1/R_B_S_2/R_B_S_3/R_B_S_4/R_B_S_5/R_B_S_6
+        weight: 1
+      - path: polySurface174
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Chet
+      takeName: Take 001
+      firstFrame: 300
+      lastFrame: 360
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: joint1
+        weight: 1
+      - path: joint1/joint2
+        weight: 1
+      - path: joint1/joint2/joint3
+        weight: 1
+      - path: joint1/joint2/joint3/joint4
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint10
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint10/joint11
+        weight: 1
+      - path: joint1/joint2/joint3/L_F_1
+        weight: 1
+      - path: joint1/joint2/joint3/L_F_1/L_F_2
+        weight: 1
+      - path: joint1/joint2/joint3/L_F_1/L_F_2/L_F_3
+        weight: 1
+      - path: joint1/joint2/joint3/L_F_1/L_F_2/L_F_3/L_F_4
+        weight: 1
+      - path: joint1/joint2/joint3/L_F_1/L_F_2/L_F_3/L_F_4/L_F_5
+        weight: 1
+      - path: joint1/joint2/joint3/R_F_1
+        weight: 1
+      - path: joint1/joint2/joint3/R_F_1/R_F_2
+        weight: 1
+      - path: joint1/joint2/joint3/R_F_1/R_F_2/R_F_3
+        weight: 1
+      - path: joint1/joint2/joint3/R_F_1/R_F_2/R_F_3/R_F_4
+        weight: 1
+      - path: joint1/joint2/joint3/R_F_1/R_F_2/R_F_3/R_F_4/R_F_5
+        weight: 1
+      - path: joint1/joint2/L_B_T_1
+        weight: 1
+      - path: joint1/joint2/L_B_T_1/L_B_T_2
+        weight: 1
+      - path: joint1/joint2/L_B_T_1/L_B_T_2/L_B_T_3
+        weight: 1
+      - path: joint1/joint2/L_B_T_1/L_B_T_2/L_B_T_3/L_B_T_4
+        weight: 1
+      - path: joint1/joint2/L_B_T_1/L_B_T_2/L_B_T_3/L_B_T_4/L_B_T_5
+        weight: 1
+      - path: joint1/joint2/R_B_T_1
+        weight: 1
+      - path: joint1/joint2/R_B_T_1/R_B_T_2
+        weight: 1
+      - path: joint1/joint2/R_B_T_1/R_B_T_2/R_B_T_3
+        weight: 1
+      - path: joint1/joint2/R_B_T_1/R_B_T_2/R_B_T_3/R_B_T_4
+        weight: 1
+      - path: joint1/joint2/R_B_T_1/R_B_T_2/R_B_T_3/R_B_T_4/R_B_T_5
+        weight: 1
+      - path: joint1/joint12
+        weight: 1
+      - path: joint1/joint12/joint13
+        weight: 1
+      - path: joint1/joint12/joint13/joint14
+        weight: 1
+      - path: joint1/joint12/joint13/joint14/joint15
+        weight: 1
+      - path: joint1/joint12/joint13/joint14/joint15/joint16
+        weight: 1
+      - path: joint1/joint12/joint13/joint14/joint15/joint16/joint17
+        weight: 1
+      - path: joint1/joint12/joint13/joint14/joint15/joint16/joint17/joint18
+        weight: 1
+      - path: joint1/joint12/joint13/joint14/joint15/joint16/joint17/joint18/joint19
+        weight: 1
+      - path: joint1/L_B_S_1
+        weight: 1
+      - path: joint1/L_B_S_1/L_B_S_2
+        weight: 1
+      - path: joint1/L_B_S_1/L_B_S_2/L_B_S_3
+        weight: 1
+      - path: joint1/L_B_S_1/L_B_S_2/L_B_S_3/L_B_S_4
+        weight: 1
+      - path: joint1/L_B_S_1/L_B_S_2/L_B_S_3/L_B_S_4/L_B_S_5
+        weight: 1
+      - path: joint1/L_B_S_1/L_B_S_2/L_B_S_3/L_B_S_4/L_B_S_5/L_B_S_6
+        weight: 1
+      - path: joint1/R_B_S_1
+        weight: 1
+      - path: joint1/R_B_S_1/R_B_S_2
+        weight: 1
+      - path: joint1/R_B_S_1/R_B_S_2/R_B_S_3
+        weight: 1
+      - path: joint1/R_B_S_1/R_B_S_2/R_B_S_3/R_B_S_4
+        weight: 1
+      - path: joint1/R_B_S_1/R_B_S_2/R_B_S_3/R_B_S_4/R_B_S_5
+        weight: 1
+      - path: joint1/R_B_S_1/R_B_S_2/R_B_S_3/R_B_S_4/R_B_S_5/R_B_S_6
+        weight: 1
+      - path: polySurface174
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attack
+      takeName: Take 001
+      firstFrame: 230
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: joint1
+        weight: 1
+      - path: joint1/joint2
+        weight: 1
+      - path: joint1/joint2/joint3
+        weight: 1
+      - path: joint1/joint2/joint3/joint4
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint10
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint10/joint11
+        weight: 1
+      - path: joint1/joint2/joint3/L_F_1
+        weight: 1
+      - path: joint1/joint2/joint3/L_F_1/L_F_2
+        weight: 1
+      - path: joint1/joint2/joint3/L_F_1/L_F_2/L_F_3
+        weight: 1
+      - path: joint1/joint2/joint3/L_F_1/L_F_2/L_F_3/L_F_4
+        weight: 1
+      - path: joint1/joint2/joint3/L_F_1/L_F_2/L_F_3/L_F_4/L_F_5
+        weight: 1
+      - path: joint1/joint2/joint3/R_F_1
+        weight: 1
+      - path: joint1/joint2/joint3/R_F_1/R_F_2
+        weight: 1
+      - path: joint1/joint2/joint3/R_F_1/R_F_2/R_F_3
+        weight: 1
+      - path: joint1/joint2/joint3/R_F_1/R_F_2/R_F_3/R_F_4
+        weight: 1
+      - path: joint1/joint2/joint3/R_F_1/R_F_2/R_F_3/R_F_4/R_F_5
+        weight: 1
+      - path: joint1/joint2/L_B_T_1
+        weight: 1
+      - path: joint1/joint2/L_B_T_1/L_B_T_2
+        weight: 1
+      - path: joint1/joint2/L_B_T_1/L_B_T_2/L_B_T_3
+        weight: 1
+      - path: joint1/joint2/L_B_T_1/L_B_T_2/L_B_T_3/L_B_T_4
+        weight: 1
+      - path: joint1/joint2/L_B_T_1/L_B_T_2/L_B_T_3/L_B_T_4/L_B_T_5
+        weight: 1
+      - path: joint1/joint2/R_B_T_1
+        weight: 1
+      - path: joint1/joint2/R_B_T_1/R_B_T_2
+        weight: 1
+      - path: joint1/joint2/R_B_T_1/R_B_T_2/R_B_T_3
+        weight: 1
+      - path: joint1/joint2/R_B_T_1/R_B_T_2/R_B_T_3/R_B_T_4
+        weight: 1
+      - path: joint1/joint2/R_B_T_1/R_B_T_2/R_B_T_3/R_B_T_4/R_B_T_5
+        weight: 1
+      - path: joint1/joint12
+        weight: 1
+      - path: joint1/joint12/joint13
+        weight: 1
+      - path: joint1/joint12/joint13/joint14
+        weight: 1
+      - path: joint1/joint12/joint13/joint14/joint15
+        weight: 1
+      - path: joint1/joint12/joint13/joint14/joint15/joint16
+        weight: 1
+      - path: joint1/joint12/joint13/joint14/joint15/joint16/joint17
+        weight: 1
+      - path: joint1/joint12/joint13/joint14/joint15/joint16/joint17/joint18
+        weight: 1
+      - path: joint1/joint12/joint13/joint14/joint15/joint16/joint17/joint18/joint19
+        weight: 1
+      - path: joint1/L_B_S_1
+        weight: 1
+      - path: joint1/L_B_S_1/L_B_S_2
+        weight: 1
+      - path: joint1/L_B_S_1/L_B_S_2/L_B_S_3
+        weight: 1
+      - path: joint1/L_B_S_1/L_B_S_2/L_B_S_3/L_B_S_4
+        weight: 1
+      - path: joint1/L_B_S_1/L_B_S_2/L_B_S_3/L_B_S_4/L_B_S_5
+        weight: 1
+      - path: joint1/L_B_S_1/L_B_S_2/L_B_S_3/L_B_S_4/L_B_S_5/L_B_S_6
+        weight: 1
+      - path: joint1/R_B_S_1
+        weight: 1
+      - path: joint1/R_B_S_1/R_B_S_2
+        weight: 1
+      - path: joint1/R_B_S_1/R_B_S_2/R_B_S_3
+        weight: 1
+      - path: joint1/R_B_S_1/R_B_S_2/R_B_S_3/R_B_S_4
+        weight: 1
+      - path: joint1/R_B_S_1/R_B_S_2/R_B_S_3/R_B_S_4/R_B_S_5
+        weight: 1
+      - path: joint1/R_B_S_1/R_B_S_2/R_B_S_3/R_B_S_4/R_B_S_5/R_B_S_6
+        weight: 1
+      - path: polySurface174
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Dicham
+      takeName: Take 001
+      firstFrame: 385
+      lastFrame: 420
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: joint1
+        weight: 1
+      - path: joint1/joint2
+        weight: 1
+      - path: joint1/joint2/joint3
+        weight: 1
+      - path: joint1/joint2/joint3/joint4
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint10
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint10/joint11
+        weight: 1
+      - path: joint1/joint2/joint3/L_F_1
+        weight: 1
+      - path: joint1/joint2/joint3/L_F_1/L_F_2
+        weight: 1
+      - path: joint1/joint2/joint3/L_F_1/L_F_2/L_F_3
+        weight: 1
+      - path: joint1/joint2/joint3/L_F_1/L_F_2/L_F_3/L_F_4
+        weight: 1
+      - path: joint1/joint2/joint3/L_F_1/L_F_2/L_F_3/L_F_4/L_F_5
+        weight: 1
+      - path: joint1/joint2/joint3/R_F_1
+        weight: 1
+      - path: joint1/joint2/joint3/R_F_1/R_F_2
+        weight: 1
+      - path: joint1/joint2/joint3/R_F_1/R_F_2/R_F_3
+        weight: 1
+      - path: joint1/joint2/joint3/R_F_1/R_F_2/R_F_3/R_F_4
+        weight: 1
+      - path: joint1/joint2/joint3/R_F_1/R_F_2/R_F_3/R_F_4/R_F_5
+        weight: 1
+      - path: joint1/joint2/L_B_T_1
+        weight: 1
+      - path: joint1/joint2/L_B_T_1/L_B_T_2
+        weight: 1
+      - path: joint1/joint2/L_B_T_1/L_B_T_2/L_B_T_3
+        weight: 1
+      - path: joint1/joint2/L_B_T_1/L_B_T_2/L_B_T_3/L_B_T_4
+        weight: 1
+      - path: joint1/joint2/L_B_T_1/L_B_T_2/L_B_T_3/L_B_T_4/L_B_T_5
+        weight: 1
+      - path: joint1/joint2/R_B_T_1
+        weight: 1
+      - path: joint1/joint2/R_B_T_1/R_B_T_2
+        weight: 1
+      - path: joint1/joint2/R_B_T_1/R_B_T_2/R_B_T_3
+        weight: 1
+      - path: joint1/joint2/R_B_T_1/R_B_T_2/R_B_T_3/R_B_T_4
+        weight: 1
+      - path: joint1/joint2/R_B_T_1/R_B_T_2/R_B_T_3/R_B_T_4/R_B_T_5
+        weight: 1
+      - path: joint1/joint12
+        weight: 1
+      - path: joint1/joint12/joint13
+        weight: 1
+      - path: joint1/joint12/joint13/joint14
+        weight: 1
+      - path: joint1/joint12/joint13/joint14/joint15
+        weight: 1
+      - path: joint1/joint12/joint13/joint14/joint15/joint16
+        weight: 1
+      - path: joint1/joint12/joint13/joint14/joint15/joint16/joint17
+        weight: 1
+      - path: joint1/joint12/joint13/joint14/joint15/joint16/joint17/joint18
+        weight: 1
+      - path: joint1/joint12/joint13/joint14/joint15/joint16/joint17/joint18/joint19
+        weight: 1
+      - path: joint1/L_B_S_1
+        weight: 1
+      - path: joint1/L_B_S_1/L_B_S_2
+        weight: 1
+      - path: joint1/L_B_S_1/L_B_S_2/L_B_S_3
+        weight: 1
+      - path: joint1/L_B_S_1/L_B_S_2/L_B_S_3/L_B_S_4
+        weight: 1
+      - path: joint1/L_B_S_1/L_B_S_2/L_B_S_3/L_B_S_4/L_B_S_5
+        weight: 1
+      - path: joint1/L_B_S_1/L_B_S_2/L_B_S_3/L_B_S_4/L_B_S_5/L_B_S_6
+        weight: 1
+      - path: joint1/R_B_S_1
+        weight: 1
+      - path: joint1/R_B_S_1/R_B_S_2
+        weight: 1
+      - path: joint1/R_B_S_1/R_B_S_2/R_B_S_3
+        weight: 1
+      - path: joint1/R_B_S_1/R_B_S_2/R_B_S_3/R_B_S_4
+        weight: 1
+      - path: joint1/R_B_S_1/R_B_S_2/R_B_S_3/R_B_S_4/R_B_S_5
+        weight: 1
+      - path: joint1/R_B_S_1/R_B_S_2/R_B_S_3/R_B_S_4/R_B_S_5/R_B_S_6
+        weight: 1
+      - path: polySurface174
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,688 @@
+fileFormatVersion: 2
+guid: ae45434de4e240b4ebf651679f1e11e7
+timeCreated: 1461918160
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: chan_sau_phai_joint2
+    100004: chan_sau_phai_joint3
+    100006: chan_sau_phai_joint4
+    100008: chan_sau_phai_joint5
+    100010: chan_sau_phai_joint6
+    100012: chan_sau_trai_joint3
+    100014: chan_sau_trai_joint4
+    100016: chan_sau_trai_joint5
+    100018: chan_sau_trai_joint6
+    100020: chan_sau_trai_joint7
+    100022: chan_truoc_phai_joint10
+    100024: chan_truoc_phai_joint11
+    100026: chan_truoc_phai_joint12
+    100028: chan_truoc_phai_joint13
+    100030: chan_truoc_phai_joint9
+    100032: chan_truoc_trai_joint10
+    100034: chan_truoc_trai_joint11
+    100036: chan_truoc_trai_joint12
+    100038: chan_truoc_trai_joint13
+    100040: chan_truoc_trai_joint14
+    100042: co
+    100044: de_co
+    100046: de_ham
+    100048: ham
+    100050: ham_end
+    100052: Hip_master
+    100054: polySurface6
+    100056: shoulder
+    100058: tai_phai_1
+    100060: tai_phai_2
+    100062: tai_trai_1
+    100064: tai_trai_2
+    100066: than_joint16
+    100068: than_joint17
+    100070: than_joint18
+    100072: than_joint19
+    100074: than_joint20
+    100076: than_joint21
+    400000: //RootNode
+    400002: chan_sau_phai_joint2
+    400004: chan_sau_phai_joint3
+    400006: chan_sau_phai_joint4
+    400008: chan_sau_phai_joint5
+    400010: chan_sau_phai_joint6
+    400012: chan_sau_trai_joint3
+    400014: chan_sau_trai_joint4
+    400016: chan_sau_trai_joint5
+    400018: chan_sau_trai_joint6
+    400020: chan_sau_trai_joint7
+    400022: chan_truoc_phai_joint10
+    400024: chan_truoc_phai_joint11
+    400026: chan_truoc_phai_joint12
+    400028: chan_truoc_phai_joint13
+    400030: chan_truoc_phai_joint9
+    400032: chan_truoc_trai_joint10
+    400034: chan_truoc_trai_joint11
+    400036: chan_truoc_trai_joint12
+    400038: chan_truoc_trai_joint13
+    400040: chan_truoc_trai_joint14
+    400042: co
+    400044: de_co
+    400046: de_ham
+    400048: ham
+    400050: ham_end
+    400052: Hip_master
+    400054: polySurface6
+    400056: shoulder
+    400058: tai_phai_1
+    400060: tai_phai_2
+    400062: tai_trai_1
+    400064: tai_trai_2
+    400066: than_joint16
+    400068: than_joint17
+    400070: than_joint18
+    400072: than_joint19
+    400074: than_joint20
+    400076: than_joint21
+    4300000: polySurface6
+    7400000: Dicham
+    7400002: Chay
+    7400004: Bithuong
+    7400006: Chet
+    7400008: Attack
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: polySurface6
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Dicham
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 33
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Hip_master
+        weight: 1
+      - path: Hip_master/chan_sau_phai_joint2
+        weight: 1
+      - path: Hip_master/chan_sau_phai_joint2/chan_sau_phai_joint3
+        weight: 1
+      - path: Hip_master/chan_sau_phai_joint2/chan_sau_phai_joint3/chan_sau_phai_joint4
+        weight: 1
+      - path: Hip_master/chan_sau_phai_joint2/chan_sau_phai_joint3/chan_sau_phai_joint4/chan_sau_phai_joint5
+        weight: 1
+      - path: Hip_master/chan_sau_phai_joint2/chan_sau_phai_joint3/chan_sau_phai_joint4/chan_sau_phai_joint5/chan_sau_phai_joint6
+        weight: 1
+      - path: Hip_master/chan_sau_trai_joint7
+        weight: 1
+      - path: Hip_master/chan_sau_trai_joint7/chan_sau_trai_joint3
+        weight: 1
+      - path: Hip_master/chan_sau_trai_joint7/chan_sau_trai_joint3/chan_sau_trai_joint4
+        weight: 1
+      - path: Hip_master/chan_sau_trai_joint7/chan_sau_trai_joint3/chan_sau_trai_joint4/chan_sau_trai_joint5
+        weight: 1
+      - path: Hip_master/chan_sau_trai_joint7/chan_sau_trai_joint3/chan_sau_trai_joint4/chan_sau_trai_joint5/chan_sau_trai_joint6
+        weight: 1
+      - path: Hip_master/than_joint16
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/chan_truoc_phai_joint9
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/chan_truoc_phai_joint9/chan_truoc_phai_joint10
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/chan_truoc_phai_joint9/chan_truoc_phai_joint10/chan_truoc_phai_joint11
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/chan_truoc_phai_joint9/chan_truoc_phai_joint10/chan_truoc_phai_joint11/chan_truoc_phai_joint12
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/chan_truoc_phai_joint9/chan_truoc_phai_joint10/chan_truoc_phai_joint11/chan_truoc_phai_joint12/chan_truoc_phai_joint13
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/chan_truoc_trai_joint14
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/chan_truoc_trai_joint14/chan_truoc_trai_joint10
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/chan_truoc_trai_joint14/chan_truoc_trai_joint10/chan_truoc_trai_joint11
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/chan_truoc_trai_joint14/chan_truoc_trai_joint10/chan_truoc_trai_joint11/chan_truoc_trai_joint12
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/chan_truoc_trai_joint14/chan_truoc_trai_joint10/chan_truoc_trai_joint11/chan_truoc_trai_joint12/chan_truoc_trai_joint13
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/de_co
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/de_co/co
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/de_co/co/de_ham
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/de_co/co/de_ham/ham
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/de_co/co/de_ham/ham/ham_end
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/de_co/co/tai_phai_1
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/de_co/co/tai_phai_1/tai_phai_2
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/de_co/co/tai_trai_1
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/de_co/co/tai_trai_1/tai_trai_2
+        weight: 1
+      - path: polySurface6
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Chay
+      takeName: Take 001
+      firstFrame: 41
+      lastFrame: 65
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Hip_master
+        weight: 1
+      - path: Hip_master/chan_sau_phai_joint2
+        weight: 1
+      - path: Hip_master/chan_sau_phai_joint2/chan_sau_phai_joint3
+        weight: 1
+      - path: Hip_master/chan_sau_phai_joint2/chan_sau_phai_joint3/chan_sau_phai_joint4
+        weight: 1
+      - path: Hip_master/chan_sau_phai_joint2/chan_sau_phai_joint3/chan_sau_phai_joint4/chan_sau_phai_joint5
+        weight: 1
+      - path: Hip_master/chan_sau_phai_joint2/chan_sau_phai_joint3/chan_sau_phai_joint4/chan_sau_phai_joint5/chan_sau_phai_joint6
+        weight: 1
+      - path: Hip_master/chan_sau_trai_joint7
+        weight: 1
+      - path: Hip_master/chan_sau_trai_joint7/chan_sau_trai_joint3
+        weight: 1
+      - path: Hip_master/chan_sau_trai_joint7/chan_sau_trai_joint3/chan_sau_trai_joint4
+        weight: 1
+      - path: Hip_master/chan_sau_trai_joint7/chan_sau_trai_joint3/chan_sau_trai_joint4/chan_sau_trai_joint5
+        weight: 1
+      - path: Hip_master/chan_sau_trai_joint7/chan_sau_trai_joint3/chan_sau_trai_joint4/chan_sau_trai_joint5/chan_sau_trai_joint6
+        weight: 1
+      - path: Hip_master/than_joint16
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/chan_truoc_phai_joint9
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/chan_truoc_phai_joint9/chan_truoc_phai_joint10
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/chan_truoc_phai_joint9/chan_truoc_phai_joint10/chan_truoc_phai_joint11
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/chan_truoc_phai_joint9/chan_truoc_phai_joint10/chan_truoc_phai_joint11/chan_truoc_phai_joint12
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/chan_truoc_phai_joint9/chan_truoc_phai_joint10/chan_truoc_phai_joint11/chan_truoc_phai_joint12/chan_truoc_phai_joint13
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/chan_truoc_trai_joint14
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/chan_truoc_trai_joint14/chan_truoc_trai_joint10
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/chan_truoc_trai_joint14/chan_truoc_trai_joint10/chan_truoc_trai_joint11
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/chan_truoc_trai_joint14/chan_truoc_trai_joint10/chan_truoc_trai_joint11/chan_truoc_trai_joint12
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/chan_truoc_trai_joint14/chan_truoc_trai_joint10/chan_truoc_trai_joint11/chan_truoc_trai_joint12/chan_truoc_trai_joint13
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/de_co
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/de_co/co
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/de_co/co/de_ham
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/de_co/co/de_ham/ham
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/de_co/co/de_ham/ham/ham_end
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/de_co/co/tai_phai_1
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/de_co/co/tai_phai_1/tai_phai_2
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/de_co/co/tai_trai_1
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/de_co/co/tai_trai_1/tai_trai_2
+        weight: 1
+      - path: polySurface6
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bithuong
+      takeName: Take 001
+      firstFrame: 71
+      lastFrame: 113
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Hip_master
+        weight: 1
+      - path: Hip_master/chan_sau_phai_joint2
+        weight: 1
+      - path: Hip_master/chan_sau_phai_joint2/chan_sau_phai_joint3
+        weight: 1
+      - path: Hip_master/chan_sau_phai_joint2/chan_sau_phai_joint3/chan_sau_phai_joint4
+        weight: 1
+      - path: Hip_master/chan_sau_phai_joint2/chan_sau_phai_joint3/chan_sau_phai_joint4/chan_sau_phai_joint5
+        weight: 1
+      - path: Hip_master/chan_sau_phai_joint2/chan_sau_phai_joint3/chan_sau_phai_joint4/chan_sau_phai_joint5/chan_sau_phai_joint6
+        weight: 1
+      - path: Hip_master/chan_sau_trai_joint7
+        weight: 1
+      - path: Hip_master/chan_sau_trai_joint7/chan_sau_trai_joint3
+        weight: 1
+      - path: Hip_master/chan_sau_trai_joint7/chan_sau_trai_joint3/chan_sau_trai_joint4
+        weight: 1
+      - path: Hip_master/chan_sau_trai_joint7/chan_sau_trai_joint3/chan_sau_trai_joint4/chan_sau_trai_joint5
+        weight: 1
+      - path: Hip_master/chan_sau_trai_joint7/chan_sau_trai_joint3/chan_sau_trai_joint4/chan_sau_trai_joint5/chan_sau_trai_joint6
+        weight: 1
+      - path: Hip_master/than_joint16
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/chan_truoc_phai_joint9
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/chan_truoc_phai_joint9/chan_truoc_phai_joint10
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/chan_truoc_phai_joint9/chan_truoc_phai_joint10/chan_truoc_phai_joint11
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/chan_truoc_phai_joint9/chan_truoc_phai_joint10/chan_truoc_phai_joint11/chan_truoc_phai_joint12
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/chan_truoc_phai_joint9/chan_truoc_phai_joint10/chan_truoc_phai_joint11/chan_truoc_phai_joint12/chan_truoc_phai_joint13
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/chan_truoc_trai_joint14
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/chan_truoc_trai_joint14/chan_truoc_trai_joint10
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/chan_truoc_trai_joint14/chan_truoc_trai_joint10/chan_truoc_trai_joint11
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/chan_truoc_trai_joint14/chan_truoc_trai_joint10/chan_truoc_trai_joint11/chan_truoc_trai_joint12
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/chan_truoc_trai_joint14/chan_truoc_trai_joint10/chan_truoc_trai_joint11/chan_truoc_trai_joint12/chan_truoc_trai_joint13
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/de_co
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/de_co/co
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/de_co/co/de_ham
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/de_co/co/de_ham/ham
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/de_co/co/de_ham/ham/ham_end
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/de_co/co/tai_phai_1
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/de_co/co/tai_phai_1/tai_phai_2
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/de_co/co/tai_trai_1
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/de_co/co/tai_trai_1/tai_trai_2
+        weight: 1
+      - path: polySurface6
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Chet
+      takeName: Take 001
+      firstFrame: 130
+      lastFrame: 168
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Hip_master
+        weight: 1
+      - path: Hip_master/chan_sau_phai_joint2
+        weight: 1
+      - path: Hip_master/chan_sau_phai_joint2/chan_sau_phai_joint3
+        weight: 1
+      - path: Hip_master/chan_sau_phai_joint2/chan_sau_phai_joint3/chan_sau_phai_joint4
+        weight: 1
+      - path: Hip_master/chan_sau_phai_joint2/chan_sau_phai_joint3/chan_sau_phai_joint4/chan_sau_phai_joint5
+        weight: 1
+      - path: Hip_master/chan_sau_phai_joint2/chan_sau_phai_joint3/chan_sau_phai_joint4/chan_sau_phai_joint5/chan_sau_phai_joint6
+        weight: 1
+      - path: Hip_master/chan_sau_trai_joint7
+        weight: 1
+      - path: Hip_master/chan_sau_trai_joint7/chan_sau_trai_joint3
+        weight: 1
+      - path: Hip_master/chan_sau_trai_joint7/chan_sau_trai_joint3/chan_sau_trai_joint4
+        weight: 1
+      - path: Hip_master/chan_sau_trai_joint7/chan_sau_trai_joint3/chan_sau_trai_joint4/chan_sau_trai_joint5
+        weight: 1
+      - path: Hip_master/chan_sau_trai_joint7/chan_sau_trai_joint3/chan_sau_trai_joint4/chan_sau_trai_joint5/chan_sau_trai_joint6
+        weight: 1
+      - path: Hip_master/than_joint16
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/chan_truoc_phai_joint9
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/chan_truoc_phai_joint9/chan_truoc_phai_joint10
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/chan_truoc_phai_joint9/chan_truoc_phai_joint10/chan_truoc_phai_joint11
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/chan_truoc_phai_joint9/chan_truoc_phai_joint10/chan_truoc_phai_joint11/chan_truoc_phai_joint12
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/chan_truoc_phai_joint9/chan_truoc_phai_joint10/chan_truoc_phai_joint11/chan_truoc_phai_joint12/chan_truoc_phai_joint13
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/chan_truoc_trai_joint14
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/chan_truoc_trai_joint14/chan_truoc_trai_joint10
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/chan_truoc_trai_joint14/chan_truoc_trai_joint10/chan_truoc_trai_joint11
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/chan_truoc_trai_joint14/chan_truoc_trai_joint10/chan_truoc_trai_joint11/chan_truoc_trai_joint12
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/chan_truoc_trai_joint14/chan_truoc_trai_joint10/chan_truoc_trai_joint11/chan_truoc_trai_joint12/chan_truoc_trai_joint13
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/de_co
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/de_co/co
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/de_co/co/de_ham
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/de_co/co/de_ham/ham
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/de_co/co/de_ham/ham/ham_end
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/de_co/co/tai_phai_1
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/de_co/co/tai_phai_1/tai_phai_2
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/de_co/co/tai_trai_1
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/de_co/co/tai_trai_1/tai_trai_2
+        weight: 1
+      - path: polySurface6
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attack
+      takeName: Take 001
+      firstFrame: 193
+      lastFrame: 228
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Hip_master
+        weight: 1
+      - path: Hip_master/chan_sau_phai_joint2
+        weight: 1
+      - path: Hip_master/chan_sau_phai_joint2/chan_sau_phai_joint3
+        weight: 1
+      - path: Hip_master/chan_sau_phai_joint2/chan_sau_phai_joint3/chan_sau_phai_joint4
+        weight: 1
+      - path: Hip_master/chan_sau_phai_joint2/chan_sau_phai_joint3/chan_sau_phai_joint4/chan_sau_phai_joint5
+        weight: 1
+      - path: Hip_master/chan_sau_phai_joint2/chan_sau_phai_joint3/chan_sau_phai_joint4/chan_sau_phai_joint5/chan_sau_phai_joint6
+        weight: 1
+      - path: Hip_master/chan_sau_trai_joint7
+        weight: 1
+      - path: Hip_master/chan_sau_trai_joint7/chan_sau_trai_joint3
+        weight: 1
+      - path: Hip_master/chan_sau_trai_joint7/chan_sau_trai_joint3/chan_sau_trai_joint4
+        weight: 1
+      - path: Hip_master/chan_sau_trai_joint7/chan_sau_trai_joint3/chan_sau_trai_joint4/chan_sau_trai_joint5
+        weight: 1
+      - path: Hip_master/chan_sau_trai_joint7/chan_sau_trai_joint3/chan_sau_trai_joint4/chan_sau_trai_joint5/chan_sau_trai_joint6
+        weight: 1
+      - path: Hip_master/than_joint16
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/chan_truoc_phai_joint9
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/chan_truoc_phai_joint9/chan_truoc_phai_joint10
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/chan_truoc_phai_joint9/chan_truoc_phai_joint10/chan_truoc_phai_joint11
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/chan_truoc_phai_joint9/chan_truoc_phai_joint10/chan_truoc_phai_joint11/chan_truoc_phai_joint12
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/chan_truoc_phai_joint9/chan_truoc_phai_joint10/chan_truoc_phai_joint11/chan_truoc_phai_joint12/chan_truoc_phai_joint13
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/chan_truoc_trai_joint14
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/chan_truoc_trai_joint14/chan_truoc_trai_joint10
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/chan_truoc_trai_joint14/chan_truoc_trai_joint10/chan_truoc_trai_joint11
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/chan_truoc_trai_joint14/chan_truoc_trai_joint10/chan_truoc_trai_joint11/chan_truoc_trai_joint12
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/chan_truoc_trai_joint14/chan_truoc_trai_joint10/chan_truoc_trai_joint11/chan_truoc_trai_joint12/chan_truoc_trai_joint13
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/de_co
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/de_co/co
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/de_co/co/de_ham
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/de_co/co/de_ham/ham
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/de_co/co/de_ham/ham/ham_end
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/de_co/co/tai_phai_1
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/de_co/co/tai_phai_1/tai_phai_2
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/de_co/co/tai_trai_1
+        weight: 1
+      - path: Hip_master/than_joint16/than_joint17/than_joint18/than_joint19/than_joint20/than_joint21/shoulder/de_co/co/tai_trai_1/tai_trai_2
+        weight: 1
+      - path: polySurface6
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,809 @@
+fileFormatVersion: 2
+guid: 5358224145018479391e5d2c4fe0438c
+timeCreated: 1470968259
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: chan_sau_phai_joint10
+    100002: chan_sau_phai_joint11
+    100004: chan_sau_phai_joint7
+    100006: chan_sau_phai_joint8
+    100008: chan_sau_phai_joint9
+    100010: chan_sau_trai_joint10
+    100012: chan_sau_trai_joint11
+    100014: chan_sau_trai_joint12
+    100016: chan_sau_trai_joint8
+    100018: chan_sau_trai_joint9
+    100020: chan_truoc_phai_joint2
+    100022: chan_truoc_phai_joint3
+    100024: chan_truoc_phai_joint4
+    100026: chan_truoc_phai_joint5
+    100028: chan_truoc_phai_joint6
+    100030: chan_truoc_trai_joint1
+    100032: chan_truoc_trai_joint2
+    100034: chan_truoc_trai_joint3
+    100036: chan_truoc_trai_joint4
+    100038: chan_truoc_trai_joint5
+    100040: co
+    100042: de_co
+    100044: de_ham
+    100046: duoi_joint18
+    100048: duoi_joint19
+    100050: duoi_joint20
+    100052: duoi_joint21
+    100054: duoi_joint22
+    100056: duoi_joint23
+    100058: Geo
+    100060: ham
+    100062: ham_end
+    100064: hong_mastter
+    100066: soi
+    100068: than
+    100070: than_2
+    100072: than_3
+    100074: vai
+    100076: //RootNode
+    100078: xuong
+    400000: chan_sau_phai_joint10
+    400002: chan_sau_phai_joint11
+    400004: chan_sau_phai_joint7
+    400006: chan_sau_phai_joint8
+    400008: chan_sau_phai_joint9
+    400010: chan_sau_trai_joint10
+    400012: chan_sau_trai_joint11
+    400014: chan_sau_trai_joint12
+    400016: chan_sau_trai_joint8
+    400018: chan_sau_trai_joint9
+    400020: chan_truoc_phai_joint2
+    400022: chan_truoc_phai_joint3
+    400024: chan_truoc_phai_joint4
+    400026: chan_truoc_phai_joint5
+    400028: chan_truoc_phai_joint6
+    400030: chan_truoc_trai_joint1
+    400032: chan_truoc_trai_joint2
+    400034: chan_truoc_trai_joint3
+    400036: chan_truoc_trai_joint4
+    400038: chan_truoc_trai_joint5
+    400040: co
+    400042: de_co
+    400044: de_ham
+    400046: duoi_joint18
+    400048: duoi_joint19
+    400050: duoi_joint20
+    400052: duoi_joint21
+    400054: duoi_joint22
+    400056: duoi_joint23
+    400058: Geo
+    400060: ham
+    400062: ham_end
+    400064: hong_mastter
+    400066: soi
+    400068: than
+    400070: than_2
+    400072: than_3
+    400074: vai
+    400076: //RootNode
+    400078: xuong
+    4300000: soi
+    7400000: Chay
+    7400002: Tho
+    7400004: Attack
+    7400006: Chet
+    7400008: Bithuong
+    7400010: Dicham
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: soi
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Chay
+      takeName: soi_animation_v9
+      firstFrame: 340
+      lastFrame: 366
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Geo
+        weight: 1
+      - path: Geo/soi
+        weight: 1
+      - path: xuong
+        weight: 1
+      - path: xuong/hong_mastter
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_phai_joint7
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_phai_joint7/chan_sau_phai_joint8
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_phai_joint7/chan_sau_phai_joint8/chan_sau_phai_joint9
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_phai_joint7/chan_sau_phai_joint8/chan_sau_phai_joint9/chan_sau_phai_joint10
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_phai_joint7/chan_sau_phai_joint8/chan_sau_phai_joint9/chan_sau_phai_joint10/chan_sau_phai_joint11
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_trai_joint12
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_trai_joint12/chan_sau_trai_joint8
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_trai_joint12/chan_sau_trai_joint8/chan_sau_trai_joint9
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_trai_joint12/chan_sau_trai_joint8/chan_sau_trai_joint9/chan_sau_trai_joint10
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_trai_joint12/chan_sau_trai_joint8/chan_sau_trai_joint9/chan_sau_trai_joint10/chan_sau_trai_joint11
+        weight: 1
+      - path: xuong/hong_mastter/duoi_joint18
+        weight: 1
+      - path: xuong/hong_mastter/duoi_joint18/duoi_joint19
+        weight: 1
+      - path: xuong/hong_mastter/duoi_joint18/duoi_joint19/duoi_joint20
+        weight: 1
+      - path: xuong/hong_mastter/duoi_joint18/duoi_joint19/duoi_joint20/duoi_joint21
+        weight: 1
+      - path: xuong/hong_mastter/duoi_joint18/duoi_joint19/duoi_joint20/duoi_joint21/duoi_joint22
+        weight: 1
+      - path: xuong/hong_mastter/duoi_joint18/duoi_joint19/duoi_joint20/duoi_joint21/duoi_joint22/duoi_joint23
+        weight: 1
+      - path: xuong/hong_mastter/than
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_phai_joint6
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_phai_joint6/chan_truoc_phai_joint2
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_phai_joint6/chan_truoc_phai_joint2/chan_truoc_phai_joint3
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_phai_joint6/chan_truoc_phai_joint2/chan_truoc_phai_joint3/chan_truoc_phai_joint4
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_phai_joint6/chan_truoc_phai_joint2/chan_truoc_phai_joint3/chan_truoc_phai_joint4/chan_truoc_phai_joint5
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_trai_joint1
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_trai_joint1/chan_truoc_trai_joint2
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_trai_joint1/chan_truoc_trai_joint2/chan_truoc_trai_joint3
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_trai_joint1/chan_truoc_trai_joint2/chan_truoc_trai_joint3/chan_truoc_trai_joint4
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_trai_joint1/chan_truoc_trai_joint2/chan_truoc_trai_joint3/chan_truoc_trai_joint4/chan_truoc_trai_joint5
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/vai
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/vai/de_co
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/vai/de_co/co
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/vai/de_co/co/de_ham
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/vai/de_co/co/de_ham/ham
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/vai/de_co/co/de_ham/ham/ham_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Tho
+      takeName: soi_animation_v9
+      firstFrame: 30
+      lastFrame: 130
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Geo
+        weight: 1
+      - path: Geo/soi
+        weight: 1
+      - path: xuong
+        weight: 1
+      - path: xuong/hong_mastter
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_phai_joint7
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_phai_joint7/chan_sau_phai_joint8
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_phai_joint7/chan_sau_phai_joint8/chan_sau_phai_joint9
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_phai_joint7/chan_sau_phai_joint8/chan_sau_phai_joint9/chan_sau_phai_joint10
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_phai_joint7/chan_sau_phai_joint8/chan_sau_phai_joint9/chan_sau_phai_joint10/chan_sau_phai_joint11
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_trai_joint12
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_trai_joint12/chan_sau_trai_joint8
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_trai_joint12/chan_sau_trai_joint8/chan_sau_trai_joint9
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_trai_joint12/chan_sau_trai_joint8/chan_sau_trai_joint9/chan_sau_trai_joint10
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_trai_joint12/chan_sau_trai_joint8/chan_sau_trai_joint9/chan_sau_trai_joint10/chan_sau_trai_joint11
+        weight: 1
+      - path: xuong/hong_mastter/duoi_joint18
+        weight: 1
+      - path: xuong/hong_mastter/duoi_joint18/duoi_joint19
+        weight: 1
+      - path: xuong/hong_mastter/duoi_joint18/duoi_joint19/duoi_joint20
+        weight: 1
+      - path: xuong/hong_mastter/duoi_joint18/duoi_joint19/duoi_joint20/duoi_joint21
+        weight: 1
+      - path: xuong/hong_mastter/duoi_joint18/duoi_joint19/duoi_joint20/duoi_joint21/duoi_joint22
+        weight: 1
+      - path: xuong/hong_mastter/duoi_joint18/duoi_joint19/duoi_joint20/duoi_joint21/duoi_joint22/duoi_joint23
+        weight: 1
+      - path: xuong/hong_mastter/than
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_phai_joint6
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_phai_joint6/chan_truoc_phai_joint2
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_phai_joint6/chan_truoc_phai_joint2/chan_truoc_phai_joint3
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_phai_joint6/chan_truoc_phai_joint2/chan_truoc_phai_joint3/chan_truoc_phai_joint4
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_phai_joint6/chan_truoc_phai_joint2/chan_truoc_phai_joint3/chan_truoc_phai_joint4/chan_truoc_phai_joint5
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_trai_joint1
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_trai_joint1/chan_truoc_trai_joint2
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_trai_joint1/chan_truoc_trai_joint2/chan_truoc_trai_joint3
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_trai_joint1/chan_truoc_trai_joint2/chan_truoc_trai_joint3/chan_truoc_trai_joint4
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_trai_joint1/chan_truoc_trai_joint2/chan_truoc_trai_joint3/chan_truoc_trai_joint4/chan_truoc_trai_joint5
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/vai
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/vai/de_co
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/vai/de_co/co
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/vai/de_co/co/de_ham
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/vai/de_co/co/de_ham/ham
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/vai/de_co/co/de_ham/ham/ham_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attack
+      takeName: soi_animation_v9
+      firstFrame: 150
+      lastFrame: 225
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Geo
+        weight: 1
+      - path: Geo/soi
+        weight: 1
+      - path: xuong
+        weight: 1
+      - path: xuong/hong_mastter
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_phai_joint7
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_phai_joint7/chan_sau_phai_joint8
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_phai_joint7/chan_sau_phai_joint8/chan_sau_phai_joint9
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_phai_joint7/chan_sau_phai_joint8/chan_sau_phai_joint9/chan_sau_phai_joint10
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_phai_joint7/chan_sau_phai_joint8/chan_sau_phai_joint9/chan_sau_phai_joint10/chan_sau_phai_joint11
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_trai_joint12
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_trai_joint12/chan_sau_trai_joint8
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_trai_joint12/chan_sau_trai_joint8/chan_sau_trai_joint9
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_trai_joint12/chan_sau_trai_joint8/chan_sau_trai_joint9/chan_sau_trai_joint10
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_trai_joint12/chan_sau_trai_joint8/chan_sau_trai_joint9/chan_sau_trai_joint10/chan_sau_trai_joint11
+        weight: 1
+      - path: xuong/hong_mastter/duoi_joint18
+        weight: 1
+      - path: xuong/hong_mastter/duoi_joint18/duoi_joint19
+        weight: 1
+      - path: xuong/hong_mastter/duoi_joint18/duoi_joint19/duoi_joint20
+        weight: 1
+      - path: xuong/hong_mastter/duoi_joint18/duoi_joint19/duoi_joint20/duoi_joint21
+        weight: 1
+      - path: xuong/hong_mastter/duoi_joint18/duoi_joint19/duoi_joint20/duoi_joint21/duoi_joint22
+        weight: 1
+      - path: xuong/hong_mastter/duoi_joint18/duoi_joint19/duoi_joint20/duoi_joint21/duoi_joint22/duoi_joint23
+        weight: 1
+      - path: xuong/hong_mastter/than
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_phai_joint6
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_phai_joint6/chan_truoc_phai_joint2
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_phai_joint6/chan_truoc_phai_joint2/chan_truoc_phai_joint3
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_phai_joint6/chan_truoc_phai_joint2/chan_truoc_phai_joint3/chan_truoc_phai_joint4
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_phai_joint6/chan_truoc_phai_joint2/chan_truoc_phai_joint3/chan_truoc_phai_joint4/chan_truoc_phai_joint5
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_trai_joint1
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_trai_joint1/chan_truoc_trai_joint2
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_trai_joint1/chan_truoc_trai_joint2/chan_truoc_trai_joint3
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_trai_joint1/chan_truoc_trai_joint2/chan_truoc_trai_joint3/chan_truoc_trai_joint4
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_trai_joint1/chan_truoc_trai_joint2/chan_truoc_trai_joint3/chan_truoc_trai_joint4/chan_truoc_trai_joint5
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/vai
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/vai/de_co
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/vai/de_co/co
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/vai/de_co/co/de_ham
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/vai/de_co/co/de_ham/ham
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/vai/de_co/co/de_ham/ham/ham_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Chet
+      takeName: soi_animation_v9
+      firstFrame: 300
+      lastFrame: 338
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Geo
+        weight: 1
+      - path: Geo/soi
+        weight: 1
+      - path: xuong
+        weight: 1
+      - path: xuong/hong_mastter
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_phai_joint7
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_phai_joint7/chan_sau_phai_joint8
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_phai_joint7/chan_sau_phai_joint8/chan_sau_phai_joint9
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_phai_joint7/chan_sau_phai_joint8/chan_sau_phai_joint9/chan_sau_phai_joint10
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_phai_joint7/chan_sau_phai_joint8/chan_sau_phai_joint9/chan_sau_phai_joint10/chan_sau_phai_joint11
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_trai_joint12
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_trai_joint12/chan_sau_trai_joint8
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_trai_joint12/chan_sau_trai_joint8/chan_sau_trai_joint9
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_trai_joint12/chan_sau_trai_joint8/chan_sau_trai_joint9/chan_sau_trai_joint10
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_trai_joint12/chan_sau_trai_joint8/chan_sau_trai_joint9/chan_sau_trai_joint10/chan_sau_trai_joint11
+        weight: 1
+      - path: xuong/hong_mastter/duoi_joint18
+        weight: 1
+      - path: xuong/hong_mastter/duoi_joint18/duoi_joint19
+        weight: 1
+      - path: xuong/hong_mastter/duoi_joint18/duoi_joint19/duoi_joint20
+        weight: 1
+      - path: xuong/hong_mastter/duoi_joint18/duoi_joint19/duoi_joint20/duoi_joint21
+        weight: 1
+      - path: xuong/hong_mastter/duoi_joint18/duoi_joint19/duoi_joint20/duoi_joint21/duoi_joint22
+        weight: 1
+      - path: xuong/hong_mastter/duoi_joint18/duoi_joint19/duoi_joint20/duoi_joint21/duoi_joint22/duoi_joint23
+        weight: 1
+      - path: xuong/hong_mastter/than
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_phai_joint6
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_phai_joint6/chan_truoc_phai_joint2
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_phai_joint6/chan_truoc_phai_joint2/chan_truoc_phai_joint3
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_phai_joint6/chan_truoc_phai_joint2/chan_truoc_phai_joint3/chan_truoc_phai_joint4
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_phai_joint6/chan_truoc_phai_joint2/chan_truoc_phai_joint3/chan_truoc_phai_joint4/chan_truoc_phai_joint5
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_trai_joint1
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_trai_joint1/chan_truoc_trai_joint2
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_trai_joint1/chan_truoc_trai_joint2/chan_truoc_trai_joint3
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_trai_joint1/chan_truoc_trai_joint2/chan_truoc_trai_joint3/chan_truoc_trai_joint4
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_trai_joint1/chan_truoc_trai_joint2/chan_truoc_trai_joint3/chan_truoc_trai_joint4/chan_truoc_trai_joint5
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/vai
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/vai/de_co
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/vai/de_co/co
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/vai/de_co/co/de_ham
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/vai/de_co/co/de_ham/ham
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/vai/de_co/co/de_ham/ham/ham_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bithuong
+      takeName: soi_animation_v9
+      firstFrame: 240
+      lastFrame: 272
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Geo
+        weight: 1
+      - path: Geo/soi
+        weight: 1
+      - path: xuong
+        weight: 1
+      - path: xuong/hong_mastter
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_phai_joint7
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_phai_joint7/chan_sau_phai_joint8
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_phai_joint7/chan_sau_phai_joint8/chan_sau_phai_joint9
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_phai_joint7/chan_sau_phai_joint8/chan_sau_phai_joint9/chan_sau_phai_joint10
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_phai_joint7/chan_sau_phai_joint8/chan_sau_phai_joint9/chan_sau_phai_joint10/chan_sau_phai_joint11
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_trai_joint12
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_trai_joint12/chan_sau_trai_joint8
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_trai_joint12/chan_sau_trai_joint8/chan_sau_trai_joint9
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_trai_joint12/chan_sau_trai_joint8/chan_sau_trai_joint9/chan_sau_trai_joint10
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_trai_joint12/chan_sau_trai_joint8/chan_sau_trai_joint9/chan_sau_trai_joint10/chan_sau_trai_joint11
+        weight: 1
+      - path: xuong/hong_mastter/duoi_joint18
+        weight: 1
+      - path: xuong/hong_mastter/duoi_joint18/duoi_joint19
+        weight: 1
+      - path: xuong/hong_mastter/duoi_joint18/duoi_joint19/duoi_joint20
+        weight: 1
+      - path: xuong/hong_mastter/duoi_joint18/duoi_joint19/duoi_joint20/duoi_joint21
+        weight: 1
+      - path: xuong/hong_mastter/duoi_joint18/duoi_joint19/duoi_joint20/duoi_joint21/duoi_joint22
+        weight: 1
+      - path: xuong/hong_mastter/duoi_joint18/duoi_joint19/duoi_joint20/duoi_joint21/duoi_joint22/duoi_joint23
+        weight: 1
+      - path: xuong/hong_mastter/than
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_phai_joint6
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_phai_joint6/chan_truoc_phai_joint2
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_phai_joint6/chan_truoc_phai_joint2/chan_truoc_phai_joint3
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_phai_joint6/chan_truoc_phai_joint2/chan_truoc_phai_joint3/chan_truoc_phai_joint4
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_phai_joint6/chan_truoc_phai_joint2/chan_truoc_phai_joint3/chan_truoc_phai_joint4/chan_truoc_phai_joint5
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_trai_joint1
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_trai_joint1/chan_truoc_trai_joint2
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_trai_joint1/chan_truoc_trai_joint2/chan_truoc_trai_joint3
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_trai_joint1/chan_truoc_trai_joint2/chan_truoc_trai_joint3/chan_truoc_trai_joint4
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_trai_joint1/chan_truoc_trai_joint2/chan_truoc_trai_joint3/chan_truoc_trai_joint4/chan_truoc_trai_joint5
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/vai
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/vai/de_co
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/vai/de_co/co
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/vai/de_co/co/de_ham
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/vai/de_co/co/de_ham/ham
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/vai/de_co/co/de_ham/ham/ham_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Dicham
+      takeName: soi_animation_v9
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Geo
+        weight: 1
+      - path: Geo/soi
+        weight: 1
+      - path: xuong
+        weight: 1
+      - path: xuong/hong_mastter
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_phai_joint7
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_phai_joint7/chan_sau_phai_joint8
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_phai_joint7/chan_sau_phai_joint8/chan_sau_phai_joint9
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_phai_joint7/chan_sau_phai_joint8/chan_sau_phai_joint9/chan_sau_phai_joint10
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_phai_joint7/chan_sau_phai_joint8/chan_sau_phai_joint9/chan_sau_phai_joint10/chan_sau_phai_joint11
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_trai_joint12
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_trai_joint12/chan_sau_trai_joint8
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_trai_joint12/chan_sau_trai_joint8/chan_sau_trai_joint9
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_trai_joint12/chan_sau_trai_joint8/chan_sau_trai_joint9/chan_sau_trai_joint10
+        weight: 1
+      - path: xuong/hong_mastter/chan_sau_trai_joint12/chan_sau_trai_joint8/chan_sau_trai_joint9/chan_sau_trai_joint10/chan_sau_trai_joint11
+        weight: 1
+      - path: xuong/hong_mastter/duoi_joint18
+        weight: 1
+      - path: xuong/hong_mastter/duoi_joint18/duoi_joint19
+        weight: 1
+      - path: xuong/hong_mastter/duoi_joint18/duoi_joint19/duoi_joint20
+        weight: 1
+      - path: xuong/hong_mastter/duoi_joint18/duoi_joint19/duoi_joint20/duoi_joint21
+        weight: 1
+      - path: xuong/hong_mastter/duoi_joint18/duoi_joint19/duoi_joint20/duoi_joint21/duoi_joint22
+        weight: 1
+      - path: xuong/hong_mastter/duoi_joint18/duoi_joint19/duoi_joint20/duoi_joint21/duoi_joint22/duoi_joint23
+        weight: 1
+      - path: xuong/hong_mastter/than
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_phai_joint6
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_phai_joint6/chan_truoc_phai_joint2
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_phai_joint6/chan_truoc_phai_joint2/chan_truoc_phai_joint3
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_phai_joint6/chan_truoc_phai_joint2/chan_truoc_phai_joint3/chan_truoc_phai_joint4
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_phai_joint6/chan_truoc_phai_joint2/chan_truoc_phai_joint3/chan_truoc_phai_joint4/chan_truoc_phai_joint5
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_trai_joint1
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_trai_joint1/chan_truoc_trai_joint2
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_trai_joint1/chan_truoc_trai_joint2/chan_truoc_trai_joint3
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_trai_joint1/chan_truoc_trai_joint2/chan_truoc_trai_joint3/chan_truoc_trai_joint4
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/chan_truoc_trai_joint1/chan_truoc_trai_joint2/chan_truoc_trai_joint3/chan_truoc_trai_joint4/chan_truoc_trai_joint5
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/vai
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/vai/de_co
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/vai/de_co/co
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/vai/de_co/co/de_ham
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/vai/de_co/co/de_ham/ham
+        weight: 1
+      - path: xuong/hong_mastter/than/than_2/than_3/vai/de_co/co/de_ham/ham/ham_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
